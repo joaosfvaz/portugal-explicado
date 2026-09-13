@@ -41,6 +41,10 @@ npm run import              # all three
 
 `.github/workflows/import-data.yml` runs the imports every day and commits the changed snapshots.
 
+## Deploy
+
+The site is a static export (`output: "export"`) served from GitHub Pages at https://joaosfvaz.github.io/portugal-explicado/. `npm run build` writes it to `out/`. `.github/workflows/deploy.yml` builds and publishes on every push to `main` and after each successful data import. The base path is set in `src/lib/site.ts`; `next/link` adds it, plain URLs must use `BASE_PATH`. Search (`/pesquisa`) and the initiative filters (`/parlamento/iniciativas`) read the query string and run in the browser.
+
 ## Checks
 
 ```bash
