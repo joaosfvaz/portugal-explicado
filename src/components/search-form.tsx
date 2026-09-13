@@ -1,7 +1,8 @@
+import Form from "next/form";
 import { MagnifyingGlass } from "@phosphor-icons/react/dist/ssr";
 
 /**
- * Search box that opens /pesquisa. A plain form, so it works before the page's JavaScript loads.
+ * Search box that opens /pesquisa. It works as a plain form before the page's JavaScript loads.
  * `size="lg"` is the big box on the home page and the search page.
  */
 export function SearchForm({
@@ -19,7 +20,7 @@ export function SearchForm({
 }) {
   const lg = size === "lg";
   return (
-    <form action="/pesquisa" method="get" role="search" className={`flex w-full ${className}`}>
+    <Form action="/pesquisa" role="search" className={`flex w-full ${className}`}>
       <label htmlFor={id} className="sr-only">
         Pesquisar no site
       </label>
@@ -40,6 +41,6 @@ export function SearchForm({
       <button type="submit" className={`pressable shrink-0 rounded-r-sm bg-accent font-medium text-on-accent ${lg ? "h-14 px-6 text-lg" : "h-9 px-3 text-sm"}`}>
         Pesquisar
       </button>
-    </form>
+    </Form>
   );
 }

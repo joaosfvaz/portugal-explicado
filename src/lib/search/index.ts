@@ -1,4 +1,3 @@
-import { cache } from "react";
 import { PAGES } from "@/content/paginas";
 import { GUIDES } from "@/content/vida";
 import { INSTITUTIONS } from "@/content/estado";
@@ -38,8 +37,8 @@ const INDICATOR_KEYWORDS: Record<string, string[]> = {
   "saldo-orcamental": ["defice", "excedente", "contas publicas"],
 };
 
-/** Every searchable thing on the site. Built once per server process. */
-export const searchIndex = cache(() => {
+/** Every searchable thing on the site, as plain data. Built at build time and sent to the search page. */
+export function searchDocs(): SearchDoc[] {
   const today = new Date().toISOString().slice(0, 10);
   const docs: SearchDoc[] = [];
 
@@ -74,5 +73,7 @@ export const searchIndex = cache(() => {
     docs.push({ href: `/estado/municipios/${m.slug}`, title: m.name, summary: m.district.startsWith("Região") ? `Concelho da ${m.district}.` : `Concelho do distrito: ${m.district}.`, kind: "municipio", section: "O meu município" });
   }
 
-  return prepare(docs);
-});
+  return docs;
+}
+
+export const searchIndex = () => prepare(searchDocs());
