@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Badge } from "@/components/ui";
 import { formatDate } from "@/lib/format";
 import { progressLabel } from "@/lib/parlamento/explain";
+import type { InitiativeListItem } from "@/lib/parlamento/filters";
 import { STATUS_LABEL, type InitiativeStatus, type InitiativeSummary, type ParlamentoMeta } from "@/lib/parlamento/types";
 
 const STATUS_TONE: Record<InitiativeStatus, "neutral" | "good" | "warn" | "bad"> = {
@@ -24,7 +25,7 @@ export function authorLabel(i: Pick<InitiativeSummary, "authors" | "authorPartie
   return i.authors.map((a) => a.name).join(", ") || "Autor não indicado";
 }
 
-export function InitiativeRow({ i }: { i: InitiativeSummary }) {
+export function InitiativeRow({ i }: { i: InitiativeListItem }) {
   return (
     <li>
       <Link href={`/parlamento/iniciativas/${i.id}`} className="group grid gap-2 px-5 py-4 transition-colors hover:bg-sunken sm:grid-cols-[1fr_auto] sm:gap-6">
