@@ -4,14 +4,13 @@ import { RssSimple } from "@phosphor-icons/react/dist/ssr";
 import { Container, PageHeader } from "@/components/ui";
 import { formatDate } from "@/lib/format";
 import { recentChanges, type FeedItem } from "@/lib/o-que-mudou";
+import { BASE_PATH } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "O que mudou",
   description: "As leis publicadas sobre temas do dia a dia, os novos números oficiais e as mudanças de regras dos últimos dois meses.",
   alternates: { types: { "application/rss+xml": "/o-que-mudou/rss.xml" } },
 };
-
-export const revalidate = 3600;
 
 const KIND: Record<FeedItem["kind"], string> = {
   regra: "Regra nova",
@@ -32,7 +31,7 @@ export default function OQueMudouPage() {
   return (
     <>
       <PageHeader title="O que mudou" lead="O que mudou nos últimos dois meses, em poucas linhas: regras novas, leis publicadas, números atualizados e páginas novas.">
-        <a href="/o-que-mudou/rss.xml" className="mt-5 mr-3 inline-flex items-center gap-1.5 rounded-sm border border-line bg-surface px-3 py-1.5 text-sm font-medium hover:border-accent">
+        <a href={`${BASE_PATH}/o-que-mudou/rss.xml`} className="mt-5 mr-3 inline-flex items-center gap-1.5 rounded-sm border border-line bg-surface px-3 py-1.5 text-sm font-medium hover:border-accent">
           <RssSimple className="h-4 w-4" aria-hidden /> Seguir por RSS
         </a>
       </PageHeader>

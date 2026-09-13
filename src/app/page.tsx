@@ -16,9 +16,6 @@ import { eur, formatDate, num, pct } from "@/lib/format";
 import { getInitiatives, getMeta } from "@/lib/parlamento/data";
 import { availableTaxYears, getTaxYear } from "@/lib/tax/data";
 
-export const revalidate = 3600;
-
-
 /** The questions people come with, in their words, each going straight to the page that answers it. */
 const TASKS = [
   { href: "/trabalho/salario-liquido", title: "Quanto vou receber de salário?" },

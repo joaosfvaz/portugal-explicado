@@ -10,7 +10,6 @@ export const metadata: Metadata = {
 };
 
 // The list hides past dates, so rebuild the page once a day.
-export const revalidate = 86400;
 
 export default function PrazosPage() {
   const today = new Date().toISOString().slice(0, 10);

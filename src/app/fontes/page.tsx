@@ -12,8 +12,6 @@ import { ABONO_2026, DESEMPREGO_2026 } from "@/lib/beneficios/rules-2026";
 
 const uniq = <T extends { url: string }>(list: T[]) => [...new Map(list.map((x) => [x.url, x])).values()];
 
-export const revalidate = 3600;
-
 export const metadata: Metadata = {
   title: "Fontes",
   description: "Todas as fontes oficiais usadas, com a data de verificação ou de importação.",

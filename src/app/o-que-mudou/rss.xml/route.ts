@@ -1,11 +1,13 @@
 import { recentChanges } from "@/lib/o-que-mudou";
+import { SITE_URL } from "@/lib/site";
 
-export const revalidate = 3600;
+// Written once at build time into the static export.
+export const dynamic = "force-static";
 
 const escape = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-export function GET(request: Request) {
-  const origin = new URL(request.url).origin;
+export function GET() {
+  const origin = SITE_URL;
   const absolute = (href: string) => (href.startsWith("http") ? href : `${origin}${href}`);
   const items = recentChanges(60)
     .map(
@@ -22,7 +24,7 @@ export function GET(request: Request) {
 <rss version="2.0">
   <channel>
     <title>Portugal Explicado: o que mudou</title>
-    <link>${origin}/o-que-mudou</link>
+    <link>${origin}/o-que-mudou/</link>
     <description>Regras novas, leis publicadas e números oficiais atualizados, em linguagem simples.</description>
     <language>pt-PT</language>
 ${items}

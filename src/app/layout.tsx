@@ -5,6 +5,7 @@ import { SectionTabs } from "@/components/shell/section-tabs";
 import { SidebarNav } from "@/components/shell/sidebar";
 import { TopBar } from "@/components/shell/top-bar";
 import { SiteFooter } from "@/components/site-footer";
+import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -24,6 +25,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "Portugal Explicado",
     template: "%s · Portugal Explicado",

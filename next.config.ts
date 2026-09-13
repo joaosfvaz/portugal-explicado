@@ -1,10 +1,12 @@
 import type { NextConfig } from "next";
+import { BASE_PATH } from "./src/lib/site";
 
 const nextConfig: NextConfig = {
-  // Pages read tax files and data snapshots from disk at request time.
-  outputFileTracingIncludes: {
-    "/*": ["./data/tax/**/*.json", "./data/snapshots/**/*.json"],
-  },
+  // Static HTML in out/, published on GitHub Pages. Pages read tax files and data snapshots at build time.
+  output: "export",
+  basePath: BASE_PATH,
+  trailingSlash: true,
+  images: { unoptimized: true },
 };
 
 export default nextConfig;

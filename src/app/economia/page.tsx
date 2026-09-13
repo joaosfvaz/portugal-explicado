@@ -9,8 +9,6 @@ import { CONTEXT, contextSentences, everydaySentence } from "@/lib/economia/cont
 import { pointAgo } from "@/lib/economia/stats";
 import { formatDate } from "@/lib/format";
 
-export const revalidate = 3600;
-
 export const metadata: Metadata = {
   title: "Economia",
   description: "PIB, inflação, combustíveis, desemprego, dívida pública, salários e habitação em Portugal, com histórico e comparação com Espanha e a UE.",

@@ -12,8 +12,6 @@ import { extremes, pointAgo } from "@/lib/economia/stats";
 import { formatDate } from "@/lib/format";
 import { Glossed } from "@/components/glossary/glossed";
 
-export const revalidate = 3600;
-
 export function generateStaticParams() {
   return INDICATORS.map((i) => ({ slug: i.slug }));
 }

@@ -6,8 +6,6 @@ import { Container, EmptyState, PageHeader, SourceList } from "@/components/ui";
 import { formatDate, num } from "@/lib/format";
 import { getDrActs, getInitiatives, getMeta } from "@/lib/parlamento/data";
 
-export const revalidate = 3600;
-
 export const metadata: Metadata = {
   title: "Parlamento",
   description: "O que a Assembleia da República discute, aprova e rejeita, com o histórico de cada iniciativa e os votos por partido.",

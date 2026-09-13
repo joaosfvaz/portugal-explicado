@@ -4,8 +4,6 @@ import { Container, EmptyState, PageHeader, SourceList } from "@/components/ui";
 import { formatDate } from "@/lib/format";
 import { getApprovedActs, getDrActs } from "@/lib/parlamento/data";
 
-export const revalidate = 3600;
-
 export const metadata: Metadata = {
   title: "Leis publicadas (Diário da República)",
   description: "Leis, decretos-lei, portarias e resoluções publicados na 1.ª série do Diário da República, com o sumário oficial.",

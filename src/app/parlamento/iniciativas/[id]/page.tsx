@@ -11,7 +11,11 @@ import { explainStatus, isMajorEvent, nextStep, phaseInfo, stageReached, stagesF
 import { Glossed } from "@/components/glossary/glossed";
 import type { InitiativeDetail, InitiativeEvent, RelatedInitiative } from "@/lib/parlamento/types";
 
-export const revalidate = 3600;
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return getInitiatives().map((i) => ({ id: i.id }));
+}
 
 export async function generateMetadata({ params }: PageProps<"/parlamento/iniciativas/[id]">): Promise<Metadata> {
   const { id } = await params;

@@ -5,8 +5,6 @@ import { Container, EmptyState, PageHeader, SourceList } from "@/components/ui";
 import { num, pct } from "@/lib/format";
 import { getDeputies, getMeta } from "@/lib/parlamento/data";
 
-export const revalidate = 3600;
-
 export const metadata: Metadata = {
   title: "Partidos e deputados",
   description: "Composição da Assembleia da República, iniciativas de cada partido e deputados por círculo eleitoral.",
