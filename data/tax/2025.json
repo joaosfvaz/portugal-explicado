@@ -1,0 +1,88 @@
+{
+  "year": 2025,
+  "region": "continente",
+  "ias": {
+    "value": 522.5,
+    "legalBasis": "Portaria n.º 6-B/2025/1, de 6 de janeiro",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/Folheto_IRS_jovem_2025.pdf",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "minimumWageMonthly": {
+    "value": 870,
+    "legalBasis": "Decreto-Lei n.º 112/2024",
+    "sourceUrl": "https://files.diariodarepublica.pt/2s/2026/01/003000001/0000200010.pdf",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "irsBrackets": {
+    "value": [
+      { "upTo": 8059, "rate": 0.125, "avgRateAtTop": 0.125 },
+      { "upTo": 12160, "rate": 0.16, "avgRateAtTop": 0.1368 },
+      { "upTo": 17233, "rate": 0.215, "avgRateAtTop": 0.15982 },
+      { "upTo": 22306, "rate": 0.244, "avgRateAtTop": 0.17897 },
+      { "upTo": 28400, "rate": 0.314, "avgRateAtTop": 0.20794 },
+      { "upTo": 41629, "rate": 0.349, "avgRateAtTop": 0.25277 },
+      { "upTo": 44987, "rate": 0.431, "avgRateAtTop": 0.26607 },
+      { "upTo": 83696, "rate": 0.446, "avgRateAtTop": 0.34929 },
+      { "upTo": null, "rate": 0.48 }
+    ],
+    "legalBasis": "Art. 68.º do CIRS, na redação da Lei n.º 55-A/2025, de 22 de julho, art. 2.º",
+    "sourceUrl": "https://files.diariodarepublica.pt/1s/2025/07/13901/0000200003.pdf",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "solidaritySurcharge": {
+    "value": [
+      { "from": 80000, "upTo": 250000, "rate": 0.025 },
+      { "from": 250000, "upTo": null, "rate": 0.05 }
+    ],
+    "legalBasis": "Art. 68.º-A do CIRS",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs68a.aspx",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "minimoExistencia": {
+    "value": 12180,
+    "legalBasis": "Art. 70.º do CIRS, na redação da Lei n.º 45-A/2024, de 31 de dezembro",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Lei_45_A_2024.pdf",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "deducaoEspecificaCatA": {
+    "value": 4462.15,
+    "formula": "8,54 × IAS",
+    "legalBasis": "Art. 25.º, n.º 1, alínea a) do CIRS (8,54 × IAS)",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs25.aspx",
+    "verifiedOn": "2026-09-12",
+    "verification": "derived"
+  },
+  "irsJovem": {
+    "value": {
+      "maxAge": 35,
+      "exemptionByIncomeYear": [1, 0.75, 0.75, 0.75, 0.5, 0.5, 0.5, 0.25, 0.25, 0.25],
+      "capIasMultiple": 55,
+      "cap": 28737.5,
+      "monthlyWithholdingCap": 2052.68,
+      "categories": ["A", "B"]
+    },
+    "legalBasis": "Art. 12.º-B do CIRS, na redação da Lei n.º 45-A/2024, de 31 de dezembro. Folheto IRS Jovem 2025 da AT.",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/Folheto_IRS_jovem_2025.pdf",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "socialSecurity": {
+    "value": {
+      "employeeRate": 0.11,
+      "employerRate": 0.2375,
+      "selfEmployedRate": 0.214,
+      "selfEmployedRelevantIncomeServices": 0.7,
+      "selfEmployedRelevantIncomeGoods": 0.2
+    },
+    "legalBasis": "Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social",
+    "sourceUrl": "https://sisscontent.seg-social.pt/documents/10152/14965/1009+Trabalhador+independente+-+novo+regime/87b6e00c-523d-4718-8a88-942ea804c18a",
+    "verifiedOn": "2026-09-12",
+    "verification": "secondary",
+    "note": "Taxas de trabalhador independente confirmadas no guia oficial do ISS. As taxas de trabalhador por conta de outrem (11 % e 23,75 %) ainda aguardam confirmação numa fonte primária."
+  }
+}

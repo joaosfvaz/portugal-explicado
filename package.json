@@ -1,0 +1,37 @@
+{
+  "name": "portugal-explicado",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "import:parlamento": "NODE_OPTIONS=--max-old-space-size=4096 tsx scripts/import-parlamento.ts",
+    "test": "vitest run",
+    "import:dr": "tsx scripts/import-dr.ts",
+    "import:economia": "tsx scripts/import-economia.ts",
+    "import:municipios": "tsx scripts/import-municipios.ts",
+    "import": "npm run import:parlamento && npm run import:dr && npm run import:economia"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "fflate": "^0.8.3",
+    "next": "16.3.5",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "zod": "^4.6.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^22.20.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.5",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.13",
+    "typescript": "^5",
+    "vitest": "^5.0.0"
+  }
+}

@@ -1,0 +1,182 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f3f4f1;
+  --surface: #fcfcfb;
+  --sunken: #eceee9;
+  --foreground: #16213d;
+  --muted: #4a5470;
+  --line: #d9dce3;
+  --accent: #1b3d8f;
+  --accent-strong: #122b69;
+  --accent-soft: #e4e9f4;
+  --on-accent: #fcfcfb;
+  --warn: #8a5300;
+  --warn-soft: #f6eedd;
+  --danger: #9a2a2a;
+  --danger-soft: #f5e3e1;
+  --tile-wash: #d5deef;
+  --tile-grout: #c9d0de;
+
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0c1222;
+    --surface: #131a2e;
+    --sunken: #182038;
+    --foreground: #e6e9f0;
+    --muted: #aab3c7;
+    --line: #273150;
+    --accent: #94b1f5;
+    --accent-strong: #bccdf8;
+    --accent-soft: #1b2748;
+    --on-accent: #0c1222;
+    --warn: #f0b458;
+    --warn-soft: #30240e;
+    --danger: #f0928c;
+    --danger-soft: #3a1c1c;
+    --tile-wash: #22305a;
+    --tile-grout: #273150;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-sunken: var(--sunken);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-soft: var(--accent-soft);
+  --color-on-accent: var(--on-accent);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-eb-garamond);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-feature-settings: "ss01", "tnum" 0;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Pressable elements confirm the press. No animation on keyboard focus. */
+.pressable {
+  transition:
+    transform 140ms var(--ease-out),
+    background-color 160ms ease,
+    border-color 160ms ease,
+    color 160ms ease;
+}
+.pressable:active {
+  transform: scale(0.97);
+}
+
+/* Results that change while typing: a short fade, never a movement. */
+.result-enter {
+  animation: result-in 220ms var(--ease-out);
+}
+@keyframes result-in {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pressable,
+  .pressable:active {
+    transform: none;
+    transition: background-color 160ms ease;
+  }
+  .result-enter {
+    animation: none;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Mobile menu drawer. Transform only; the curve settles like a native sheet. */
+.drawer {
+  transition: transform 260ms cubic-bezier(0.32, 0.72, 0, 1);
+}
+@media (prefers-reduced-motion: reduce) {
+  .drawer {
+    transition: none;
+  }
+}
+
+
+/* Forced palettes for previews on /marca (light and dark side by side). */
+.marca-dia {
+  --background: #f3f4f1;
+  --surface: #fcfcfb;
+  --sunken: #eceee9;
+  --foreground: #16213d;
+  --muted: #4a5470;
+  --line: #d9dce3;
+  --accent: #1b3d8f;
+  --accent-strong: #122b69;
+  --accent-soft: #e4e9f4;
+  --on-accent: #fcfcfb;
+  --warn: #8a5300;
+  --warn-soft: #f6eedd;
+  --danger: #9a2a2a;
+  --danger-soft: #f5e3e1;
+  --tile-wash: #d5deef;
+  --tile-grout: #c9d0de;
+  background: var(--background);
+  color: var(--foreground);
+}
+.marca-noite {
+  --background: #0c1222;
+  --surface: #131a2e;
+  --sunken: #182038;
+  --foreground: #e6e9f0;
+  --muted: #aab3c7;
+  --line: #273150;
+  --accent: #94b1f5;
+  --accent-strong: #bccdf8;
+  --accent-soft: #1b2748;
+  --on-accent: #0c1222;
+  --warn: #f0b458;
+  --warn-soft: #30240e;
+  --danger: #f0928c;
+  --danger-soft: #3a1c1c;
+  --tile-wash: #22305a;
+  --tile-grout: #273150;
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Classical numerals for display figures: lining and tabular, so values line up. */
+.figures {
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* Text size chosen by the reader (Aa control in the top bar). Every size in the app uses rem, so it all scales. */
+html[data-text="grande"] {
+  font-size: 112.5%;
+}
+html[data-text="maior"] {
+  font-size: 125%;
+}

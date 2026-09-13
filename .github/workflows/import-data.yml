@@ -1,0 +1,40 @@
+name: Import open data
+
+on:
+  schedule:
+    # 06:30 UTC every day, after the Diário da República morning issue
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+
+      # Each import keeps the previous snapshot when a source fails.
+      - name: Diário da República
+        run: npm run import:dr
+      - name: Parlamento
+        run: npm run import:parlamento
+      - name: Economia
+        run: npm run import:economia
+        continue-on-error: true
+
+      - name: Commit changed snapshots
+        run: |
+          git config user.name "data-import-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/snapshots
+          git diff --cached --quiet || git commit -m "Update open data snapshots"
+          git push

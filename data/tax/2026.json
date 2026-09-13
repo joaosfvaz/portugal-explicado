@@ -1,0 +1,88 @@
+{
+  "year": 2026,
+  "region": "continente",
+  "ias": {
+    "value": 537.13,
+    "legalBasis": "Portaria n.º 480-A/2025/1, de 30 de dezembro",
+    "sourceUrl": "https://www.dgaep.gov.pt/index.cfm?OBJID=3E74CF19-DA87-4B8F-81E2-51E0649AAA9F",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "minimumWageMonthly": {
+    "value": 920,
+    "legalBasis": "Decreto-Lei n.º 139/2025",
+    "sourceUrl": "https://files.diariodarepublica.pt/2s/2026/01/003000001/0000200010.pdf",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "irsBrackets": {
+    "value": [
+      { "upTo": 8342, "rate": 0.125, "avgRateAtTop": 0.125 },
+      { "upTo": 12587, "rate": 0.157, "avgRateAtTop": 0.13579 },
+      { "upTo": 17838, "rate": 0.212, "avgRateAtTop": 0.15823 },
+      { "upTo": 23089, "rate": 0.241, "avgRateAtTop": 0.17705 },
+      { "upTo": 29397, "rate": 0.311, "avgRateAtTop": 0.20579 },
+      { "upTo": 43090, "rate": 0.349, "avgRateAtTop": 0.2513 },
+      { "upTo": 46566, "rate": 0.431, "avgRateAtTop": 0.26472 },
+      { "upTo": 86634, "rate": 0.446, "avgRateAtTop": 0.34856 },
+      { "upTo": null, "rate": 0.48 }
+    ],
+    "legalBasis": "Art. 68.º do CIRS, na redação da Lei n.º 73-A/2025, de 30 de dezembro (Orçamento do Estado para 2026), art. 71.º",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs68.aspx",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "solidaritySurcharge": {
+    "value": [
+      { "from": 80000, "upTo": 250000, "rate": 0.025 },
+      { "from": 250000, "upTo": null, "rate": 0.05 }
+    ],
+    "legalBasis": "Art. 68.º-A do CIRS",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs68a.aspx",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "minimoExistencia": {
+    "value": 12880,
+    "legalBasis": "Art. 70.º do CIRS, na redação da Lei n.º 73-A/2025, de 30 de dezembro",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs70.aspx",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "deducaoEspecificaCatA": {
+    "value": 4587.09,
+    "formula": "8,54 × IAS",
+    "legalBasis": "Art. 25.º, n.º 1, alínea a) do CIRS (8,54 × IAS)",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs25.aspx",
+    "verifiedOn": "2026-09-12",
+    "verification": "derived"
+  },
+  "irsJovem": {
+    "value": {
+      "maxAge": 35,
+      "exemptionByIncomeYear": [1, 0.75, 0.75, 0.75, 0.5, 0.5, 0.5, 0.25, 0.25, 0.25],
+      "capIasMultiple": 55,
+      "cap": 29542.15,
+      "monthlyWithholdingCap": 2110.15,
+      "categories": ["A", "B"]
+    },
+    "legalBasis": "Art. 12.º-B do CIRS, na redação da Lei n.º 45-A/2024, de 31 de dezembro (sem alterações para 2026). Limite: 55 × IAS de 2026.",
+    "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs12b.aspx",
+    "verifiedOn": "2026-09-12",
+    "verification": "primary"
+  },
+  "socialSecurity": {
+    "value": {
+      "employeeRate": 0.11,
+      "employerRate": 0.2375,
+      "selfEmployedRate": 0.214,
+      "selfEmployedRelevantIncomeServices": 0.7,
+      "selfEmployedRelevantIncomeGoods": 0.2
+    },
+    "legalBasis": "Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social",
+    "sourceUrl": "https://sisscontent.seg-social.pt/documents/10152/14965/1009+Trabalhador+independente+-+novo+regime/87b6e00c-523d-4718-8a88-942ea804c18a",
+    "verifiedOn": "2026-09-12",
+    "verification": "secondary",
+    "note": "Taxas de trabalhador independente confirmadas no guia oficial do ISS. As taxas de trabalhador por conta de outrem (11 % e 23,75 %) ainda aguardam confirmação numa fonte primária."
+  }
+}

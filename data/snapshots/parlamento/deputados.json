@@ -1,0 +1,1842 @@
+[
+  {
+    "id": 15856,
+    "name": "Adriana Rodrigues",
+    "fullName": "Adriana Helena da Silva Rodrigues",
+    "party": "PSD",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16140,
+    "name": "Aida Carvalho",
+    "fullName": "Aida Maria Oliveira Carvalho",
+    "party": "PS",
+    "circle": "Guarda",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16907,
+    "name": "Alberto Fonseca",
+    "fullName": "Alberto Jorge Torres da Silva Fonseca",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16897,
+    "name": "Alberto Machado",
+    "fullName": "Alberto Amaro Guedes Machado",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16571,
+    "name": "Alexandre Poço",
+    "fullName": "Alexandre Damasceno da Silva Poço",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16801,
+    "name": "Alfredo Maia",
+    "fullName": "Manuel Alfredo da Rocha Maia",
+    "party": "PCP",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15857,
+    "name": "Almiro Moreira",
+    "fullName": "Almiro Miguel dos Santos Rodrigues Moreira",
+    "party": "PSD",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17159,
+    "name": "Amílcar Almeida",
+    "fullName": "Amílcar Rodrigues Alves Castro de Almeida",
+    "party": "PSD",
+    "circle": "Vila Real",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16523,
+    "name": "Ana Bernardo",
+    "fullName": "Ana Paula Mata Bernardo",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16892,
+    "name": "Ana Gabriela Cabilhas",
+    "fullName": "Ana Gabriela Oliveira Cabilhas",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16906,
+    "name": "Ana Isabel Ferreira",
+    "fullName": "Ana Isabel Pereira Ferreira",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15762,
+    "name": "Ana Martins",
+    "fullName": "Ana Maria Lourenço Martins",
+    "party": "CH",
+    "circle": "Açores",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 16049,
+    "name": "Ana Oliveira",
+    "fullName": "Ana Elisabete Laborda Oliveira",
+    "party": "PSD",
+    "circle": "Coimbra",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17161,
+    "name": "Ana Silveira",
+    "fullName": "Ana Maria da Silva Silveira",
+    "party": "PSD",
+    "circle": "Vila Real",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 17062,
+    "name": "André Pinotes Batista",
+    "fullName": "André Alexandre Pinotes Batista",
+    "party": "PS",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16524,
+    "name": "André Rijo",
+    "fullName": "André Filipe dos Santos Matos Rijo",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16252,
+    "name": "André Ventura",
+    "fullName": "André Claro Amaral Ventura",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16898,
+    "name": "Andreia Neto",
+    "fullName": "Andreia Carina Machado da Silva Neto",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16307,
+    "name": "Angélique Da Teresa",
+    "fullName": "Angélique Inês Da Teresa",
+    "party": "IL",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15873,
+    "name": "António Carneiro",
+    "fullName": "António Joaquim Abambres Carneiro",
+    "party": "CH",
+    "circle": "Beja",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 17060,
+    "name": "António Mendonça Mendes",
+    "fullName": "António Manuel Veiga dos Santos Mendonça Mendes",
+    "party": "PS",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16578,
+    "name": "António Rodrigues",
+    "fullName": "António Costa Rodrigues",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15791,
+    "name": "Armando Grave",
+    "fullName": "Armando Carlos da Silva Grave",
+    "party": "CH",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17181,
+    "name": "Armando Mourisco",
+    "fullName": "Armando Silva Mourisco",
+    "party": "PS",
+    "circle": "Viseu",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16115,
+    "name": "Bárbara do Amaral Correia",
+    "fullName": "Bárbara Maria do Amaral Correia",
+    "party": "PSD",
+    "circle": "Faro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17169,
+    "name": "Bernardo Pessanha",
+    "fullName": "Bernardo Cappelle Homem Caldeira Pessanha",
+    "party": "CH",
+    "circle": "Viseu",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17200,
+    "name": "Bruno Faria",
+    "fullName": "Bruno Alexandre Pereira Ferreira Faria",
+    "party": "PSD",
+    "circle": "Viseu",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16258,
+    "name": "Bruno Nunes",
+    "fullName": "Bruno Miguel de Oliveira Nunes",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16574,
+    "name": "Bruno Ventura",
+    "fullName": "Bruno Miguel Pedrosa Ventura",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17086,
+    "name": "Bruno Vitorino",
+    "fullName": "Bruno Jorge Viegas Vitorino",
+    "party": "PSD",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16901,
+    "name": "Carla Barros",
+    "fullName": "Carla Maria Gomes Barros",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16065,
+    "name": "Carlos Alberto Gonçalves",
+    "fullName": "Carlos Alberto Silva Gonçalves",
+    "party": "PSD",
+    "circle": "Europa",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15893,
+    "name": "Carlos Barbosa",
+    "fullName": "Carlos Alberto Barbosa Vieira Pinto",
+    "party": "CH",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15964,
+    "name": "Carlos Cação",
+    "fullName": "Carlos Manuel de Brito Cação",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16713,
+    "name": "Carlos Guimarães Pinto",
+    "fullName": "Carlos Manuel Guimarães Oliveira Pinto",
+    "party": "IL",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17064,
+    "name": "Carlos Pereira",
+    "fullName": "Carlos João Pereira",
+    "party": "PS",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17196,
+    "name": "Carlos Silva Santiago",
+    "fullName": "Carlos Silva Santiago",
+    "party": "PSD",
+    "circle": "Viseu",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15859,
+    "name": "Carolina Marques",
+    "fullName": "Carolina Maria Silva Marques",
+    "party": "PSD",
+    "circle": "Aveiro",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16165,
+    "name": "Catarina Louro",
+    "fullName": "Ana Catarina de Moura Louro",
+    "party": "PS",
+    "circle": "Leiria",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16931,
+    "name": "Catarina Salgueiro",
+    "fullName": "Catarina Rita Ferreira Girão Salgueiro da Costa",
+    "party": "CH",
+    "circle": "Santarém",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16184,
+    "name": "Célia Freire",
+    "fullName": "Célia Cristina Martins dos Santos Freire",
+    "party": "PSD",
+    "circle": "Leiria",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 16973,
+    "name": "Cláudia Estêvão",
+    "fullName": "Cláudia Sofia Sebastião Estevão",
+    "party": "CH",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16671,
+    "name": "Cristina Rodrigues",
+    "fullName": "Maria Cristina Pacheco Rodrigues",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16154,
+    "name": "Cristina Vieira Henriques",
+    "fullName": "Cristina Maria Vieira Henriques",
+    "party": "CH",
+    "circle": "Leiria",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16114,
+    "name": "Cristóvão Norte",
+    "fullName": "Cristóvão Duarte Nunes Guerreiro Norte",
+    "party": "PSD",
+    "circle": "Faro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16854,
+    "name": "Dália Miranda",
+    "fullName": "Dália Miranda Lopes Eira",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16972,
+    "name": "Daniel Teixeira",
+    "fullName": "Daniel Madeira Caetano Batista Teixeira",
+    "party": "CH",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16525,
+    "name": "Davide Amado",
+    "fullName": "Davide Miguel Santos Amado",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16670,
+    "name": "Diogo Pacheco de Amorim",
+    "fullName": "Diogo Velez Mouta Pacheco de Amorim",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16146,
+    "name": "Dulcineia Catarina Moura",
+    "fullName": "Dulcineia Catarina Moura de Sousa Coito",
+    "party": "PSD",
+    "circle": "Guarda",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16516,
+    "name": "Edite Estrela",
+    "fullName": "Edite de Fátima Santos Marreiros Estrela",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16853,
+    "name": "Eduardo Pinheiro",
+    "fullName": "Eduardo Nuno Rodrigues e Pinheiro",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17108,
+    "name": "Eduardo Teixeira",
+    "fullName": "Eduardo Alexandre Ribeiro Gonçalves Teixeira",
+    "party": "CH",
+    "circle": "Viana do Castelo",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16021,
+    "name": "Eliseu Neves",
+    "fullName": "Eliseu da Costa Neves",
+    "party": "CH",
+    "circle": "Coimbra",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17180,
+    "name": "Elza Pais",
+    "fullName": "Elza Maria Henriques Deus Pais",
+    "party": "PS",
+    "circle": "Viseu",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16632,
+    "name": "Emanuel Câmara",
+    "fullName": "João Emanuel Silva Câmara",
+    "party": "PS",
+    "circle": "Madeira",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15963,
+    "name": "Emídio Guerreiro",
+    "fullName": "Emídio Guerreiro",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16164,
+    "name": "Eurico Brilhante Dias",
+    "fullName": "Eurico Jorge Nogueira Leite Brilhante Dias",
+    "party": "PS",
+    "circle": "Leiria",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17061,
+    "name": "Eurídice Pereira",
+    "fullName": "Eurídice Maria de Sousa Pereira",
+    "party": "PS",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16581,
+    "name": "Eva Brás Pinho",
+    "fullName": "Eva Luna Brás Pinho",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16521,
+    "name": "Eva Cruzeiro",
+    "fullName": "Eva Marise Cruzeiro Alexandre",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16195,
+    "name": "Fabian Figueiredo",
+    "fullName": "Fabian Filipe Figueiredo",
+    "party": "BE",
+    "circle": "Lisboa",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 16257,
+    "name": "Felicidade Vital",
+    "fullName": "Felicidade Maria da Silva Santos Vital de Alcântara",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17160,
+    "name": "Fernando Queiroga",
+    "fullName": "Fernando Eirão Queiroga",
+    "party": "PSD",
+    "circle": "Vila Real",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16759,
+    "name": "Filipa Pinto",
+    "fullName": "Filipa Maria Gonçalves Pinto",
+    "party": "L",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15890,
+    "name": "Filipe Melo",
+    "fullName": "António Filipe Dias Melo Peixoto",
+    "party": "CH",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15833,
+    "name": "Filipe Neto Brandão",
+    "fullName": "Carlos Filipe de Andrade Neto Brandão",
+    "party": "PS",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16621,
+    "name": "Filipe Sousa",
+    "fullName": "Filipe Martiniano Martins de Sousa",
+    "party": "JPP",
+    "circle": "Madeira",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15861,
+    "name": "Firmino Ferreira",
+    "fullName": "Firmino Marques Ferreira",
+    "party": "PSD",
+    "circle": "Aveiro",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15769,
+    "name": "Francisco César",
+    "fullName": "Francisco Miguel Vital Gomes do Vale César",
+    "party": "PS",
+    "circle": "Açores",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16900,
+    "name": "Francisco Covelinhas Lopes",
+    "fullName": "Francisco Sérgio Covelinhas Lopes",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16079,
+    "name": "Francisco Figueira",
+    "fullName": "Francisco Maria Gonçalves Lopes Figueira",
+    "party": "PSD",
+    "circle": "Évora",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16611,
+    "name": "Francisco Gomes",
+    "fullName": "Francisco Manuel de Freitas Gomes",
+    "party": "CH",
+    "circle": "Madeira",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16583,
+    "name": "Francisco José Martins",
+    "fullName": "Francisco José Fernandes Martins",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15780,
+    "name": "Francisco Pimentel",
+    "fullName": "Francisco José Duarte Pimentel",
+    "party": "PSD",
+    "circle": "Açores",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16902,
+    "name": "Francisco Sousa Vieira",
+    "fullName": "Francisco José de Sousa Vieira",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16517,
+    "name": "Frederico Francisco",
+    "fullName": "Frederico André Branco dos Reis Francisco",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16895,
+    "name": "Germana Rocha",
+    "fullName": "Maria Germana de Sousa Rocha",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16905,
+    "name": "Gonçalo Dinis Capitão",
+    "fullName": "Gonçalo Dinis Quaresma Sousa Capitão",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16580,
+    "name": "Gonçalo Lage",
+    "fullName": "Gonçalo Oliveira Lage",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 15884,
+    "name": "Gonçalo Valente",
+    "fullName": "Gonçalo Nuno Raio Valente e Henrique",
+    "party": "PSD",
+    "circle": "Beja",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15862,
+    "name": "Helga Correia",
+    "fullName": "Helga Alexandra Freire Correia",
+    "party": "PSD",
+    "circle": "Aveiro",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15990,
+    "name": "Hernâni Dias",
+    "fullName": "Hernâni Dinis Venâncio Dias",
+    "party": "PSD",
+    "circle": "Bragança",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15943,
+    "name": "Hernâni Loureiro",
+    "fullName": "Hernâni Vítor Ferreira Loureiro",
+    "party": "PS",
+    "circle": "Braga",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 16899,
+    "name": "Hugo Carneiro",
+    "fullName": "Hugo Miguel de Sousa Carneiro",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16942,
+    "name": "Hugo Costa",
+    "fullName": "Hugo Miguel Carvalheiro dos Santos Costa",
+    "party": "PS",
+    "circle": "Santarém",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15832,
+    "name": "Hugo Oliveira",
+    "fullName": "Hugo Daniel Matos de Oliveira",
+    "party": "PS",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16180,
+    "name": "Hugo Patrício Oliveira",
+    "fullName": "Hugo Patrício Martinho de Oliveira",
+    "party": "PSD",
+    "circle": "Leiria",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15960,
+    "name": "Hugo Soares",
+    "fullName": "Hugo Alexandre Lopes Soares",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16855,
+    "name": "Humberto Brito",
+    "fullName": "Humberto Fernando Leão Pacheco de Brito",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16677,
+    "name": "Idalina Durães",
+    "fullName": "Idalina Maria Moreira Durães",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16959,
+    "name": "Inês Barroso",
+    "fullName": "Maria Inês Leiria Barroso",
+    "party": "PSD",
+    "circle": "Santarém",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16408,
+    "name": "Inês de Sousa Real",
+    "fullName": "Paula Inês Alves de Sousa Real",
+    "party": "PAN",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15942,
+    "name": "Irene Costa",
+    "fullName": "Irene Manuela Ferreira da Costa",
+    "party": "PS",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16519,
+    "name": "Isabel Alves Moreira",
+    "fullName": "Isabel de Lima Mayer Alves Moreira",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17198,
+    "name": "Isabel Fernandes",
+    "fullName": "Isabel Cristina Bento Fernandes",
+    "party": "PSD",
+    "circle": "Viseu",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16359,
+    "name": "Isabel Mendes Lopes",
+    "fullName": "Isabel Rendeiro Marques Mendes Lopes",
+    "party": "L",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16957,
+    "name": "Isaura Morais",
+    "fullName": "Isaura Maria Elias Crisóstomo Bernardino Morais",
+    "party": "PSD",
+    "circle": "Santarém",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16991,
+    "name": "Joana Cordeiro",
+    "fullName": "Joana Rita Madaleno Cordeiro",
+    "party": "IL",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16852,
+    "name": "Joana Lima",
+    "fullName": "Joana Fernanda Ferreira de Lima",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16051,
+    "name": "Joana Seabra",
+    "fullName": "Joana Inês de Jesus Seabra Malta",
+    "party": "PSD",
+    "circle": "Coimbra",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16182,
+    "name": "João Antunes dos Santos",
+    "fullName": "João Paulo Antunes dos Santos",
+    "party": "PSD",
+    "circle": "Leiria",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16654,
+    "name": "João Lopes Aleixo",
+    "fullName": "João Ferreira Lopes Aleixo",
+    "party": "CH",
+    "circle": "Portalegre",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16086,
+    "name": "João Paulo Graça",
+    "fullName": "João Paulo da Silva Graça",
+    "party": "CH",
+    "circle": "Faro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16575,
+    "name": "João Pedro Louro",
+    "fullName": "João Pedro Vila Viçosa Louro",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16664,
+    "name": "João Pinho de Almeida",
+    "fullName": "João Rodrigo Pinho de Almeida",
+    "party": "CDS-PP",
+    "circle": "Porto",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15996,
+    "name": "João Ribeiro",
+    "fullName": "João Filipe Dias Ribeiro",
+    "party": "CH",
+    "circle": "Castelo Branco",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17168,
+    "name": "João Tilly",
+    "fullName": "João José Rodrigues Tilly",
+    "party": "CH",
+    "circle": "Viseu",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16848,
+    "name": "João Torres",
+    "fullName": "João Veloso da Silva Torres",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15966,
+    "name": "Joaquim Barbosa",
+    "fullName": "Manuel Joaquim da Silva Pinto Barbosa",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16068,
+    "name": "Jorge Galveias",
+    "fullName": "Jorge Manuel de Valsassina Galveias Rodrigues",
+    "party": "CH",
+    "circle": "Évora",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16308,
+    "name": "Jorge Miguel Teixeira",
+    "fullName": "Jorge Miguel Esteves Teixeira",
+    "party": "IL",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16758,
+    "name": "Jorge Pinto",
+    "fullName": "Eduardo Jorge Costa Pinto",
+    "party": "L",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16259,
+    "name": "José Barreira Soares",
+    "fullName": "José Manuel Pombinho Barreira Soares",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16856,
+    "name": "José Carlos Barbosa",
+    "fullName": "José Carlos Ribeiro Barbosa",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16672,
+    "name": "José Carvalho",
+    "fullName": "José António Ribeiro de Carvalho",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16131,
+    "name": "José Cesário",
+    "fullName": "José de Almeida Cesário",
+    "party": "PSD",
+    "circle": "Fora da Europa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16060,
+    "name": "José Dias Fernandes",
+    "fullName": "José Dias Fernandes",
+    "party": "CH",
+    "circle": "Europa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16930,
+    "name": "José Dotti",
+    "fullName": "José Frederico Abecassis Dotti",
+    "party": "CH",
+    "circle": "Santarém",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17132,
+    "name": "José Lago Gonçalves",
+    "fullName": "José Carlos do Lago Gonçalves",
+    "party": "PSD",
+    "circle": "Viana do Castelo",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15938,
+    "name": "José Luís Carneiro",
+    "fullName": "José Luís Pereira Carneiro",
+    "party": "PS",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17128,
+    "name": "José Pedro Aguiar-Branco",
+    "fullName": "José Pedro Correia de Aguiar Branco",
+    "party": "PSD",
+    "circle": "Viana do Castelo",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15984,
+    "name": "Júlia Rodrigues",
+    "fullName": "Júlia Maria de Almeida Lima e Sequeira Rodrigues",
+    "party": "PS",
+    "circle": "Bragança",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15969,
+    "name": "Leandro Ferreira Luís",
+    "fullName": "Leandro Ferreira Luís",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16014,
+    "name": "Leonor Cipriano",
+    "fullName": "Leonor Cristina Adriano Lopes Cipriano",
+    "party": "PSD",
+    "circle": "Castelo Branco",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 16586,
+    "name": "Liliana Fidalgo",
+    "fullName": "Liliana Fidalgo Dias",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16185,
+    "name": "Liliana Sousa",
+    "fullName": "Liliana Batista de Sousa",
+    "party": "PSD",
+    "circle": "Leiria",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15894,
+    "name": "Lina Pinheiro",
+    "fullName": "Lina Raquel Maia Pinheiro",
+    "party": "CH",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16073,
+    "name": "Luís Dias",
+    "fullName": "Luís Carlos Piteira Dias",
+    "party": "PS",
+    "circle": "Évora",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16101,
+    "name": "Luís Graça",
+    "fullName": "Luís Miguel da Graça Nunes",
+    "party": "PS",
+    "circle": "Faro",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 16658,
+    "name": "Luís Moreira Testa",
+    "fullName": "Luís David Trindade de Moreira Testa",
+    "party": "PS",
+    "circle": "Portalegre",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16153,
+    "name": "Luís Paulo Fernandes",
+    "fullName": "Luís Paulo Pereira Fernandes",
+    "party": "CH",
+    "circle": "Leiria",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16261,
+    "name": "Madalena Cordeiro",
+    "fullName": "Madalena Simões Cordeiro",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16127,
+    "name": "Manuel Magno",
+    "fullName": "Manuel Magno Alves",
+    "party": "CH",
+    "circle": "Fora da Europa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17130,
+    "name": "Manuela Carvalho",
+    "fullName": "Maria Manuela do Vale Dias de Carvalho Lopes",
+    "party": "PSD",
+    "circle": "Viana do Castelo",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17138,
+    "name": "Manuela Tender",
+    "fullName": "Maria Manuela Pereira Tender",
+    "party": "CH",
+    "circle": "Vila Real",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16577,
+    "name": "Marco Claudino",
+    "fullName": "Marco Henriques Claudino",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16941,
+    "name": "Marcos Perestrello",
+    "fullName": "Marcos da Cunha e Lorena Perestrello de Vasconcellos",
+    "party": "PS",
+    "circle": "Santarém",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16673,
+    "name": "Marcus Santos",
+    "fullName": "Marcus Vinícius Teixeira Soares dos Santos",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17063,
+    "name": "Margarida Afonso",
+    "fullName": "Margarida Alexandre do Nascimento Afonso",
+    "party": "PS",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16576,
+    "name": "Margarida Saavedra",
+    "fullName": "Margarida Maria de Moura Alves da Silva de Almeida Saavedra",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15790,
+    "name": "Maria José Aguiar",
+    "fullName": "Maria José Gomes de Aguiar",
+    "party": "CH",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16305,
+    "name": "Mariana Leitão",
+    "fullName": "Mariana de Lemos Quintão Correia Leitão",
+    "party": "IL",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16514,
+    "name": "Mariana Vieira da Silva",
+    "fullName": "Mariana Guimarães Vieira da Silva",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17118,
+    "name": "Marina Gonçalves",
+    "fullName": "Marina Sola Gonçalves",
+    "party": "PS",
+    "circle": "Viana do Castelo",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15810,
+    "name": "Mário Amorim Lopes",
+    "fullName": "Mario Filipe Amorim Faria de Oliveira Lopes",
+    "party": "IL",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16254,
+    "name": "Marta Martins da Silva",
+    "fullName": "Marta Sofia Martins da Silva",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16050,
+    "name": "Martim Syder",
+    "fullName": "Martim Arnaut Syder",
+    "party": "PSD",
+    "circle": "Coimbra",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16047,
+    "name": "Maurício Marques",
+    "fullName": "Maurício Teixeira Marques",
+    "party": "PSD",
+    "circle": "Coimbra",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16515,
+    "name": "Miguel Cabrita",
+    "fullName": "Miguel Filipe Pardal Cabrita",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16893,
+    "name": "Miguel Guimarães",
+    "fullName": "José Miguel Ribeiro de Castro Guimarães",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16522,
+    "name": "Miguel Matos",
+    "fullName": "Miguel de Oliveira Pires da Costa de Matos",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16714,
+    "name": "Miguel Rangel",
+    "fullName": "Miguel Machado da Silva Rangel da Fonseca",
+    "party": "IL",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16116,
+    "name": "Miguel Santos",
+    "fullName": "Paulo Miguel da Silva Santos",
+    "party": "PSD",
+    "circle": "Faro",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15781,
+    "name": "Nuna Menezes",
+    "fullName": "Maria Nuna Monteiro Vila Lobos Menezes",
+    "party": "PSD",
+    "circle": "Açores",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16004,
+    "name": "Nuno Fazenda",
+    "fullName": "Nuno Jorge Cardona Fazenda de Almeida",
+    "party": "PS",
+    "circle": "Castelo Branco",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16971,
+    "name": "Nuno Gabriel",
+    "fullName": "Nuno Miguel da Costa Gabriel",
+    "party": "CH",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15991,
+    "name": "Nuno Jorge Gonçalves",
+    "fullName": "Nuno Jorge Rodrigues Gonçalves",
+    "party": "PSD",
+    "circle": "Bragança",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16135,
+    "name": "Nuno Simões de Melo",
+    "fullName": "Carlos Nuno Gomes e Simões de Melo",
+    "party": "CH",
+    "circle": "Guarda",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16904,
+    "name": "Olga Freire",
+    "fullName": "Olga Cristina Rodrigues da Veiga Freire",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16260,
+    "name": "Patrícia Almeida",
+    "fullName": "Patrícia Isabel Morgado de Almeida",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16970,
+    "name": "Patrícia Carvalho",
+    "fullName": "Patrícia Alexandra Martins de Carvalho",
+    "party": "CH",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16850,
+    "name": "Patrícia Faro",
+    "fullName": "Patrícia Monte Pinto Ribeiro Faro",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16360,
+    "name": "Patrícia Gonçalves",
+    "fullName": "Patrícia Carla Serrano Gonçalves",
+    "party": "L",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16675,
+    "name": "Patrícia Nascimento",
+    "fullName": "Patrícia Isabel Ferreirinha do Nascimento",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15853,
+    "name": "Paula Cardoso",
+    "fullName": "Maria Paula da Graça Cardoso",
+    "party": "PSD",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17036,
+    "name": "Paula Santos",
+    "fullName": "Paula Alexandra Sobral Guerreiro Santos Barbosa",
+    "party": "PCP",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15858,
+    "name": "Paulo Cavaleiro",
+    "fullName": "Paulo César Lima Cavaleiro",
+    "party": "PSD",
+    "circle": "Aveiro",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 17089,
+    "name": "Paulo Edson Cunha",
+    "fullName": "Paulo Edson Carvalho Borges da Cunha",
+    "party": "PSD",
+    "circle": "Setúbal",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16582,
+    "name": "Paulo Lopes Marcelo",
+    "fullName": "Paulo José Martins Raposo Lopes Marcelo",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15941,
+    "name": "Paulo Lopes Silva",
+    "fullName": "Paulo Rui Lopes Pereira da Silva",
+    "party": "PS",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15779,
+    "name": "Paulo Moniz",
+    "fullName": "Paulo Alexandre Luís Botelho Moniz",
+    "party": "PSD",
+    "circle": "Açores",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17015,
+    "name": "Paulo Muacho",
+    "fullName": "Paulo Jorge Velez Muacho",
+    "party": "L",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16645,
+    "name": "Paulo Neves",
+    "fullName": "Paulo Alexandre Sousa Neves",
+    "party": "PSD",
+    "circle": "Madeira",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16245,
+    "name": "Paulo Núncio",
+    "fullName": "Paulo de Faria Lince Núncio",
+    "party": "CDS-PP",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16461,
+    "name": "Paulo Raimundo",
+    "fullName": "Paulo Alexandre Cantigas Raimundo",
+    "party": "PCP",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16020,
+    "name": "Paulo Seco",
+    "fullName": "Paulo Jorge Rodrigues Nogueira Sêco",
+    "party": "CH",
+    "circle": "Coimbra",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17194,
+    "name": "Pedro Alves",
+    "fullName": "Pedro Filipe dos Santos Alves",
+    "party": "PSD",
+    "circle": "Viseu",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16643,
+    "name": "Pedro Coelho",
+    "fullName": "Pedro Emanuel Abreu Coelho",
+    "party": "PSD",
+    "circle": "Madeira",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16034,
+    "name": "Pedro Coimbra",
+    "fullName": "Pedro Artur Barreirinhas Sales Guedes Coimbra",
+    "party": "PS",
+    "circle": "Coimbra",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16929,
+    "name": "Pedro Correia",
+    "fullName": "Pedro Alexandre Arrabaça da Silva Oliveira Correia",
+    "party": "CH",
+    "circle": "Santarém",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16032,
+    "name": "Pedro Delgado Alves",
+    "fullName": "Pedro Filipe Mota Delgado Simões Alves",
+    "party": "PS",
+    "circle": "Coimbra",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15878,
+    "name": "Pedro do Carmo",
+    "fullName": "Pedro Nuno Raposo Prazeres do Carmo",
+    "party": "PS",
+    "circle": "Beja",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15789,
+    "name": "Pedro dos Santos Frazão",
+    "fullName": "Pedro Saraiva Gonçalves dos Santos Frazão",
+    "party": "CH",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15830,
+    "name": "Pedro Nuno Santos",
+    "fullName": "Pedro Nuno de Oliveira Santos",
+    "party": "PS",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16255,
+    "name": "Pedro Pessanha",
+    "fullName": "Pedro Manuel de Andrade Pessanha Fernandes",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16085,
+    "name": "Pedro Pinto",
+    "fullName": "Pedro Miguel Soares Pinto",
+    "party": "CH",
+    "circle": "Faro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17088,
+    "name": "Pedro Roque",
+    "fullName": "António Pedro Roque da Visitação Oliveira",
+    "party": "PSD",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16587,
+    "name": "Pedro Soares Pimenta",
+    "fullName": "Pedro Ricardo Soares Pimenta",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 15792,
+    "name": "Pedro Tavares",
+    "fullName": "Pedro Miguel Tavares dos Santos",
+    "party": "CH",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16518,
+    "name": "Pedro Vaz",
+    "fullName": "Pedro Manuel Amaro Martins Vaz",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16851,
+    "name": "Porfírio Silva",
+    "fullName": "Porfírio Simões de Carvalho e Silva",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16676,
+    "name": "Raul Melo",
+    "fullName": "Raul Gabriel Palha de Bessa Melo",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16568,
+    "name": "Regina Bastos",
+    "fullName": "Regina Maria Pinto da Fonseca Ramos Bastos",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16013,
+    "name": "Ricardo Aires",
+    "fullName": "Ricardo Jorge Martins Aires",
+    "party": "PSD",
+    "circle": "Castelo Branco",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15967,
+    "name": "Ricardo Barroso",
+    "fullName": "Ricardo Barroso da Silva",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16960,
+    "name": "Ricardo Carlos",
+    "fullName": "Ricardo Jorge Martins Carlos",
+    "party": "PSD",
+    "circle": "Santarém",
+    "situation": "Efetivo Temporário"
+  },
+  {
+    "id": 16183,
+    "name": "Ricardo Carvalho",
+    "fullName": "Ricardo António Beato de Carvalho",
+    "party": "PSD",
+    "circle": "Leiria",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16256,
+    "name": "Ricardo Dias Pinto",
+    "fullName": "Ricardo Dias Pinto Blaufuks",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16520,
+    "name": "Ricardo Lima",
+    "fullName": "Ricardo Jorge Monteiro Lima",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16974,
+    "name": "Ricardo Lopes Reis",
+    "fullName": "Ricardo Lopes Reis",
+    "party": "CH",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16088,
+    "name": "Ricardo Moreira",
+    "fullName": "António Ricardo Correia Moreira",
+    "party": "CH",
+    "circle": "Faro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16958,
+    "name": "Ricardo Oliveira",
+    "fullName": "Ricardo Alexandre Frade de Oliveira",
+    "party": "PSD",
+    "circle": "Santarém",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16969,
+    "name": "Rita Matias",
+    "fullName": "Rita Maria Cid Matias Filipe",
+    "party": "CH",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15891,
+    "name": "Rodrigo Alves Taxa",
+    "fullName": "Rodrigo Santos Alves Taxa",
+    "party": "CH",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16306,
+    "name": "Rodrigo Saraiva",
+    "fullName": "Rodrigo Miguel Dias Saraiva",
+    "party": "IL",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16033,
+    "name": "Rosa Isabel Cruz",
+    "fullName": "Rosa Isabel da Cruz",
+    "party": "PS",
+    "circle": "Coimbra",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16669,
+    "name": "Rui Afonso",
+    "fullName": "Rui Pedro da Silva Afonso",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16262,
+    "name": "Rui Cardoso",
+    "fullName": "Rui Miguel Candeias Cardoso",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16155,
+    "name": "Rui Fernandes",
+    "fullName": "Rui Alexandre Nunes Fernandes",
+    "party": "CH",
+    "circle": "Leiria",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 17148,
+    "name": "Rui Jorge Santos",
+    "fullName": "Rui Jorge Cordeiro Gonçalves dos Santos",
+    "party": "PS",
+    "circle": "Vila Real",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16253,
+    "name": "Rui Paulo Sousa",
+    "fullName": "Rui Paulo Duque Sousa",
+    "party": "CH",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15914,
+    "name": "Rui Rocha",
+    "fullName": "Rui Nuno de Oliveira Garcia da Rocha",
+    "party": "IL",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16903,
+    "name": "Rui Rocha Pereira",
+    "fullName": "Rui Manuel Alves da Rocha Pereira",
+    "party": "PSD",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16358,
+    "name": "Rui Tavares",
+    "fullName": "Rui Miguel Marcelino Tavares Pereira",
+    "party": "L",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15939,
+    "name": "Sandra Lopes",
+    "fullName": "Sandra Maria Sousa Lopes",
+    "party": "PS",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16570,
+    "name": "Sandra Pereira",
+    "fullName": "Sandra Cristina de Sequeiros Pereira",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16087,
+    "name": "Sandra Ribeiro",
+    "fullName": "Sandra Margarida de Melo Pereira Ribeiro",
+    "party": "CH",
+    "circle": "Faro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16857,
+    "name": "Sofia Andrade",
+    "fullName": "Isabel Sofia Alves Andrade",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 15962,
+    "name": "Sofia Machado Fernandes",
+    "fullName": "Sofia Manuela Cadeias Machado Fernandes",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16847,
+    "name": "Sofia Pereira",
+    "fullName": "Sofia Alexandra Correia Pereira",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17087,
+    "name": "Sonia dos Reis",
+    "fullName": "Sónia dos Reis",
+    "party": "PSD",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15968,
+    "name": "Sónia Margarida Fernandes",
+    "fullName": "Sónia Margarida da Silva Fernandes",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo Definitivo"
+  },
+  {
+    "id": 16674,
+    "name": "Sónia Monteiro",
+    "fullName": "Sónia Cristina de Sousa Monteiro",
+    "party": "CH",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15831,
+    "name": "Susana Correia",
+    "fullName": "Susana Alexandra Lopes Correia",
+    "party": "PS",
+    "circle": "Aveiro",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 17084,
+    "name": "Teresa Morais",
+    "fullName": "Maria Teresa da Silva Morais",
+    "party": "PSD",
+    "circle": "Setúbal",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16849,
+    "name": "Tiago Barbosa Ribeiro",
+    "fullName": "Tiago Barbosa Ribeiro",
+    "party": "PS",
+    "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 15892,
+    "name": "Vanessa Barata",
+    "fullName": "Vanessa Cláudia Nogueira da Rosa Pereira Barata",
+    "party": "CH",
+    "circle": "Braga",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16644,
+    "name": "Vânia Jesus",
+    "fullName": "Vânia Andrea de Castro Jesus",
+    "party": "PSD",
+    "circle": "Madeira",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16103,
+    "name": "Vítor Guerreiro",
+    "fullName": "Vítor Manuel Martins Guerreiro",
+    "party": "PS",
+    "circle": "Faro",
+    "situation": "Efetivo Temporário"
+  }
+]

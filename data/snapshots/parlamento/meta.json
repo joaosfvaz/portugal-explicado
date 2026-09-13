@@ -1,0 +1,165 @@
+{
+  "importedAt": "2026-09-12T21:16:41.284Z",
+  "legislature": "XVII",
+  "legislatureStart": "2025-06-03",
+  "sourceUpdatedUpTo": "2026-08-26",
+  "parties": [
+    {
+      "acronym": "PSD",
+      "name": "Partido Social Democrata",
+      "seats": 89
+    },
+    {
+      "acronym": "CH",
+      "name": "Chega",
+      "seats": 60
+    },
+    {
+      "acronym": "PS",
+      "name": "Partido Socialista",
+      "seats": 58
+    },
+    {
+      "acronym": "IL",
+      "name": "Iniciativa Liberal",
+      "seats": 9
+    },
+    {
+      "acronym": "L",
+      "name": "Livre",
+      "seats": 6
+    },
+    {
+      "acronym": "PCP",
+      "name": "Partido Comunista Português",
+      "seats": 3
+    },
+    {
+      "acronym": "CDS-PP",
+      "name": "Centro Democrático Social - Partido Popular",
+      "seats": 2
+    },
+    {
+      "acronym": "BE",
+      "name": "Bloco De Esquerda",
+      "seats": 1
+    },
+    {
+      "acronym": "JPP",
+      "name": "Juntos Pelo Povo",
+      "seats": 1
+    },
+    {
+      "acronym": "PAN",
+      "name": "Pessoas-Animais-Natureza",
+      "seats": 1
+    }
+  ],
+  "counts": {
+    "em-curso": 732,
+    "aprovada": 143,
+    "publicada": 499,
+    "rejeitada": 728,
+    "vetada": 1,
+    "retirada": 23,
+    "nao-admitida": 1
+  },
+  "partyStats": {
+    "PSD": {
+      "authored": 75,
+      "finalVotes": {
+        "favor": 148,
+        "contra": 53,
+        "abstencao": 60
+      }
+    },
+    "CDS-PP": {
+      "authored": 87,
+      "finalVotes": {
+        "favor": 157,
+        "contra": 45,
+        "abstencao": 59
+      }
+    },
+    "PAN": {
+      "authored": 296,
+      "finalVotes": {
+        "favor": 201,
+        "contra": 18,
+        "abstencao": 39
+      }
+    },
+    "JPP": {
+      "authored": 70,
+      "finalVotes": {
+        "favor": 225,
+        "contra": 9,
+        "abstencao": 25
+      }
+    },
+    "PS": {
+      "authored": 212,
+      "finalVotes": {
+        "favor": 208,
+        "contra": 21,
+        "abstencao": 32
+      }
+    },
+    "L": {
+      "authored": 273,
+      "finalVotes": {
+        "favor": 178,
+        "contra": 37,
+        "abstencao": 46
+      }
+    },
+    "PCP": {
+      "authored": 217,
+      "finalVotes": {
+        "favor": 94,
+        "contra": 92,
+        "abstencao": 75
+      }
+    },
+    "BE": {
+      "authored": 189,
+      "finalVotes": {
+        "favor": 157,
+        "contra": 49,
+        "abstencao": 38
+      }
+    },
+    "CH": {
+      "authored": 453,
+      "finalVotes": {
+        "favor": 215,
+        "contra": 15,
+        "abstencao": 31
+      }
+    },
+    "IL": {
+      "authored": 132,
+      "finalVotes": {
+        "favor": 167,
+        "contra": 25,
+        "abstencao": 69
+      }
+    }
+  },
+  "finalVotesCounted": 265,
+  "totalInitiatives": 2127,
+  "sources": [
+    {
+      "title": "Assembleia da República, Dados Abertos: Iniciativas",
+      "url": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx"
+    },
+    {
+      "title": "Assembleia da República, Dados Abertos: Informação base",
+      "url": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx"
+    },
+    {
+      "title": "Assembleia da República, Dados Abertos: Diplomas aprovados",
+      "url": "https://www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx"
+    }
+  ]
+}
