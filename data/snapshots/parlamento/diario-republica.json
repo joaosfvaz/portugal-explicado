@@ -1,7 +1,84 @@
 {
-  "importedAt": "2026-09-15T11:58:46.239Z",
+  "importedAt": "2026-09-16T11:54:21.267Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto-Lei n.º 183/2026",
+      "actType": "Decreto-Lei",
+      "number": "183/2026",
+      "diarioDate": "2026-09-16",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova o novo Regulamento de Passagens de Nível.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18000/0000200031.pdf",
+      "firstSeen": "2026-09-16"
+    },
+    {
+      "title": "Decreto-Lei n.º 184/2026",
+      "actType": "Decreto-Lei",
+      "number": "184/2026",
+      "diarioDate": "2026-09-16",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova o Regulamento da Transformação de Veículos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-1171382771",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18000/0003200044.pdf",
+      "firstSeen": "2026-09-16"
+    },
+    {
+      "title": "Decreto-Lei n.º 185/2026",
+      "actType": "Decreto-Lei",
+      "number": "185/2026",
+      "diarioDate": "2026-09-16",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 79/2013, de 11 de junho, transpondo as Diretivas Delegadas (UE) 2025/2363 e (UE) 2025/1802, respeitantes a uma isenção aplicável à utilização do chumbo em componentes de vidros ou cerâmicos e em soldas com alta temperatura de fusão.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2026-1171382772",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18000/0004500050.pdf",
+      "firstSeen": "2026-09-16"
+    },
+    {
+      "title": "Decreto-Lei n.º 186/2026",
+      "actType": "Decreto-Lei",
+      "number": "186/2026",
+      "diarioDate": "2026-09-16",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Extingue a carreira de administrador prisional.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18000/0005100053.pdf",
+      "firstSeen": "2026-09-16"
+    },
+    {
+      "title": "Decreto-Lei n.º 187/2026",
+      "actType": "Decreto-Lei",
+      "number": "187/2026",
+      "diarioDate": "2026-09-16",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Cria as carreiras especiais de técnico superior de reintegração social e de técnico de reintegração social, e define as respetivas tabelas remuneratórias.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18000/0005400069.pdf",
+      "firstSeen": "2026-09-16"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 179/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "179/2026",
+      "diarioDate": "2026-09-16",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a República Portuguesa a participar no aumento geral de capital exigível do Banco Africano de Desenvolvimento.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-2026-1171532775",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18000/0007000071.pdf",
+      "firstSeen": "2026-09-16"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 180/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "180/2026",
+      "diarioDate": "2026-09-16",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a Marinha a realizar a despesa referente à aquisição de serviços para a conceção, construção e fiscalização da empreitada de edificação, reparação, melhoramento e ampliação das infraestruturas do Corpo de Fuzileiros.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/180-2026-1171532776",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18000/0007200072.pdf",
+      "firstSeen": "2026-09-16"
+    },
     {
       "title": "Declaração de Retificação n.º 34/2026/1",
       "actType": "Declaração de Retificação",
