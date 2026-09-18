@@ -1,7 +1,62 @@
 {
-  "importedAt": "2026-09-17T11:57:17.688Z",
+  "importedAt": "2026-09-18T11:35:48.096Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Acórdão do Supremo Tribunal de Justiça n.º 6/2026",
+      "actType": "Acórdão do Supremo Tribunal de Justiça",
+      "number": "6/2026",
+      "diarioDate": "2026-09-18",
+      "issuer": null,
+      "summary": "Supremo Tribunal de Justiça «O tribunal pode valorar as declarações para memória futura prestadas nas fases de inquérito ou de instrução (com cumprimento do disposto no artigo 134.º, n.º 2, do Código de Processo Penal), por testemunha que seja vítima de crime de violência doméstica que tenha em relação ao arguido algum dos vínculos previstos no artigo 134.º, alíneas a) e b), do Código de Processo Penal e que, chamada a julgamento, recusa o depoimento depois de advertida nos termos do n.º 2 do mesmo normativo».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2026-1171929505",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18200/0000700037.pdf",
+      "firstSeen": "2026-09-18"
+    },
+    {
+      "title": "Declaração de Retificação n.º 35-A/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "35-A/2026/1",
+      "diarioDate": "2026-09-18",
+      "issuer": "Presidência do Conselho de Ministros - Secretaria-Geral do Governo",
+      "summary": "Retifica o Decreto-Lei n.º 147/2026, de 20 de julho, que estabelece o regime de licenciamento e o exercício da atividade dos matadouros móveis e dos estabelecimentos móveis de manipulação de caça.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-a-2026-1171923317",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18201/0000200002.pdf",
+      "firstSeen": "2026-09-18"
+    },
+    {
+      "title": "Declaração n.º 15/2026/1",
+      "actType": "Declaração",
+      "number": "15/2026/1",
+      "diarioDate": "2026-09-18",
+      "issuer": "Assembleia da República",
+      "summary": "Designação de representantes dos Grupos Parlamentares para o Conselho Nacional de Educação.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao/15-2026-1171929502",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18200/0000200002.pdf",
+      "firstSeen": "2026-09-18"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 182/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "182/2026",
+      "diarioDate": "2026-09-18",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera a Resolução do Conselho de Ministros n.º 128/2026, de 19 de junho, que autoriza a realização da despesa e doação de equipamentos para cumprimento dos compromissos internacionais assumidos pelo Estado Português no âmbito do apoio à Ucrânia, no ano de 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/182-2026-1171929503",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18200/0000300004.pdf",
+      "firstSeen": "2026-09-18"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 183/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "183/2026",
+      "diarioDate": "2026-09-18",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Nomeia a presidente do conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E. P. E.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2026-1171929504",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18200/0000500006.pdf",
+      "firstSeen": "2026-09-18"
+    },
     {
       "title": "Decreto do Presidente da República n.º 143/2026",
       "actType": "Decreto do Presidente da República",
