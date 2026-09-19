@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-09-18T11:35:48.096Z",
+  "importedAt": "2026-09-19T11:18:42.962Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
     {
@@ -25,6 +25,17 @@
       "firstSeen": "2026-09-18"
     },
     {
+      "title": "Declaração de Retificação n.º 35-B/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "35-B/2026/1",
+      "diarioDate": "2026-09-18",
+      "issuer": "Presidência do Conselho de Ministros - Secretaria-Geral do Governo",
+      "summary": "Retifica a Portaria n.º 304-A/2026/1, de 20 de julho, que fixa as taxas ou encargos destinados a cobrir os custos no âmbito dos controlos oficiais e de outras atividades oficiais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-b-2026-1172319694",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18203/0000200004.pdf",
+      "firstSeen": "2026-09-19"
+    },
+    {
       "title": "Declaração n.º 15/2026/1",
       "actType": "Declaração",
       "number": "15/2026/1",
@@ -34,6 +45,17 @@
       "url": "https://diariodarepublica.pt/dr/detalhe/declaracao/15-2026-1171929502",
       "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18200/0000200002.pdf",
       "firstSeen": "2026-09-18"
+    },
+    {
+      "title": "Portaria n.º 432-A/2026/1",
+      "actType": "Portaria",
+      "number": "432-A/2026/1",
+      "diarioDate": "2026-09-18",
+      "issuer": "Finanças e Ambiente e Energia",
+      "summary": "Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/432-a-2026-1172217151",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18202/0000200003.pdf",
+      "firstSeen": "2026-09-19"
     },
     {
       "title": "Resolução do Conselho de Ministros n.º 182/2026",
