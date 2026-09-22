@@ -1,7 +1,84 @@
 {
-  "importedAt": "2026-09-21T13:07:38.618Z",
+  "importedAt": "2026-09-22T11:55:44.701Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto do Presidente da República n.º 145/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "145/2026",
+      "diarioDate": "2026-09-22",
+      "issuer": "Presidência da República",
+      "summary": "Ratifica o Segundo Protocolo de Revisão da Convenção sobre Cooperação para a Proteção e o Aproveitamento Sustentável das Águas das Bacias Hidrográficas Luso-Espanholas e do Protocolo Adicional, entre a República Portuguesa e o Reino de Espanha, Relativo ao Regime de Caudais do Rio Guadiana na Secção de Pomarão, assinado em Madrid a 24 de fevereiro de 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/145-2026-1172319748",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18400/0000300003.pdf",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "title": "Decreto-Lei n.º 190/2026",
+      "actType": "Decreto-Lei",
+      "number": "190/2026",
+      "diarioDate": "2026-09-22",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 129/2012, de 22 de junho, que aprova a orgânica do Instituto do Turismo de Portugal, I. P., e estabelece o regime jurídico aplicável ao recrutamento, contratação, natureza do vínculo e estatuto remuneratório dos diretores e trabalhadores das equipas de turismo no estrangeiro do Instituto do Turismo de Portugal, I. P.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2026-1172319750",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18400/0001300027.pdf",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "title": "Decreto-Lei n.º 191/2026",
+      "actType": "Decreto-Lei",
+      "number": "191/2026",
+      "diarioDate": "2026-09-22",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 40-A/2026, de 13 de fevereiro, que estabelece um regime excecional e temporário de simplificação administrativa e financeira destinado à reconstrução e reabilitação de património e das infraestruturas localizadas nos concelhos afetados pela tempestade Kristin.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2026-1172319751",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18400/0002800029.pdf",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "title": "Decreto-Lei n.º 192/2026",
+      "actType": "Decreto-Lei",
+      "number": "192/2026",
+      "diarioDate": "2026-09-22",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Cria o Julgado de Paz do Concelho da Figueira da Foz.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2026-1172319752",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18400/0003000031.pdf",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "title": "Decreto-Lei n.º 193/2026",
+      "actType": "Decreto-Lei",
+      "number": "193/2026",
+      "diarioDate": "2026-09-22",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova a orgânica do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais integrado no Ministério das Finanças.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2026-1172319753",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18400/0003200038.pdf",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "title": "Portaria n.º 434/2026/1",
+      "actType": "Portaria",
+      "number": "434/2026/1",
+      "diarioDate": "2026-09-22",
+      "issuer": "Presidência do Conselho de Ministros, Administração Interna e Trabalho, Solidariedade e Segurança Social",
+      "summary": "Primeira alteração à Portaria n.º 742/93, de 16 de agosto, que aprova o Regulamento sobre Tempo de Serviço de Voo e Repouso dos Pilotos de Aeronaves a Operar em Trabalho Aéreo.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/434-2026-1172319754",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18400/0003900041.pdf",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 249/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "249/2026",
+      "diarioDate": "2026-09-22",
+      "issuer": "Assembleia da República",
+      "summary": "Aprova o Segundo Protocolo de Revisão da Convenção sobre Cooperação para a Proteção e o Aproveitamento Sustentável das Águas das Bacias Hidrográficas Luso-Espanholas e do Protocolo Adicional, entre a República Portuguesa e o Reino de Espanha, Relativo ao Regime de Caudais do Rio Guadiana na Secção de Pomarão, assinado em Madrid a 24 de fevereiro de 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/249-2026-1172319749",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18400/0000400012.pdf",
+      "firstSeen": "2026-09-22"
+    },
     {
       "title": "Decreto n.º 19/2026",
       "actType": "Decreto",
