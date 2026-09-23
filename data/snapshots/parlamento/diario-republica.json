@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-09-22T11:55:44.701Z",
+  "importedAt": "2026-09-23T11:55:43.915Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto n.º 20/2026",
+      "actType": "Decreto",
+      "number": "20/2026",
+      "diarioDate": "2026-09-23",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova o Acordo de Cooperação entre a República Portuguesa e a República de Angola na Área da Proteção Civil e Bombeiros, assinado em Lisboa, a 25 de julho de 2025.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto/20-2026-1172868785",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18500/0000200007.pdf",
+      "firstSeen": "2026-09-23"
+    },
+    {
+      "title": "Portaria n.º 435/2026/1",
+      "actType": "Portaria",
+      "number": "435/2026/1",
+      "diarioDate": "2026-09-23",
+      "issuer": "Justiça",
+      "summary": "Altera a Portaria n.º 350-A/2025/1, de 9 de outubro, que regulamenta a tramitação eletrónica dos processos que correm termos nos tribunais judiciais, nos tribunais administrativos e fiscais e nos serviços do Ministério Público.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/435-2026-1172868786",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18500/0000800009.pdf",
+      "firstSeen": "2026-09-23"
+    },
+    {
+      "title": "Portaria n.º 436/2026/1",
+      "actType": "Portaria",
+      "number": "436/2026/1",
+      "diarioDate": "2026-09-23",
+      "issuer": "Agricultura e Mar",
+      "summary": "Primeira alteração da Portaria n.º 431/2026/1, de 15 de setembro, que estabelece as regras de concessão de um apoio excecional ao rendimento dos viticultores da Região Demarcada do Douro que, em resultado das atuais condições de mercado, não disponham de possibilidade de escoamento da sua produção na campanha vitivinícola de 2026-2027.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/436-2026-1172868787",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18500/0001000011.pdf",
+      "firstSeen": "2026-09-23"
+    },
     {
       "title": "Decreto do Presidente da República n.º 145/2026",
       "actType": "Decreto do Presidente da República",

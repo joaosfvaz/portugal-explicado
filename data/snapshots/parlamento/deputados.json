@@ -136,6 +136,14 @@
     "situation": "Efetivo"
   },
   {
+    "id": 16196,
+    "name": "Andreia Galvão",
+    "fullName": "Andreia Almeida Duarte Baptista Galvão",
+    "party": "BE",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
+  },
+  {
     "id": 16898,
     "name": "Andreia Neto",
     "fullName": "Andreia Carina Machado da Silva Neto",
@@ -486,14 +494,6 @@
     "party": "PS",
     "circle": "Lisboa",
     "situation": "Efetivo"
-  },
-  {
-    "id": 16195,
-    "name": "Fabian Figueiredo",
-    "fullName": "Fabian Filipe Figueiredo",
-    "party": "BE",
-    "circle": "Lisboa",
-    "situation": "Efetivo Definitivo"
   },
   {
     "id": 16257,
@@ -1128,6 +1128,14 @@
     "situation": "Efetivo"
   },
   {
+    "id": 16526,
+    "name": "Maria Begonha",
+    "fullName": "Cristina Maria da Fonseca Santos Bacelar Begonha",
+    "party": "PS",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
+  },
+  {
     "id": 15790,
     "name": "Maria José Aguiar",
     "fullName": "Maria José Gomes de Aguiar",
@@ -1205,14 +1213,6 @@
     "fullName": "José Miguel Ribeiro de Castro Guimarães",
     "party": "PSD",
     "circle": "Porto",
-    "situation": "Efetivo"
-  },
-  {
-    "id": 16522,
-    "name": "Miguel Matos",
-    "fullName": "Miguel de Oliveira Pires da Costa de Matos",
-    "party": "PS",
-    "circle": "Lisboa",
     "situation": "Efetivo"
   },
   {
@@ -1837,6 +1837,6 @@
     "fullName": "Vítor Manuel Martins Guerreiro",
     "party": "PS",
     "circle": "Faro",
-    "situation": "Efetivo Temporário"
+    "situation": "Efetivo Definitivo"
   }
 ]
