@@ -1,7 +1,62 @@
 {
-  "importedAt": "2026-09-23T11:55:43.915Z",
+  "importedAt": "2026-09-24T12:03:24.246Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto do Presidente da República n.º 146/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "146/2026",
+      "diarioDate": "2026-09-24",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Vice-Almirante do Contra-Almirante Luís Nuno da Cunha Sardinha Monteiro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/146-2026-1173120482",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18600/0000200002.pdf",
+      "firstSeen": "2026-09-24"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 147/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "147/2026",
+      "diarioDate": "2026-09-24",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Contra-Almirante do Comodoro João Pedro Alves de Brito Monteiro da Silva.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/147-2026-1173120483",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18600/0000300003.pdf",
+      "firstSeen": "2026-09-24"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 148/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "148/2026",
+      "diarioDate": "2026-09-24",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Comodoro do Capitão-de-Mar-e-Guerra Sérgio Miguel Raminhos Carrilho da Silva Pinto.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/148-2026-1173120484",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18600/0000400004.pdf",
+      "firstSeen": "2026-09-24"
+    },
+    {
+      "title": "Mapa Oficial n.º 2/2026",
+      "actType": "Mapa Oficial",
+      "number": "2/2026",
+      "diarioDate": "2026-09-24",
+      "issuer": null,
+      "summary": "Comissão Nacional de Eleições Mapa oficial com o resultado da eleição e nome dos eleitos para a Assembleia de Freguesia de Belinho (Esposende/Santarém) realizada em 13 de setembro de 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/mapa-oficial/2-2026-1173120486",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18600/0000700008.pdf",
+      "firstSeen": "2026-09-24"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 184/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "184/2026",
+      "diarioDate": "2026-09-24",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Declara o interesse público nacional do Campus Veritati da Universidade Católica Portuguesa.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/184-2026-1173120485",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18600/0000500006.pdf",
+      "firstSeen": "2026-09-24"
+    },
     {
       "title": "Decreto n.º 20/2026",
       "actType": "Decreto",
