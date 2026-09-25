@@ -1,7 +1,51 @@
 {
-  "importedAt": "2026-09-24T12:03:24.246Z",
+  "importedAt": "2026-09-25T12:03:35.126Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto-Lei n.º 194/2026",
+      "actType": "Decreto-Lei",
+      "number": "194/2026",
+      "diarioDate": "2026-09-25",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Assegura a execução na ordem jurídica interna do Regulamento (UE) 2023/2411, relativo à proteção das indicações geográficas de produtos artesanais e industriais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2026-1173491823",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18700/0000200009.pdf",
+      "firstSeen": "2026-09-25"
+    },
+    {
+      "title": "Decreto-Lei n.º 195/2026",
+      "actType": "Decreto-Lei",
+      "number": "195/2026",
+      "diarioDate": "2026-09-25",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 132/2017, de 11 de outubro, que aprova o Regulamento Que Fixa os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2026-1173491824",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18700/0001000014.pdf",
+      "firstSeen": "2026-09-25"
+    },
+    {
+      "title": "Portaria n.º 437/2026/1",
+      "actType": "Portaria",
+      "number": "437/2026/1",
+      "diarioDate": "2026-09-25",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção de quatro captações localizadas na freguesia de Póvoa de São Miguel, no concelho de Moura, distrito de Beja, e de uma captação localizada na freguesia de Granja, no concelho de Mourão, distrito de Évora.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/437-2026-1173491826",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18700/0001800027.pdf",
+      "firstSeen": "2026-09-25"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 185/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "185/2026",
+      "diarioDate": "2026-09-25",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera a Resolução do Conselho de Ministros n.º 129/2024, de 25 de setembro, que autoriza o Instituto da Habitação e da Reabilitação Urbana, I. P., a realizar a despesa no âmbito da contratualização com beneficiários do 1.º Direito ― Programa de Apoio ao Acesso à Habitação.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/185-2026-1173491825",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18700/0001500017.pdf",
+      "firstSeen": "2026-09-25"
+    },
     {
       "title": "Decreto do Presidente da República n.º 146/2026",
       "actType": "Decreto do Presidente da República",
