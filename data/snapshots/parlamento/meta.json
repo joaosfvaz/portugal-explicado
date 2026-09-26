@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-09-25T12:04:03.434Z",
+  "importedAt": "2026-09-26T11:39:11.763Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
   "sourceUpdatedUpTo": "2026-09-30",
@@ -56,37 +56,45 @@
     }
   ],
   "counts": {
-    "em-curso": 832,
-    "aprovada": 155,
-    "publicada": 506,
-    "rejeitada": 736,
+    "em-curso": 793,
+    "aprovada": 167,
+    "publicada": 507,
+    "rejeitada": 771,
     "vetada": 0,
-    "retirada": 26,
+    "retirada": 27,
     "nao-admitida": 5
   },
   "partyStats": {
     "PSD": {
-      "authored": 79,
+      "authored": 80,
       "finalVotes": {
         "favor": 151,
         "contra": 55,
         "abstencao": 73
       }
     },
-    "CH": {
-      "authored": 469,
-      "finalVotes": {
-        "favor": 230,
-        "contra": 16,
-        "abstencao": 33
-      }
-    },
     "CDS-PP": {
-      "authored": 87,
+      "authored": 88,
       "finalVotes": {
         "favor": 161,
         "contra": 46,
         "abstencao": 72
+      }
+    },
+    "PAN": {
+      "authored": 304,
+      "finalVotes": {
+        "favor": 219,
+        "contra": 18,
+        "abstencao": 39
+      }
+    },
+    "JPP": {
+      "authored": 92,
+      "finalVotes": {
+        "favor": 243,
+        "contra": 9,
+        "abstencao": 25
       }
     },
     "PS": {
@@ -121,20 +129,12 @@
         "abstencao": 39
       }
     },
-    "PAN": {
-      "authored": 304,
+    "CH": {
+      "authored": 471,
       "finalVotes": {
-        "favor": 219,
-        "contra": 18,
-        "abstencao": 39
-      }
-    },
-    "JPP": {
-      "authored": 85,
-      "finalVotes": {
-        "favor": 243,
-        "contra": 9,
-        "abstencao": 25
+        "favor": 230,
+        "contra": 16,
+        "abstencao": 33
       }
     },
     "IL": {
@@ -147,7 +147,7 @@
     }
   },
   "finalVotesCounted": 283,
-  "totalInitiatives": 2260,
+  "totalInitiatives": 2270,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",
