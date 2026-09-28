@@ -1,7 +1,84 @@
 {
-  "importedAt": "2026-09-27T12:17:02.903Z",
+  "importedAt": "2026-09-28T14:17:41.531Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 438/2026/1",
+      "actType": "Portaria",
+      "number": "438/2026/1",
+      "diarioDate": "2026-09-28",
+      "issuer": "Finanças, Economia e Coesão Territorial e Trabalho, Solidariedade e Segurança Social",
+      "summary": "Altera o Regulamento do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/438-2026-1174093372",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18800/0000400005.pdf",
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "title": "Portaria n.º 439/2026/1",
+      "actType": "Portaria",
+      "number": "439/2026/1",
+      "diarioDate": "2026-09-28",
+      "issuer": null,
+      "summary": "Trabalho, Solidariedade e Segurança Social Portaria de extensão do acordo coletivo entre a LACTICOOP ― União de Cooperativas de Produtores de Leite de Entre Douro e Mondego, UCRL, e outra e o Sindicato dos Profissionais de Lacticínios, Alimentação, Agricultura, Escritórios, Comércio, Serviços, Transportes Rodoviários, Metalomecânica, Metalurgia, Construção Civil e Madeiras.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/439-2026-1174093373",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18800/0000600007.pdf",
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "title": "Portaria n.º 440/2026/1",
+      "actType": "Portaria",
+      "number": "440/2026/1",
+      "diarioDate": "2026-09-28",
+      "issuer": null,
+      "summary": "Trabalho, Solidariedade e Segurança Social Portaria de extensão das alterações do contrato coletivo entre a Associação Nacional dos Industriais de Lanifícios (ANIL) e outra e o Sindicato das Indústrias e Afins - SINDEQ.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/440-2026-1174093374",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18800/0000800010.pdf",
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "title": "Portaria n.º 441/2026/1",
+      "actType": "Portaria",
+      "number": "441/2026/1",
+      "diarioDate": "2026-09-28",
+      "issuer": null,
+      "summary": "Trabalho, Solidariedade e Segurança Social Portaria de extensão do contrato coletivo entre a Associação Nacional dos Industriais de Papel e Cartão ― ANIPC e a Federação Intersindical das Indústrias Metalúrgicas, Químicas, Eléctricas, Farmacêutica, Celulose, Papel, Gráfica, Imprensa, Energia e Minas ― FIEQUIMETAL.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/441-2026-1174266075",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18800/0001100013.pdf",
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "title": "Portaria n.º 442/2026/1",
+      "actType": "Portaria",
+      "number": "442/2026/1",
+      "diarioDate": "2026-09-28",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção das captações designadas por «Mourão 2 (483/60)», «Mourão 3 (483/49)» e «Mourão 4 (483/50)», localizadas na freguesia de Mourão, no concelho de Mourão.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/442-2026-1174266076",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18800/0001400021.pdf",
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 250/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "250/2026",
+      "diarioDate": "2026-09-28",
+      "issuer": "Assembleia da República",
+      "summary": "Deslocação do Presidente da República ao Conselho da Europa.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/250-2026-1174093370",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18800/0000200002.pdf",
+      "firstSeen": "2026-09-28"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 251/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "251/2026",
+      "diarioDate": "2026-09-28",
+      "issuer": "Assembleia da República",
+      "summary": "Prorrogação do prazo para apresentação do relatório com os elementos suscetíveis de instrução do processo relativo ao Projeto de Lei n.º 596/XVII/1.ª ― Criação do Município de Fátima.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/251-2026-1174093371",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/18800/0000300003.pdf",
+      "firstSeen": "2026-09-28"
+    },
     {
       "title": "Decreto-Lei n.º 194/2026",
       "actType": "Decreto-Lei",
