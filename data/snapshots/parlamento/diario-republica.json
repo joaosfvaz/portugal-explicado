@@ -1,7 +1,73 @@
 {
-  "importedAt": "2026-09-29T13:12:00.325Z",
+  "importedAt": "2026-09-30T12:54:14.677Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 445/2026/1",
+      "actType": "Portaria",
+      "number": "445/2026/1",
+      "diarioDate": "2026-09-30",
+      "issuer": "Presidência do Conselho de Ministros e Finanças",
+      "summary": "Aprova os Estatutos do Instituto da Mobilidade e dos Transportes, I. P.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/445-2026-1175177139",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/19000/0000800020.pdf",
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "title": "Portaria n.º 446/2026/1",
+      "actType": "Portaria",
+      "number": "446/2026/1",
+      "diarioDate": "2026-09-30",
+      "issuer": "Agricultura e Mar",
+      "summary": "Estabelece uma medida excecional e temporária de apoio financeiro destinada a compensar parcialmente a perda económica suportada pela frota de pesca polivalente em resultado do encerramento da pesca dirigida ao linguado-legítimo.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/446-2026-1175177140",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/19000/0002100024.pdf",
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "title": "Portaria n.º 447-A/2026/1",
+      "actType": "Portaria",
+      "number": "447-A/2026/1",
+      "diarioDate": "2026-09-30",
+      "issuer": "Presidência do Conselho de Ministros e Finanças",
+      "summary": "Regulamenta as disposições do regime dos contratos de investimento para arrendamento (CIA), aprovado no anexo I do Decreto-Lei n.º 97/2026, de 20 de maio, relativas aos procedimentos e requisitos para a apresentação e aprovação do CIA, aos requisitos de elegibilidade dos investidores e às obrigações a que estes ficam sujeitos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/447-a-2026-1174840973",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/19001/0000200012.pdf",
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "title": "Portaria n.º 447/2026/1",
+      "actType": "Portaria",
+      "number": "447/2026/1",
+      "diarioDate": "2026-09-30",
+      "issuer": "Agricultura e Mar",
+      "summary": "Estabelece o regime de aplicação da medida excecional da Reserva Agrícola para a Tempestade Kristin, prevista no Regulamento de Execução (UE) 2026/1698 da Comissão, aplicável ao território continental.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/447-2026-1175177141",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/19000/0002500031.pdf",
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 189/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "189/2026",
+      "diarioDate": "2026-09-30",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza o IAPMEI ― Agência para a Competitividade e Inovação, I. P., a transferir uma verba para a Agência para o Investimento e Comércio Externo de Portugal, E. P. E., para financiamento de atividades complementares entre as duas entidades.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/189-2026-1175177137",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/19000/0000200002.pdf",
+      "firstSeen": "2026-09-30"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 190/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "190/2026",
+      "diarioDate": "2026-09-30",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Designa os membros do conselho de administração da Unidade Local de Saúde do Algarve, E. P. E.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/190-2026-1175177138",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/09/19000/0000300007.pdf",
+      "firstSeen": "2026-09-30"
+    },
     {
       "title": "Decreto-Lei n.º 196/2026",
       "actType": "Decreto-Lei",
