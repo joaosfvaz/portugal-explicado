@@ -1,7 +1,62 @@
 {
-  "importedAt": "2026-09-30T12:54:14.677Z",
+  "importedAt": "2026-10-01T13:41:47.123Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto n.º 21/2026",
+      "actType": "Decreto",
+      "number": "21/2026",
+      "diarioDate": "2026-10-01",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Procede à exclusão do regime florestal parcial de parcela de terreno localizada na serra da Freita, na freguesia de Sul, do concelho de São Pedro do Sul, para a construção do Centro de Interpretação da Serra da Freita.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto/21-2026-1176351846",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19100/0000900010.pdf",
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "title": "Decreto-Lei n.º 197/2026",
+      "actType": "Decreto-Lei",
+      "number": "197/2026",
+      "diarioDate": "2026-10-01",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 100/2023, de 31 de outubro, prorrogando, a título excecional e transitório, a validade das atuais licenças de assistência em escala atribuídas nos Aeroportos de Lisboa, Porto e Faro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2026-1176351843",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19100/0000200003.pdf",
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "title": "Portaria n.º 448/2026/1",
+      "actType": "Portaria",
+      "number": "448/2026/1",
+      "diarioDate": "2026-10-01",
+      "issuer": "Negócios Estrangeiros, Finanças, Economia e Coesão Territorial, Defesa Nacional e Educação, Ciência e Inovação",
+      "summary": "Aprova as percentagens do mecanismo de correção cambial criado pelo Decreto-Lei n.º 35-B/2016, de 30 de junho, na sua redação atual, para o 2.º semestre de 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/448-2026-1176351847",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19100/0001100013.pdf",
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 191/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "191/2026",
+      "diarioDate": "2026-10-01",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Procede ao reforço orçamental para 2026 do apoio extraordinário e excecional «Botija de Gás Solidária» e determina o montante a afetar para o ano de 2027.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-2026-1176351844",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19100/0000400005.pdf",
+      "firstSeen": "2026-10-01"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 192/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "192/2026",
+      "diarioDate": "2026-10-01",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera a Resolução do Conselho de Ministros n.º 56/2021, de 14 de maio, reforçando e reprogramando os encargos necessários à operacionalização do Sistema de Mobilidade do Mondego.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2026-1176351845",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19100/0000600008.pdf",
+      "firstSeen": "2026-10-01"
+    },
     {
       "title": "Portaria n.º 445/2026/1",
       "actType": "Portaria",

@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-09-30T12:54:35.614Z",
+  "importedAt": "2026-10-01T13:42:11.614Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
   "sourceUpdatedUpTo": "2026-09-30",
@@ -17,7 +17,7 @@
     {
       "acronym": "PS",
       "name": "Partido Socialista",
-      "seats": 58
+      "seats": 57
     },
     {
       "acronym": "IL",
@@ -56,17 +56,17 @@
     }
   ],
   "counts": {
-    "em-curso": 829,
-    "aprovada": 165,
+    "em-curso": 835,
+    "aprovada": 166,
     "publicada": 509,
     "rejeitada": 771,
     "vetada": 0,
-    "retirada": 27,
+    "retirada": 28,
     "nao-admitida": 5
   },
   "partyStats": {
     "PSD": {
-      "authored": 80,
+      "authored": 81,
       "finalVotes": {
         "favor": 151,
         "contra": 55,
@@ -82,7 +82,7 @@
       }
     },
     "CH": {
-      "authored": 476,
+      "authored": 477,
       "finalVotes": {
         "favor": 230,
         "contra": 16,
@@ -98,7 +98,7 @@
       }
     },
     "L": {
-      "authored": 304,
+      "authored": 305,
       "finalVotes": {
         "favor": 194,
         "contra": 37,
@@ -106,7 +106,7 @@
       }
     },
     "PCP": {
-      "authored": 237,
+      "authored": 240,
       "finalVotes": {
         "favor": 109,
         "contra": 94,
@@ -138,7 +138,7 @@
       }
     },
     "PS": {
-      "authored": 224,
+      "authored": 226,
       "finalVotes": {
         "favor": 223,
         "contra": 21,
@@ -147,7 +147,7 @@
     }
   },
   "finalVotesCounted": 283,
-  "totalInitiatives": 2306,
+  "totalInitiatives": 2314,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",
