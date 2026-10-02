@@ -1,7 +1,29 @@
 {
-  "importedAt": "2026-10-01T13:41:47.123Z",
+  "importedAt": "2026-10-02T12:58:28.509Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto Regulamentar Regional n.º 21/2026/A",
+      "actType": "Decreto Regulamentar Regional",
+      "number": "21/2026/A",
+      "diarioDate": "2026-10-02",
+      "issuer": "Região Autónoma dos Açores - Presidência do Governo Regional",
+      "summary": "Quarta alteração ao Decreto Regulamentar Regional n.º 23/2022/A, de 15 de novembro, que regulamenta a ação «Regimes de apoio à inovação de produtos e processos de produção e organização, à transição verde e à transição digital, destinados à reestruturação de empresas regionais do setor de transformação e comercialização de produtos agrícolas», da medida «Apoios diretos à recuperação e resiliência das empresas», do investimento «Relançamento Económico da Agricultura Açoriana», enquadrado na componente «Capitalização e Inovação Empresarial», no âmbito do Plano de Recuperação e Resiliência (PRR), aprovado ao abrigo do Regulamento (UE) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o Mecanismo de Recuperação e Resiliência.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2026-1176760742",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19200/0003200049.pdf",
+      "firstSeen": "2026-10-02"
+    },
+    {
+      "title": "Decreto-Lei n.º 198/2026",
+      "actType": "Decreto-Lei",
+      "number": "198/2026",
+      "diarioDate": "2026-10-02",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 267/2002, de 26 de novembro, que estabelece os procedimentos e define as competências para efeitos de licenciamento e fiscalização de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19200/0000200031.pdf",
+      "firstSeen": "2026-10-02"
+    },
     {
       "title": "Decreto n.º 21/2026",
       "actType": "Decreto",

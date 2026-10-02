@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-10-01T13:42:11.614Z",
+  "importedAt": "2026-10-02T12:58:58.661Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-09-30",
+  "sourceUpdatedUpTo": "2026-10-01",
   "parties": [
     {
       "acronym": "PSD",
@@ -17,7 +17,7 @@
     {
       "acronym": "PS",
       "name": "Partido Socialista",
-      "seats": 57
+      "seats": 58
     },
     {
       "acronym": "IL",
@@ -40,11 +40,6 @@
       "seats": 2
     },
     {
-      "acronym": "BE",
-      "name": "Bloco De Esquerda",
-      "seats": 1
-    },
-    {
       "acronym": "JPP",
       "name": "Juntos Pelo Povo",
       "seats": 1
@@ -56,10 +51,10 @@
     }
   ],
   "counts": {
-    "em-curso": 835,
-    "aprovada": 166,
+    "em-curso": 807,
+    "aprovada": 170,
     "publicada": 509,
-    "rejeitada": 771,
+    "rejeitada": 796,
     "vetada": 0,
     "retirada": 28,
     "nao-admitida": 5
@@ -73,14 +68,6 @@
         "abstencao": 73
       }
     },
-    "CDS-PP": {
-      "authored": 88,
-      "finalVotes": {
-        "favor": 161,
-        "contra": 46,
-        "abstencao": 72
-      }
-    },
     "CH": {
       "authored": 477,
       "finalVotes": {
@@ -89,12 +76,20 @@
         "abstencao": 33
       }
     },
-    "IL": {
-      "authored": 147,
+    "CDS-PP": {
+      "authored": 88,
       "finalVotes": {
-        "favor": 184,
-        "contra": 25,
-        "abstencao": 70
+        "favor": 161,
+        "contra": 46,
+        "abstencao": 72
+      }
+    },
+    "PS": {
+      "authored": 226,
+      "finalVotes": {
+        "favor": 223,
+        "contra": 21,
+        "abstencao": 35
       }
     },
     "L": {
@@ -137,17 +132,17 @@
         "abstencao": 25
       }
     },
-    "PS": {
-      "authored": 226,
+    "IL": {
+      "authored": 148,
       "finalVotes": {
-        "favor": 223,
-        "contra": 21,
-        "abstencao": 35
+        "favor": 184,
+        "contra": 25,
+        "abstencao": 70
       }
     }
   },
   "finalVotesCounted": 283,
-  "totalInitiatives": 2314,
+  "totalInitiatives": 2315,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",

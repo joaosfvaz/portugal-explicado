@@ -136,14 +136,6 @@
     "situation": "Efetivo"
   },
   {
-    "id": 16196,
-    "name": "Andreia Galvão",
-    "fullName": "Andreia Almeida Duarte Baptista Galvão",
-    "party": "BE",
-    "circle": "Lisboa",
-    "situation": "Efetivo Temporário"
-  },
-  {
     "id": 16898,
     "name": "Andreia Neto",
     "fullName": "Andreia Carina Machado da Silva Neto",
@@ -1205,6 +1197,14 @@
     "fullName": "José Miguel Ribeiro de Castro Guimarães",
     "party": "PSD",
     "circle": "Porto",
+    "situation": "Efetivo"
+  },
+  {
+    "id": 16522,
+    "name": "Miguel Matos",
+    "fullName": "Miguel de Oliveira Pires da Costa de Matos",
+    "party": "PS",
+    "circle": "Lisboa",
     "situation": "Efetivo"
   },
   {
