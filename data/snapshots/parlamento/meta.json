@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-10-02T12:58:58.661Z",
+  "importedAt": "2026-10-03T11:53:30.869Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-10-01",
+  "sourceUpdatedUpTo": "2026-10-02",
   "parties": [
     {
       "acronym": "PSD",
@@ -40,6 +40,11 @@
       "seats": 2
     },
     {
+      "acronym": "BE",
+      "name": "Bloco De Esquerda",
+      "seats": 1
+    },
+    {
       "acronym": "JPP",
       "name": "Juntos Pelo Povo",
       "seats": 1
@@ -51,7 +56,7 @@
     }
   ],
   "counts": {
-    "em-curso": 807,
+    "em-curso": 808,
     "aprovada": 170,
     "publicada": 509,
     "rejeitada": 796,
@@ -68,14 +73,6 @@
         "abstencao": 73
       }
     },
-    "CH": {
-      "authored": 477,
-      "finalVotes": {
-        "favor": 230,
-        "contra": 16,
-        "abstencao": 33
-      }
-    },
     "CDS-PP": {
       "authored": 88,
       "finalVotes": {
@@ -84,12 +81,20 @@
         "abstencao": 72
       }
     },
-    "PS": {
-      "authored": 226,
+    "CH": {
+      "authored": 477,
       "finalVotes": {
-        "favor": 223,
-        "contra": 21,
-        "abstencao": 35
+        "favor": 230,
+        "contra": 16,
+        "abstencao": 33
+      }
+    },
+    "IL": {
+      "authored": 148,
+      "finalVotes": {
+        "favor": 184,
+        "contra": 25,
+        "abstencao": 70
       }
     },
     "L": {
@@ -109,7 +114,7 @@
       }
     },
     "BE": {
-      "authored": 211,
+      "authored": 212,
       "finalVotes": {
         "favor": 173,
         "contra": 50,
@@ -132,17 +137,17 @@
         "abstencao": 25
       }
     },
-    "IL": {
-      "authored": 148,
+    "PS": {
+      "authored": 226,
       "finalVotes": {
-        "favor": 184,
-        "contra": 25,
-        "abstencao": 70
+        "favor": 223,
+        "contra": 21,
+        "abstencao": 35
       }
     }
   },
   "finalVotesCounted": 283,
-  "totalInitiatives": 2315,
+  "totalInitiatives": 2316,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",

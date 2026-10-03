@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-10-02T12:58:28.509Z",
+  "importedAt": "2026-10-03T11:53:05.657Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
     {
@@ -23,6 +23,17 @@
       "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741",
       "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19200/0000200031.pdf",
       "firstSeen": "2026-10-02"
+    },
+    {
+      "title": "Portaria n.º 448-A/2026/1",
+      "actType": "Portaria",
+      "number": "448-A/2026/1",
+      "diarioDate": "2026-10-02",
+      "issuer": "Finanças e Ambiente e Energia",
+      "summary": "Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/448-a-2026-1177060617",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19201/0000200003.pdf",
+      "firstSeen": "2026-10-03"
     },
     {
       "title": "Decreto n.º 21/2026",
