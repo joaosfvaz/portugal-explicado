@@ -1,7 +1,62 @@
 {
-  "importedAt": "2026-10-04T12:42:47.694Z",
+  "importedAt": "2026-10-06T13:29:59.367Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Declaração de Retificação n.º 36/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "36/2026/1",
+      "diarioDate": "2026-10-06",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Retifica o Decreto n.º 21/2026, de 1 de outubro, que procede à exclusão do regime florestal parcial de parcela de terreno localizada na serra da Freita, na freguesia de Sul, do concelho de São Pedro do Sul, para a construção do Centro de Interpretação da Serra da Freita.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/36-2026-1177471464",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19300/0000700007.pdf",
+      "firstSeen": "2026-10-06"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 149/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "149/2026",
+      "diarioDate": "2026-10-06",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Tenente-General do Major-General Paulo Jorge Lopes da Silva.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/149-2026-1177471460",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19300/0000200002.pdf",
+      "firstSeen": "2026-10-06"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 150/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "150/2026",
+      "diarioDate": "2026-10-06",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a graduação no posto de Major-General do Brigadeiro-General Paulo Luís Almeida Pereira.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/150-2026-1177471461",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19300/0000300003.pdf",
+      "firstSeen": "2026-10-06"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 151/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "151/2026",
+      "diarioDate": "2026-10-06",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Brigadeiro-General do Coronel Tirocinado de Administração Militar António Manuel de Jesus Coelho dos Santos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/151-2026-1177471462",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19300/0000400004.pdf",
+      "firstSeen": "2026-10-06"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 252/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "252/2026",
+      "diarioDate": "2026-10-06",
+      "issuer": null,
+      "summary": "Assembleia da República Comissão Parlamentar de Inquérito às decisões, contratações e responsabilidades na conceção e execução da classificação digital dos exames nacionais de 2025 e 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/252-2026-1177471463",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19300/0000500006.pdf",
+      "firstSeen": "2026-10-06"
+    },
     {
       "title": "Decreto Regulamentar Regional n.º 21/2026/A",
       "actType": "Decreto Regulamentar Regional",
