@@ -1,7 +1,29 @@
 {
-  "importedAt": "2026-10-06T13:29:59.367Z",
+  "importedAt": "2026-10-07T13:41:49.099Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto-Lei n.º 199/2026",
+      "actType": "Decreto-Lei",
+      "number": "199/2026",
+      "diarioDate": "2026-10-07",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Cria apoios financeiros extraordinários e temporários destinados a mitigar o aumento dos custos de exploração associados aos combustíveis nos setores do transporte rodoviário de mercadorias e de passageiros, táxis, setor social e associações humanitárias de bombeiros.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2026-1177979316",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19400/0000200013.pdf",
+      "firstSeen": "2026-10-07"
+    },
+    {
+      "title": "Portaria n.º 449/2026/1",
+      "actType": "Portaria",
+      "number": "449/2026/1",
+      "diarioDate": "2026-10-07",
+      "issuer": "Finanças e Justiça",
+      "summary": "Autoriza o conselho diretivo do Instituto dos Registos e do Notariado, I. P., a assumir, para o ano de 2027, os encargos orçamentais decorrentes do contrato de aquisição de serviços de implementação de infraestrutura de plataforma como serviço (IaaS, PaaS e SaaS) e serviços de consultoria para a operação e monitorização da plataforma BUPi Cloud.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/449-2026-1177979317",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19400/0001400015.pdf",
+      "firstSeen": "2026-10-07"
+    },
     {
       "title": "Declaração de Retificação n.º 36/2026/1",
       "actType": "Declaração de Retificação",
