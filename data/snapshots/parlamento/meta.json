@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-10-07T13:42:11.632Z",
+  "importedAt": "2026-10-08T13:51:09.468Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-10-06",
+  "sourceUpdatedUpTo": "2026-10-08",
   "parties": [
     {
       "acronym": "PSD",
@@ -56,7 +56,7 @@
     }
   ],
   "counts": {
-    "em-curso": 811,
+    "em-curso": 814,
     "aprovada": 169,
     "publicada": 510,
     "rejeitada": 796,
@@ -73,20 +73,28 @@
         "abstencao": 73
       }
     },
-    "CH": {
-      "authored": 477,
-      "finalVotes": {
-        "favor": 231,
-        "contra": 16,
-        "abstencao": 33
-      }
-    },
     "CDS-PP": {
-      "authored": 88,
+      "authored": 89,
       "finalVotes": {
         "favor": 161,
         "contra": 47,
         "abstencao": 72
+      }
+    },
+    "PAN": {
+      "authored": 307,
+      "finalVotes": {
+        "favor": 219,
+        "contra": 19,
+        "abstencao": 39
+      }
+    },
+    "JPP": {
+      "authored": 94,
+      "finalVotes": {
+        "favor": 244,
+        "contra": 9,
+        "abstencao": 25
       }
     },
     "PS": {
@@ -121,20 +129,12 @@
         "abstencao": 39
       }
     },
-    "PAN": {
-      "authored": 307,
+    "CH": {
+      "authored": 477,
       "finalVotes": {
-        "favor": 219,
-        "contra": 19,
-        "abstencao": 39
-      }
-    },
-    "JPP": {
-      "authored": 94,
-      "finalVotes": {
-        "favor": 244,
-        "contra": 9,
-        "abstencao": 25
+        "favor": 231,
+        "contra": 16,
+        "abstencao": 33
       }
     },
     "IL": {
@@ -147,7 +147,7 @@
     }
   },
   "finalVotesCounted": 284,
-  "totalInitiatives": 2319,
+  "totalInitiatives": 2322,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",
