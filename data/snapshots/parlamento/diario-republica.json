@@ -1,7 +1,29 @@
 {
-  "importedAt": "2026-10-08T13:50:44.545Z",
+  "importedAt": "2026-10-09T13:35:00.010Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 451/2026/1",
+      "actType": "Portaria",
+      "number": "451/2026/1",
+      "diarioDate": "2026-10-09",
+      "issuer": "Finanças e Cultura, Juventude e Desporto",
+      "summary": "Aprova o Regulamento Arquivístico da Inspeção-Geral de Finanças.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/451-2026-1178585149",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19600/0000400057.pdf",
+      "firstSeen": "2026-10-09"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 196/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "196/2026",
+      "diarioDate": "2026-10-09",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Adapta a Estrutura de Missão «Recuperar Portugal» à fase de encerramento do Plano de Recuperação e Resiliência.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2026-1178585148",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19600/0000200003.pdf",
+      "firstSeen": "2026-10-09"
+    },
     {
       "title": "Decreto n.º 22/2026",
       "actType": "Decreto",
