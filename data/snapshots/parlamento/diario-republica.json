@@ -1,7 +1,73 @@
 {
-  "importedAt": "2026-10-11T13:14:38.194Z",
+  "importedAt": "2026-10-12T15:51:54.140Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 452/2026/1",
+      "actType": "Portaria",
+      "number": "452/2026/1",
+      "diarioDate": "2026-10-12",
+      "issuer": "Justiça",
+      "summary": "Regulamenta a legalização de documentos através da aposição de apostilas pelos notários.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/452-2026-1179433115",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19700/0000600010.pdf",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "Portaria n.º 453/2026/1",
+      "actType": "Portaria",
+      "number": "453/2026/1",
+      "diarioDate": "2026-10-12",
+      "issuer": null,
+      "summary": "Trabalho, Solidariedade e Segurança Social Portaria de extensão das alterações do contrato coletivo entre a Associação Nacional dos Industriais de Lanifícios (ANIL) e outra e a Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal - FESETE.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/453-2026-1179433116",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19700/0001100013.pdf",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 257/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "257/2026",
+      "diarioDate": "2026-10-12",
+      "issuer": null,
+      "summary": "Assembleia da República Apreciação do relatório do Governo «Portugal na União Europeia 2025».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/257-2026-1179433111",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19700/0000200002.pdf",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 258/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "258/2026",
+      "diarioDate": "2026-10-12",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo medidas para melhorar as condições de vida das pessoas com esclerose lateral amiotrófica.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/258-2026-1179433112",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19700/0000300003.pdf",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 259/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "259/2026",
+      "diarioDate": "2026-10-12",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo a criação de um mecanismo extraordinário de apoio à vindima de 2026 na Região Demarcada do Douro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/259-2026-1179433113",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19700/0000400004.pdf",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 260/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "260/2026",
+      "diarioDate": "2026-10-12",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo a criação de medidas de apoio ao montado.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/260-2026-1179433114",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19700/0000500005.pdf",
+      "firstSeen": "2026-10-12"
+    },
     {
       "title": "Portaria n.º 451-A/2026/1",
       "actType": "Portaria",
