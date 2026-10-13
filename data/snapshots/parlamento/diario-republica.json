@@ -1,7 +1,29 @@
 {
-  "importedAt": "2026-10-12T15:51:54.140Z",
+  "importedAt": "2026-10-13T14:27:31.901Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 454/2026/1",
+      "actType": "Portaria",
+      "number": "454/2026/1",
+      "diarioDate": "2026-10-13",
+      "issuer": "Presidência do Conselho de Ministros e Finanças",
+      "summary": "Regulamenta o disposto no artigo 4.º do anexo III ao Decreto-Lei n.º 97/2026, de 20 de maio, relativamente aos limites máximos de renda por tipologia aplicáveis no âmbito do Regime Simplificado de Arrendamento Acessível.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19800/0000200012.pdf",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "Portaria n.º 455/2026/1",
+      "actType": "Portaria",
+      "number": "455/2026/1",
+      "diarioDate": "2026-10-13",
+      "issuer": null,
+      "summary": "Finanças Divulga as taxas de variação do deflator do produto interno bruto e do produto interno bruto por trabalhador, bem como o coeficiente de atualização dos escalões de rendimento coletável previstos no artigo 68.º do Código do Imposto sobre o Rendimento das Pessoas Singulares.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/455-2026-1179722109",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/19800/0001300014.pdf",
+      "firstSeen": "2026-10-13"
+    },
     {
       "title": "Portaria n.º 452/2026/1",
       "actType": "Portaria",
