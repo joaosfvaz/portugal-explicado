@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-10-14T12:13:09.792Z",
+  "importedAt": "2026-10-15T11:52:24.438Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 457/2026/1",
+      "actType": "Portaria",
+      "number": "457/2026/1",
+      "diarioDate": "2026-10-15",
+      "issuer": "Finanças",
+      "summary": "Procede à atualização dos coeficientes de desvalorização da moeda a aplicar aos bens e direitos alienados durante o ano de 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/457-2026-1180341125",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20000/0000400006.pdf",
+      "firstSeen": "2026-10-15"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 263/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "263/2026",
+      "diarioDate": "2026-10-15",
+      "issuer": "Assembleia da República",
+      "summary": "Deslocação do Presidente da República à Eslovénia.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/263-2026-1180341123",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20000/0000200002.pdf",
+      "firstSeen": "2026-10-15"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 200/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "200/2026",
+      "diarioDate": "2026-10-15",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a Museus e Monumentos de Portugal, E. P. E., a proceder à recalendarização dos encargos plurianuais referentes ao projeto de investimento para reabilitação do Palácio Burnay e respetivos jardins.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/200-2026-1180341124",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20000/0000300003.pdf",
+      "firstSeen": "2026-10-15"
+    },
     {
       "title": "Declaração de Retificação n.º 37/2026/1",
       "actType": "Declaração de Retificação",
