@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-10-15T11:52:47.518Z",
+  "importedAt": "2026-10-16T11:44:22.040Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
   "sourceUpdatedUpTo": "2026-10-15",
@@ -57,8 +57,8 @@
   ],
   "counts": {
     "em-curso": 787,
-    "aprovada": 168,
-    "publicada": 529,
+    "aprovada": 167,
+    "publicada": 530,
     "rejeitada": 823,
     "vetada": 0,
     "retirada": 28,

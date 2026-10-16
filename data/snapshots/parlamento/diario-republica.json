@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-10-15T11:52:24.438Z",
+  "importedAt": "2026-10-16T11:43:59.497Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Declaração de Retificação n.º 38/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "38/2026/1",
+      "diarioDate": "2026-10-16",
+      "issuer": "Assembleia da República",
+      "summary": "Retifica a Lei Orgânica n.º 3/2026, de 10 de setembro, que aprova a décima alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores, aprovada pelo Decreto-Lei n.º 267/80, de 8 de agosto.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2026-1182082412",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20100/0000200002.pdf",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "title": "Portaria n.º 458/2026/1",
+      "actType": "Portaria",
+      "number": "458/2026/1",
+      "diarioDate": "2026-10-16",
+      "issuer": "Economia e Coesão Territorial",
+      "summary": "Procede à quarta alteração do sistema de incentivos Portugal Events, criado pela Portaria n.º 101/2023, de 11 de abril, com as alterações dadas pela Portaria n.º 429/2023, de 12 de dezembro, pela Portaria n.º 34/2025/1, de 10 de fevereiro, e pela Portaria n.º 4/2026/1, de 5 de janeiro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20100/0000600025.pdf",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 201/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "201/2026",
+      "diarioDate": "2026-10-16",
+      "issuer": null,
+      "summary": "Presidência do Conselho de Ministros Seleciona a proposta de aquisição de ações objeto de venda direta de referência da Transportes Aéreos Portugueses, S. A.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/201-2026-1182082413",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20100/0000300005.pdf",
+      "firstSeen": "2026-10-16"
+    },
     {
       "title": "Portaria n.º 457/2026/1",
       "actType": "Portaria",
