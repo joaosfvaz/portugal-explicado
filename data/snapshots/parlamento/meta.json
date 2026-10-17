@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-10-16T11:44:22.040Z",
+  "importedAt": "2026-10-17T11:03:21.941Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-10-15",
+  "sourceUpdatedUpTo": "2026-10-16",
   "parties": [
     {
       "acronym": "PSD",
@@ -56,7 +56,7 @@
     }
   ],
   "counts": {
-    "em-curso": 787,
+    "em-curso": 789,
     "aprovada": 167,
     "publicada": 530,
     "rejeitada": 823,
@@ -66,7 +66,7 @@
   },
   "partyStats": {
     "PSD": {
-      "authored": 83,
+      "authored": 84,
       "finalVotes": {
         "favor": 154,
         "contra": 56,
@@ -122,7 +122,7 @@
       }
     },
     "PAN": {
-      "authored": 308,
+      "authored": 309,
       "finalVotes": {
         "favor": 219,
         "contra": 19,
@@ -147,7 +147,7 @@
     }
   },
   "finalVotesCounted": 289,
-  "totalInitiatives": 2340,
+  "totalInitiatives": 2342,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",
