@@ -1,7 +1,161 @@
 {
-  "importedAt": "2026-10-18T11:31:41.497Z",
+  "importedAt": "2026-10-19T13:46:45.650Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto Regulamentar Regional n.º 22/2026/A",
+      "actType": "Decreto Regulamentar Regional",
+      "number": "22/2026/A",
+      "diarioDate": "2026-10-19",
+      "issuer": "Região Autónoma dos Açores - Presidência do Governo Regional",
+      "summary": "Aprova o regulamento regional de registo e publicitação de atividades de representação legítima de interesses.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2026-1182979575",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0002900033.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Lei n.º 63/2026",
+      "actType": "Lei",
+      "number": "63/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": null,
+      "summary": "Assembleia da República Regras de utilização de bandeiras em edifícios públicos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/63-2026-1182082462",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0000300005.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Lei n.º 64/2026",
+      "actType": "Lei",
+      "number": "64/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Prorroga a vigência da Lei n.º 12-B/2026, de 15 de abril, que altera temporária e excecionalmente os limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/64-2026-1182082463",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0000600006.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Portaria n.º 459/2026/1",
+      "actType": "Portaria",
+      "number": "459/2026/1",
+      "diarioDate": "2026-10-19",
+      "issuer": "Finanças e Agricultura e Mar",
+      "summary": "Terceira alteração da Portaria n.º 86-A/2026/1, de 20 de fevereiro, alterada pela Portaria n.º 181/2026/1, de 21 de abril, e pela Portaria n.º 296-B/2026/1, de 15 de julho, que regulamenta os apoios às explorações agrícolas, nos termos do n.º 7 do capítulo III do anexo II da Resolução do Conselho de Ministros n.º 17-A/2026, de 3 de fevereiro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/459-2026-1182082473",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001700018.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Portaria n.º 460/2026/1",
+      "actType": "Portaria",
+      "number": "460/2026/1",
+      "diarioDate": "2026-10-19",
+      "issuer": "Economia e Coesão Territorial",
+      "summary": "Procede à quarta alteração ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, para o período de programação 2021-2027.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/460-2026-1182082474",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001900028.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 264/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "264/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo que adote medidas de proteção das famílias com crédito à habitação face ao risco de aumento das taxas de juro na sequência do agravamento da situação no Médio Oriente.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/264-2026-1182082464",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0000700007.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 265/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "265/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo o reforço da identificação e mobilização do património imobiliário público para fins habitacionais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/265-2026-1182082465",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0000800009.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 266/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "266/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo o desenvolvimento de uma estratégia nacional para a natalidade nas áreas da fiscalidade e da segurança social.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/266-2026-1182082466",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001000010.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 267/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "267/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo a revisão das deduções fixas ao imposto municipal sobre imóveis, aplicáveis a prédios de sujeitos passivos com dependentes a cargo.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/267-2026-1182082467",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001100011.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 268/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "268/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo que assegure a estabilidade, valorização e atratividade do ensino português no estrangeiro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/268-2026-1182082468",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001200012.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 269/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "269/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo a promoção do aumento da taxa de natalidade no âmbito da tributação fiscal e das prestações sociais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/269-2026-1182082469",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001300013.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 270/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "270/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo medidas de alívio fiscal.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/270-2026-1182082470",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001400014.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 271/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "271/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo que mobilize a comunidade internacional para a liberdade de navegação no Estreito de Ormuz.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/271-2026-1182082471",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001500015.pdf",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 272/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "272/2026",
+      "diarioDate": "2026-10-19",
+      "issuer": "Assembleia da República",
+      "summary": "Deslocação do Presidente da República a Madrid.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/272-2026-1182082472",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20200/0001600016.pdf",
+      "firstSeen": "2026-10-19"
+    },
     {
       "title": "Declaração de Retificação n.º 38/2026/1",
       "actType": "Declaração de Retificação",
