@@ -1,10 +1,10 @@
 {
-  "importedAt": "2026-10-19T13:48:43.331Z",
+  "importedAt": "2026-10-20T11:56:33.408Z",
   "indicators": [
     {
       "slug": "crescimento-pib",
-      "importedAt": "2026-10-19T13:48:35.514Z",
-      "sourceUpdatedAt": "2026-10-19T11:00:00+0200",
+      "importedAt": "2026-10-20T11:56:24.602Z",
+      "sourceUpdatedAt": "2026-10-20T11:00:00+0200",
       "series": {
         "PT": [
           {
@@ -165,11 +165,11 @@
           },
           {
             "period": "2016",
-            "value": 1.9
+            "value": 2
           },
           {
             "period": "2017",
-            "value": 2.8
+            "value": 2.9
           },
           {
             "period": "2018",
@@ -197,7 +197,7 @@
           },
           {
             "period": "2024",
-            "value": 1.3
+            "value": 1.4
           },
           {
             "period": "2025",
@@ -208,8 +208,8 @@
     },
     {
       "slug": "crescimento-pib-trimestral",
-      "importedAt": "2026-10-19T13:48:36.875Z",
-      "sourceUpdatedAt": "2026-10-19T11:00:00+0200",
+      "importedAt": "2026-10-20T11:56:26.058Z",
+      "sourceUpdatedAt": "2026-10-20T11:00:00+0200",
       "series": {
         "PT": [
           {
@@ -458,7 +458,7 @@
         "EU27_2020": [
           {
             "period": "2019-Q1",
-            "value": 2.1
+            "value": 2.2
           },
           {
             "period": "2019-Q2",
@@ -466,7 +466,7 @@
           },
           {
             "period": "2019-Q3",
-            "value": 2
+            "value": 2.1
           },
           {
             "period": "2019-Q4",
@@ -478,7 +478,7 @@
           },
           {
             "period": "2020-Q2",
-            "value": -13.1
+            "value": -13
           },
           {
             "period": "2020-Q3",
@@ -486,11 +486,11 @@
           },
           {
             "period": "2020-Q4",
-            "value": -3.6
+            "value": -3.5
           },
           {
             "period": "2021-Q1",
-            "value": 0.2
+            "value": 0.3
           },
           {
             "period": "2021-Q2",
@@ -498,7 +498,7 @@
           },
           {
             "period": "2021-Q3",
-            "value": 5.3
+            "value": 5.4
           },
           {
             "period": "2021-Q4",
@@ -506,11 +506,11 @@
           },
           {
             "period": "2022-Q1",
-            "value": 5.5
+            "value": 5.6
           },
           {
             "period": "2022-Q2",
-            "value": 4.2
+            "value": 4.3
           },
           {
             "period": "2022-Q3",
@@ -538,15 +538,15 @@
           },
           {
             "period": "2024-Q1",
-            "value": 1
-          },
-          {
-            "period": "2024-Q2",
             "value": 1.1
           },
           {
+            "period": "2024-Q2",
+            "value": 1.2
+          },
+          {
             "period": "2024-Q3",
-            "value": 1.3
+            "value": 1.4
           },
           {
             "period": "2024-Q4",
@@ -558,7 +558,7 @@
           },
           {
             "period": "2025-Q2",
-            "value": 1.6
+            "value": 1.5
           },
           {
             "period": "2025-Q3",
@@ -581,7 +581,7 @@
     },
     {
       "slug": "pib-per-capita",
-      "importedAt": "2026-10-19T13:48:38.151Z",
+      "importedAt": "2026-10-20T11:56:27.272Z",
       "sourceUpdatedAt": "2026-07-09T23:00:00+0200",
       "series": {
         "PT": [
@@ -738,7 +738,7 @@
     },
     {
       "slug": "inflacao",
-      "importedAt": "2026-10-19T13:48:38.314Z",
+      "importedAt": "2026-10-20T11:56:27.451Z",
       "sourceUpdatedAt": "2026-10-16T23:00:00+0200",
       "series": {
         "PT": [
@@ -1435,7 +1435,7 @@
     },
     {
       "slug": "inflacao-anual",
-      "importedAt": "2026-10-19T13:48:38.470Z",
+      "importedAt": "2026-10-20T11:56:27.632Z",
       "sourceUpdatedAt": "2026-02-06T23:00:00+0100",
       "series": {
         "PT": [
@@ -1640,7 +1640,7 @@
     },
     {
       "slug": "gasoleo",
-      "importedAt": "2026-10-19T13:48:38.628Z",
+      "importedAt": "2026-10-20T11:56:27.818Z",
       "sourceUpdatedAt": "2026-10-12",
       "series": {
         "PT": [
@@ -11751,16 +11751,16 @@
         ]
       },
       "latestDaily": {
-        "date": "2026-10-18",
-        "value": 2.145,
-        "stations": 1685,
+        "date": "2026-10-19",
+        "value": 2.175,
+        "stations": 1698,
         "source": "DGEG, Preços dos Combustíveis Online",
         "sourceUrl": "https://precoscombustiveis.dgeg.gov.pt/"
       }
     },
     {
       "slug": "gasolina-95",
-      "importedAt": "2026-10-19T13:48:40.692Z",
+      "importedAt": "2026-10-20T11:56:30.564Z",
       "sourceUpdatedAt": "2026-10-12",
       "series": {
         "PT": [
@@ -21867,16 +21867,16 @@
         ]
       },
       "latestDaily": {
-        "date": "2026-10-18",
-        "value": 2.116,
-        "stations": 1805,
+        "date": "2026-10-19",
+        "value": 2.099,
+        "stations": 1819,
         "source": "DGEG, Preços dos Combustíveis Online",
         "sourceUrl": "https://precoscombustiveis.dgeg.gov.pt/"
       }
     },
     {
       "slug": "gpl-auto",
-      "importedAt": "2026-10-19T13:48:41.287Z",
+      "importedAt": "2026-10-20T11:56:31.045Z",
       "sourceUpdatedAt": "2026-10-12",
       "series": {
         "PT": [
@@ -31987,16 +31987,16 @@
         ]
       },
       "latestDaily": {
-        "date": "2026-10-18",
-        "value": 0.946,
-        "stations": 265,
+        "date": "2026-10-19",
+        "value": 0.952,
+        "stations": 266,
         "source": "DGEG, Preços dos Combustíveis Online",
         "sourceUrl": "https://precoscombustiveis.dgeg.gov.pt/"
       }
     },
     {
       "slug": "desemprego",
-      "importedAt": "2026-10-19T13:48:41.488Z",
+      "importedAt": "2026-10-20T11:56:31.261Z",
       "sourceUpdatedAt": "2026-10-16T23:00:00+0200",
       "series": {
         "PT": [
@@ -33113,7 +33113,7 @@
     },
     {
       "slug": "salario-minimo",
-      "importedAt": "2026-10-19T13:48:41.670Z",
+      "importedAt": "2026-10-20T11:56:31.447Z",
       "sourceUpdatedAt": "2026-07-31T11:00:00+0200",
       "series": {
         "PT": [
@@ -33218,7 +33218,7 @@
     },
     {
       "slug": "divida-publica",
-      "importedAt": "2026-10-19T13:48:41.816Z",
+      "importedAt": "2026-10-20T11:56:31.632Z",
       "sourceUpdatedAt": "2026-04-22T11:00:00+0200",
       "series": {
         "PT": [
@@ -33423,7 +33423,7 @@
     },
     {
       "slug": "saldo-orcamental",
-      "importedAt": "2026-10-19T13:48:41.962Z",
+      "importedAt": "2026-10-20T11:56:31.817Z",
       "sourceUpdatedAt": "2026-04-22T11:00:00+0200",
       "series": {
         "PT": [
@@ -33628,8 +33628,8 @@
     },
     {
       "slug": "juros-divida",
-      "importedAt": "2026-10-19T13:48:42.120Z",
-      "sourceUpdatedAt": "2026-10-12T16:00:00Z",
+      "importedAt": "2026-10-20T11:56:31.992Z",
+      "sourceUpdatedAt": "2026-10-19T16:00:00Z",
       "series": {
         "PT": [
           {
@@ -34009,7 +34009,7 @@
     },
     {
       "slug": "precos-habitacao",
-      "importedAt": "2026-10-19T13:48:42.765Z",
+      "importedAt": "2026-10-20T11:56:32.753Z",
       "sourceUpdatedAt": "2026-10-01T11:00:00+0200",
       "series": {
         "PT": [
@@ -34382,7 +34382,7 @@
     },
     {
       "slug": "juro-credito-habitacao",
-      "importedAt": "2026-10-19T13:48:42.919Z",
+      "importedAt": "2026-10-20T11:56:32.930Z",
       "sourceUpdatedAt": "2026-10-01T09:30:00Z",
       "series": {
         "PT": [
@@ -34759,7 +34759,7 @@
     },
     {
       "slug": "populacao",
-      "importedAt": "2026-10-19T13:48:43.186Z",
+      "importedAt": "2026-10-20T11:56:33.220Z",
       "sourceUpdatedAt": "2026-09-25T23:00:00+0200",
       "series": {
         "PT": [

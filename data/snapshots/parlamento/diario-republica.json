@@ -1,7 +1,106 @@
 {
-  "importedAt": "2026-10-19T13:46:45.650Z",
+  "importedAt": "2026-10-20T11:55:57.531Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto-Lei n.º 202/2026",
+      "actType": "Decreto-Lei",
+      "number": "202/2026",
+      "diarioDate": "2026-10-20",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 40-A/2026, de 13 de fevereiro, que estabelece um regime excecional e temporário de simplificação administrativa e financeira destinado à reconstrução e reabilitação de património e das infraestruturas localizadas nos concelhos afetados pela tempestade «Kristin».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2026-1183482554",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0000600007.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Portaria n.º 461/2026/1",
+      "actType": "Portaria",
+      "number": "461/2026/1",
+      "diarioDate": "2026-10-20",
+      "issuer": "Finanças e Agricultura e Mar",
+      "summary": "Estabelece uma majoração do apoio atribuído no âmbito do Programa Mar 2030, para mitigação dos efeitos do aumento dos custos dos combustíveis decorrente da crise no Médio Oriente, aplicável às embarcações da pequena pesca.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/461-2026-1183482555",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0000800010.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Portaria n.º 462/2026/1",
+      "actType": "Portaria",
+      "number": "462/2026/1",
+      "diarioDate": "2026-10-20",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação do perímetro de proteção da captação de águas subterrâneas designada por «Mina Cortiças», localizada no concelho de Vila Nova de Cerveira.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/462-2026-1183482556",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0001100021.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 273/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "273/2026",
+      "diarioDate": "2026-10-20",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo que defenda, junto do Governo da República Árabe do Egito, a necessidade de cessar a discriminação das comunidades cristã e Bahá'i.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/273-2026-1183482551",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0000300003.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 274/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "274/2026",
+      "diarioDate": "2026-10-20",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo a adoção de uma estratégia para reforçar as relações de Portugal com a América Latina e as Caraíbas e promover a democracia na região.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/274-2026-1183482552",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0000400004.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 275/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "275/2026",
+      "diarioDate": "2026-10-20",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo o reforço dos mecanismos de proteção dos consumidores das regiões autónomas no comércio eletrónico.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/275-2026-1183482553",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0000500005.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 29/2026/M",
+      "actType": "Resolução da Assembleia Legislativa da Região Autónoma da Madeira",
+      "number": "29/2026/M",
+      "diarioDate": "2026-10-20",
+      "issuer": "Região Autónoma da Madeira - Assembleia Legislativa",
+      "summary": "Aprova o Relatório e a Conta da Assembleia Legislativa da Região Autónoma da Madeira referentes ao ano de 2024.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/29-2026-1183482557",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0002200022.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 36/2026/A",
+      "actType": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores",
+      "number": "36/2026/A",
+      "diarioDate": "2026-10-20",
+      "issuer": "Região Autónoma dos Açores - Assembleia Legislativa",
+      "summary": "Recomenda ao Governo Regional dos Açores o reforço da proteção e bem-estar do animal de companhia.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/36-2026-1183482558",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0002300023.pdf",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "title": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 37/2026/A",
+      "actType": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores",
+      "number": "37/2026/A",
+      "diarioDate": "2026-10-20",
+      "issuer": null,
+      "summary": "Região Autónoma dos Açores - Assembleia Legislativa Orçamento da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2027.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/37-2026-1183482559",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20300/0002400030.pdf",
+      "firstSeen": "2026-10-20"
+    },
     {
       "title": "Decreto Regulamentar Regional n.º 22/2026/A",
       "actType": "Decreto Regulamentar Regional",
