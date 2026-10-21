@@ -1,7 +1,73 @@
 {
-  "importedAt": "2026-10-20T11:55:57.531Z",
+  "importedAt": "2026-10-21T12:10:02.260Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto Legislativo Regional n.º 17/2026/A",
+      "actType": "Decreto Legislativo Regional",
+      "number": "17/2026/A",
+      "diarioDate": "2026-10-21",
+      "issuer": "Região Autónoma dos Açores - Assembleia Legislativa",
+      "summary": "Aprova o quadro plurianual de programação orçamental para o período de 2027 a 2030.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2026-1184061224",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20400/0001200013.pdf",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "Decreto Legislativo Regional n.º 18/2026/A",
+      "actType": "Decreto Legislativo Regional",
+      "number": "18/2026/A",
+      "diarioDate": "2026-10-21",
+      "issuer": "Região Autónoma dos Açores - Assembleia Legislativa",
+      "summary": "Institui o Programa Modelo de Apoio à Vida Independente na Região Autónoma dos Açores.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2026-1184061225",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20400/0001400030.pdf",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "Portaria n.º 463/2026/1",
+      "actType": "Portaria",
+      "number": "463/2026/1",
+      "diarioDate": "2026-10-21",
+      "issuer": "Agricultura e Mar",
+      "summary": "Terceira alteração à Portaria n.º 232-A/2025/1, de 23 de maio, que estabelece o regime específico dos apoios a conceder ao abrigo do artigo 78.º do Regulamento (UE) 2021/2115, no que se refere à intervenção C.5.5, «Acompanhamento técnico especializado ― Intercâmbio de conhecimento», do domínio C.5, «Conhecimento», do eixo C, «Desenvolvimento rural», do PEPAC no continente e alterada pelas Portarias n.os 320-C/2026/1, de 31 de julho, e 426/2026/1, de 8 de setembro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/463-2026-1184061223",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20400/0000800011.pdf",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 202/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "202/2026",
+      "diarioDate": "2026-10-21",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a participação da República Portuguesa na European Tech Champions Initiative 2.0, promovida pelo Grupo Banco Europeu de Investimento.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/202-2026-1184061220",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20400/0000200003.pdf",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 203/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "203/2026",
+      "diarioDate": "2026-10-21",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a Força Aérea a assumir o encargo plurianual e a realizar a respetiva despesa com a aquisição de serviços de inspeção de fase de 300 horas de voo e ações de manutenção associadas do sistema de armas F-16, para os anos de 2027 e 2028.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/203-2026-1184061221",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20400/0000400005.pdf",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 204/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "204/2026",
+      "diarioDate": "2026-10-21",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a reprogramação do encargo plurianual e o reforço da despesa referente à edificação do módulo cirúrgico do Hospital das Forças Armadas ― Polo de Lisboa.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/204-2026-1184061222",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20400/0000600007.pdf",
+      "firstSeen": "2026-10-21"
+    },
     {
       "title": "Decreto-Lei n.º 202/2026",
       "actType": "Decreto-Lei",
