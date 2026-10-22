@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-10-21T12:10:26.847Z",
+  "importedAt": "2026-10-22T12:13:50.918Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
   "sourceUpdatedUpTo": "2026-10-21",
@@ -56,7 +56,7 @@
     }
   ],
   "counts": {
-    "em-curso": 764,
+    "em-curso": 765,
     "aprovada": 164,
     "publicada": 544,
     "rejeitada": 840,
@@ -106,7 +106,7 @@
       }
     },
     "PCP": {
-      "authored": 248,
+      "authored": 249,
       "finalVotes": {
         "favor": 112,
         "contra": 95,
@@ -147,7 +147,7 @@
     }
   },
   "finalVotesCounted": 290,
-  "totalInitiatives": 2345,
+  "totalInitiatives": 2346,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",
