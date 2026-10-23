@@ -1,7 +1,73 @@
 {
-  "importedAt": "2026-10-22T12:13:27.577Z",
+  "importedAt": "2026-10-23T11:54:45.508Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 465/2026/1",
+      "actType": "Portaria",
+      "number": "465/2026/1",
+      "diarioDate": "2026-10-23",
+      "issuer": "Saúde",
+      "summary": "Regulamenta a disponibilização gratuita de medicamentos e dispositivos médicos aos participantes de ensaios clínicos após a conclusão da sua participação.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/465-2026-1184835233",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20600/0000500006.pdf",
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "title": "Portaria n.º 466/2026/1",
+      "actType": "Portaria",
+      "number": "466/2026/1",
+      "diarioDate": "2026-10-23",
+      "issuer": null,
+      "summary": "Trabalho, Solidariedade e Segurança Social Fusão, por incorporação, do Centro de Formação para a Transição Energética no Centro de Formação Profissional da Indústria Eletrónica, Energia, Telecomunicações e Tecnologias da Informação.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20600/0000700010.pdf",
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "title": "Portaria n.º 467/2026/1",
+      "actType": "Portaria",
+      "number": "467/2026/1",
+      "diarioDate": "2026-10-23",
+      "issuer": "Ambiente e Energia",
+      "summary": "Altera a Portaria n.º 188/2025/1, de 15 de abril, que estabelece o conteúdo dos planos de gestão de região hidrográfica, ao abrigo do disposto no n.º 2 do artigo 29.º da Lei da Água.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/467-2026-1184835235",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20600/0001100011.pdf",
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 276/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "276/2026",
+      "diarioDate": "2026-10-23",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo um reforço do financiamento e dos meios das associações humanitárias de bombeiros.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/276-2026-1184835230",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20600/0000200002.pdf",
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 277/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "277/2026",
+      "diarioDate": "2026-10-23",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo uma estratégia integrada de combate ao incendiarismo, no âmbito do Sistema de Gestão Integrada de Fogos Rurais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/277-2026-1184835231",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20600/0000300003.pdf",
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 278/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "278/2026",
+      "diarioDate": "2026-10-23",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo a elaboração e implementação de uma estratégia para o património da justiça.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/278-2026-1184835232",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20600/0000400004.pdf",
+      "firstSeen": "2026-10-23"
+    },
     {
       "title": "Decreto n.º 23/2026",
       "actType": "Decreto",
