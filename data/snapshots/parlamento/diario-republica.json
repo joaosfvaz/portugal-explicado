@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-10-23T11:54:45.508Z",
+  "importedAt": "2026-10-24T11:23:14.229Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
     {
@@ -23,6 +23,17 @@
       "url": "https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234",
       "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20600/0000700010.pdf",
       "firstSeen": "2026-10-23"
+    },
+    {
+      "title": "Portaria n.º 467-A/2026/1",
+      "actType": "Portaria",
+      "number": "467-A/2026/1",
+      "diarioDate": "2026-10-23",
+      "issuer": "Finanças e Ambiente e Energia",
+      "summary": "Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/467-a-2026-1185252062",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20601/0000200003.pdf",
+      "firstSeen": "2026-10-24"
     },
     {
       "title": "Portaria n.º 467/2026/1",
