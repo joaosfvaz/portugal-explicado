@@ -1,7 +1,51 @@
 {
-  "importedAt": "2026-10-25T11:53:38.900Z",
+  "importedAt": "2026-10-26T13:25:00.838Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Declaração de Retificação n.º 39/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "39/2026/1",
+      "diarioDate": "2026-10-26",
+      "issuer": "Presidência do Conselho de Ministros - Secretaria-Geral do Governo",
+      "summary": "Retifica a Resolução do Conselho de Ministros n.º 190/2026, de 30 de setembro, que designa os membros do conselho de administração da Unidade Local de Saúde do Algarve, E. P. E.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2026-1185031833",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20700/0000400004.pdf",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "Portaria n.º 468/2026/1",
+      "actType": "Portaria",
+      "number": "468/2026/1",
+      "diarioDate": "2026-10-26",
+      "issuer": "Agricultura e Mar",
+      "summary": "Segunda alteração à Portaria n.º 315/2024/1, de 5 de dezembro, alterada pela Portaria n.º 384/2026/1, de 25 de agosto, que estabelece as regras nacionais complementares das intervenções B.3.3, «Reestruturação e conversão de vinhas (biológica)», e B.3.4, «Reestruturação e conversão de vinhas», do domínio B.3, «Programa Nacional para Apoio ao Setor da Vitivinicultura», do eixo B, «Abordagem setorial integrada», e primeira alteração à Portaria n.º 429/2026/1, de 10 de setembro, que estabelece para o território continental e campanha de 2026-2027 um período excecional de candidaturas aos apoios da intervenção B.3.4, «Reestruturação e conversão de vinhas», do domínio B.3, «Programa Nacional para Apoio ao Setor da Vitivinicultura», do eixo B, «Abordagem setorial integrada», do Plano Estratégico da Política Agrícola Comum, para Portugal (PEPAC Portugal).",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/468-2026-1185031834",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20700/0000500009.pdf",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 279/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "279/2026",
+      "diarioDate": "2026-10-26",
+      "issuer": null,
+      "summary": "Assembleia da República Suspensão do prazo de funcionamento da Comissão Parlamentar de Inquérito aos Negócios dos Incêndios Rurais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/279-2026-1185031831",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20700/0000200002.pdf",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 280/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "280/2026",
+      "diarioDate": "2026-10-26",
+      "issuer": null,
+      "summary": "Assembleia da República Conta Geral do Estado de 2025.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/280-2026-1185031832",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20700/0000300003.pdf",
+      "firstSeen": "2026-10-26"
+    },
     {
       "title": "Portaria n.º 465/2026/1",
       "actType": "Portaria",
