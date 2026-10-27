@@ -1,9 +1,9 @@
 {
-  "importedAt": "2026-10-26T13:25:31.285Z",
+  "importedAt": "2026-10-27T12:32:28.510Z",
   "indicators": [
     {
       "slug": "crescimento-pib",
-      "importedAt": "2026-10-26T13:25:27.081Z",
+      "importedAt": "2026-10-27T12:32:18.083Z",
       "sourceUpdatedAt": "2026-10-22T23:00:00+0200",
       "series": {
         "PT": [
@@ -208,8 +208,8 @@
     },
     {
       "slug": "crescimento-pib-trimestral",
-      "importedAt": "2026-10-26T13:25:27.456Z",
-      "sourceUpdatedAt": "2026-10-22T23:00:00+0200",
+      "importedAt": "2026-10-27T12:32:18.537Z",
+      "sourceUpdatedAt": "2026-10-26T23:00:00+0100",
       "series": {
         "PT": [
           {
@@ -581,7 +581,7 @@
     },
     {
       "slug": "pib-per-capita",
-      "importedAt": "2026-10-26T13:25:27.784Z",
+      "importedAt": "2026-10-27T12:32:19.649Z",
       "sourceUpdatedAt": "2026-07-09T23:00:00+0200",
       "series": {
         "PT": [
@@ -738,7 +738,7 @@
     },
     {
       "slug": "inflacao",
-      "importedAt": "2026-10-26T13:25:27.958Z",
+      "importedAt": "2026-10-27T12:32:19.779Z",
       "sourceUpdatedAt": "2026-10-16T23:00:00+0200",
       "series": {
         "PT": [
@@ -1435,7 +1435,7 @@
     },
     {
       "slug": "inflacao-anual",
-      "importedAt": "2026-10-26T13:25:28.091Z",
+      "importedAt": "2026-10-27T12:32:19.916Z",
       "sourceUpdatedAt": "2026-02-06T23:00:00+0100",
       "series": {
         "PT": [
@@ -1640,7 +1640,7 @@
     },
     {
       "slug": "gasoleo",
-      "importedAt": "2026-10-26T13:25:28.225Z",
+      "importedAt": "2026-10-27T12:32:20.064Z",
       "sourceUpdatedAt": "2026-10-19",
       "series": {
         "PT": [
@@ -11763,16 +11763,16 @@
         ]
       },
       "latestDaily": {
-        "date": "2026-10-25",
-        "value": 2.174,
-        "stations": 1703,
+        "date": "2026-10-26",
+        "value": 2.189,
+        "stations": 1715,
         "source": "DGEG, Preços dos Combustíveis Online",
         "sourceUrl": "https://precoscombustiveis.dgeg.gov.pt/"
       }
     },
     {
       "slug": "gasolina-95",
-      "importedAt": "2026-10-26T13:25:29.259Z",
+      "importedAt": "2026-10-27T12:32:25.934Z",
       "sourceUpdatedAt": "2026-10-19",
       "series": {
         "PT": [
@@ -21891,16 +21891,16 @@
         ]
       },
       "latestDaily": {
-        "date": "2026-10-25",
-        "value": 2.091,
-        "stations": 1817,
+        "date": "2026-10-26",
+        "value": 2.04,
+        "stations": 1829,
         "source": "DGEG, Preços dos Combustíveis Online",
         "sourceUrl": "https://precoscombustiveis.dgeg.gov.pt/"
       }
     },
     {
       "slug": "gpl-auto",
-      "importedAt": "2026-10-26T13:25:29.708Z",
+      "importedAt": "2026-10-27T12:32:26.388Z",
       "sourceUpdatedAt": "2026-10-19",
       "series": {
         "PT": [
@@ -32023,8 +32023,8 @@
         ]
       },
       "latestDaily": {
-        "date": "2026-10-25",
-        "value": 0.961,
+        "date": "2026-10-26",
+        "value": 0.959,
         "stations": 270,
         "source": "DGEG, Preços dos Combustíveis Online",
         "sourceUrl": "https://precoscombustiveis.dgeg.gov.pt/"
@@ -32032,7 +32032,7 @@
     },
     {
       "slug": "desemprego",
-      "importedAt": "2026-10-26T13:25:29.876Z",
+      "importedAt": "2026-10-27T12:32:26.645Z",
       "sourceUpdatedAt": "2026-10-21T11:00:00+0200",
       "series": {
         "PT": [
@@ -33149,7 +33149,7 @@
     },
     {
       "slug": "salario-minimo",
-      "importedAt": "2026-10-26T13:25:29.996Z",
+      "importedAt": "2026-10-27T12:32:26.942Z",
       "sourceUpdatedAt": "2026-07-31T11:00:00+0200",
       "series": {
         "PT": [
@@ -33254,7 +33254,7 @@
     },
     {
       "slug": "divida-publica",
-      "importedAt": "2026-10-26T13:25:30.119Z",
+      "importedAt": "2026-10-27T12:32:27.255Z",
       "sourceUpdatedAt": "2026-10-21T11:00:00+0200",
       "series": {
         "PT": [
@@ -33459,7 +33459,7 @@
     },
     {
       "slug": "saldo-orcamental",
-      "importedAt": "2026-10-26T13:25:30.252Z",
+      "importedAt": "2026-10-27T12:32:27.395Z",
       "sourceUpdatedAt": "2026-10-21T11:00:00+0200",
       "series": {
         "PT": [
@@ -33664,8 +33664,8 @@
     },
     {
       "slug": "juros-divida",
-      "importedAt": "2026-10-26T13:25:30.379Z",
-      "sourceUpdatedAt": "2026-10-19T16:00:00Z",
+      "importedAt": "2026-10-27T12:32:27.532Z",
+      "sourceUpdatedAt": "2026-10-26T17:00:00Z",
       "series": {
         "PT": [
           {
@@ -34045,7 +34045,7 @@
     },
     {
       "slug": "precos-habitacao",
-      "importedAt": "2026-10-26T13:25:30.787Z",
+      "importedAt": "2026-10-27T12:32:28.030Z",
       "sourceUpdatedAt": "2026-10-01T11:00:00+0200",
       "series": {
         "PT": [
@@ -34418,7 +34418,7 @@
     },
     {
       "slug": "juro-credito-habitacao",
-      "importedAt": "2026-10-26T13:25:30.917Z",
+      "importedAt": "2026-10-27T12:32:28.157Z",
       "sourceUpdatedAt": "2026-10-01T09:30:00Z",
       "series": {
         "PT": [
@@ -34795,7 +34795,7 @@
     },
     {
       "slug": "populacao",
-      "importedAt": "2026-10-26T13:25:31.131Z",
+      "importedAt": "2026-10-27T12:32:28.384Z",
       "sourceUpdatedAt": "2026-09-25T23:00:00+0200",
       "series": {
         "PT": [

@@ -1,7 +1,73 @@
 {
-  "importedAt": "2026-10-26T13:25:00.838Z",
+  "importedAt": "2026-10-27T12:31:48.252Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Acórdão do Tribunal Constitucional n.º 845/2026",
+      "actType": "Acórdão do Tribunal Constitucional",
+      "number": "845/2026",
+      "diarioDate": "2026-10-27",
+      "issuer": "Tribunal Constitucional",
+      "summary": "Declara a inconstitucionalidade com força obrigatória geral da norma contida no artigo 2.º, n.os 1 e 2, da Lei n.º 45/2024, de 27 de dezembro, segundo a qual «a proibição de reinscrição na Caixa Geral de Aposentações e os requisitos para a reinscrição constantes daqueles preceitos se considerarem aplicáveis a sujeitos cujo vínculo de emprego público haja cessado depois de 1 de janeiro de 2006 e que o hajam restabelecido até 27 de dezembro de 2024».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/845-2026-1186535406",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20800/0004700053.pdf",
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "title": "Decreto Regulamentar Regional n.º 18/2026/M",
+      "actType": "Decreto Regulamentar Regional",
+      "number": "18/2026/M",
+      "diarioDate": "2026-10-27",
+      "issuer": "Região Autónoma da Madeira - Presidência do Governo Regional",
+      "summary": "Altera o Decreto Regulamentar Regional n.º 17/2026/M, de 21 de setembro, que aprova a orgânica da Secretaria Regional de Saúde e Proteção Civil.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2026-1186535407",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20800/0005400055.pdf",
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "title": "Decreto-Lei n.º 205/2026",
+      "actType": "Decreto-Lei",
+      "number": "205/2026",
+      "diarioDate": "2026-10-27",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o anexo I ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, que aprova o Regime Geral da Gestão de Resíduos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20800/0000200030.pdf",
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "title": "Decreto-Lei n.º 206/2026",
+      "actType": "Decreto-Lei",
+      "number": "206/2026",
+      "diarioDate": "2026-10-27",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova medidas de valorização dos trabalhadores das carreiras especiais de conservador de registos e de oficial de registos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20800/0003100038.pdf",
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "title": "Portaria n.º 469/2026/1",
+      "actType": "Portaria",
+      "number": "469/2026/1",
+      "diarioDate": "2026-10-27",
+      "issuer": "Trabalho, Solidariedade e Segurança Social",
+      "summary": "Procede à fusão, por incorporação, do Centro de Reabilitação Profissional no Centro de Educação e Formação Profissional Integrada.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20800/0003900043.pdf",
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "title": "Portaria n.º 470/2026/1",
+      "actType": "Portaria",
+      "number": "470/2026/1",
+      "diarioDate": "2026-10-27",
+      "issuer": null,
+      "summary": "Trabalho, Solidariedade e Segurança Social Extinção da Academia do Empresário ― Centro de Formação para o Empreendedorismo, Gestão e Liderança.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/470-2026-1186535405",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20800/0004400046.pdf",
+      "firstSeen": "2026-10-27"
+    },
     {
       "title": "Declaração de Retificação n.º 39/2026/1",
       "actType": "Declaração de Retificação",
