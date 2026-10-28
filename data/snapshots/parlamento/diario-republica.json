@@ -1,7 +1,29 @@
 {
-  "importedAt": "2026-10-27T12:31:48.252Z",
+  "importedAt": "2026-10-28T13:20:07.232Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Resolução da Assembleia da República n.º 281/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "281/2026",
+      "diarioDate": "2026-10-28",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo a criação de um observatório da Lagoa de Óbidos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/281-2026-1187134325",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20900/0000200004.pdf",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 282/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "282/2026",
+      "diarioDate": "2026-10-28",
+      "issuer": null,
+      "summary": "Assembleia da República Programa «Parlamento Sénior».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/282-2026-1187134326",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/20900/0000500006.pdf",
+      "firstSeen": "2026-10-28"
+    },
     {
       "title": "Acórdão do Tribunal Constitucional n.º 845/2026",
       "actType": "Acórdão do Tribunal Constitucional",

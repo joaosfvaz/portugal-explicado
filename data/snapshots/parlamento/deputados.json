@@ -72,6 +72,14 @@
     "situation": "Efetivo"
   },
   {
+    "id": 15971,
+    "name": "Ana Catarina Peixoto",
+    "fullName": "Ana Catarina Faria Peixoto",
+    "party": "PSD",
+    "circle": "Braga",
+    "situation": "Efetivo Temporário"
+  },
+  {
     "id": 16892,
     "name": "Ana Gabriela Cabilhas",
     "fullName": "Ana Gabriela Oliveira Cabilhas",
@@ -982,14 +990,6 @@
     "party": "PS",
     "circle": "Bragança",
     "situation": "Efetivo"
-  },
-  {
-    "id": 15969,
-    "name": "Leandro Ferreira Luís",
-    "fullName": "Leandro Ferreira Luís",
-    "party": "PSD",
-    "circle": "Braga",
-    "situation": "Efetivo Temporário"
   },
   {
     "id": 16014,
