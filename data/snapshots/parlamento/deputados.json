@@ -1352,20 +1352,20 @@
     "situation": "Efetivo Temporário"
   },
   {
-    "id": 16582,
-    "name": "Paulo Lopes Marcelo",
-    "fullName": "Paulo José Martins Raposo Lopes Marcelo",
-    "party": "PSD",
-    "circle": "Lisboa",
-    "situation": "Efetivo Temporário"
-  },
-  {
     "id": 15941,
     "name": "Paulo Lopes Silva",
     "fullName": "Paulo Rui Lopes Pereira da Silva",
     "party": "PS",
     "circle": "Braga",
     "situation": "Efetivo"
+  },
+  {
+    "id": 16582,
+    "name": "Paulo Marcelo",
+    "fullName": "Paulo José Martins Raposo Lopes Marcelo",
+    "party": "PSD",
+    "circle": "Lisboa",
+    "situation": "Efetivo Temporário"
   },
   {
     "id": 15779,

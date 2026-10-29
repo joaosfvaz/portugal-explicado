@@ -1,7 +1,51 @@
 {
-  "importedAt": "2026-10-28T13:20:07.232Z",
+  "importedAt": "2026-10-29T13:29:21.057Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto do Presidente da República n.º 154/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "154/2026",
+      "diarioDate": "2026-10-29",
+      "issuer": "Presidência da República",
+      "summary": "Nomeia o embaixador Carlos José de Pinho e Melo Pereira Marques como Embaixador de Portugal não residente na República de Malta.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/154-2026-1187562360",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21000/0000200002.pdf",
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 155/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "155/2026",
+      "diarioDate": "2026-10-29",
+      "issuer": "Presidência da República",
+      "summary": "Nomeia a ministra plenipotenciária de 1.ª classe Susana Oliveira de Sousa Diogo Vaz Patto como Embaixadora de Portugal não residente na República do Sudão.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/155-2026-1187562361",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21000/0000300003.pdf",
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 156/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "156/2026",
+      "diarioDate": "2026-10-29",
+      "issuer": "Presidência da República",
+      "summary": "Nomeia a ministra plenipotenciária de 2.ª classe Carmen Bagulho Silvestre como Embaixadora de Portugal não residente na República Árabe Síria.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/156-2026-1187562362",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21000/0000400004.pdf",
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "title": "Portaria n.º 471/2026/1",
+      "actType": "Portaria",
+      "number": "471/2026/1",
+      "diarioDate": "2026-10-29",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação do perímetro de proteção das captações de águas subterrâneas designadas por «Furo F1» e «Furo F2» do polo de captação de Beleiral-Gavieira, localizadas no concelho de Arcos de Valdevez.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/471-2026-1187562363",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21000/0000500009.pdf",
+      "firstSeen": "2026-10-29"
+    },
     {
       "title": "Resolução da Assembleia da República n.º 281/2026",
       "actType": "Resolução da Assembleia da República",

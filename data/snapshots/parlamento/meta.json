@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-10-28T13:20:43.549Z",
+  "importedAt": "2026-10-29T13:29:47.268Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-10-26",
+  "sourceUpdatedUpTo": "2026-10-28",
   "parties": [
     {
       "acronym": "PSD",
@@ -56,9 +56,9 @@
     }
   ],
   "counts": {
-    "em-curso": 755,
-    "aprovada": 164,
-    "publicada": 550,
+    "em-curso": 759,
+    "aprovada": 162,
+    "publicada": 552,
     "rejeitada": 851,
     "vetada": 0,
     "retirada": 29,
@@ -66,7 +66,7 @@
   },
   "partyStats": {
     "PSD": {
-      "authored": 84,
+      "authored": 85,
       "finalVotes": {
         "favor": 156,
         "contra": 58,
@@ -74,47 +74,23 @@
       }
     },
     "CH": {
-      "authored": 479,
+      "authored": 480,
       "finalVotes": {
         "favor": 238,
         "contra": 18,
         "abstencao": 33
       }
     },
-    "IL": {
-      "authored": 151,
-      "finalVotes": {
-        "favor": 192,
-        "contra": 25,
-        "abstencao": 72
-      }
-    },
     "CDS-PP": {
-      "authored": 89,
+      "authored": 90,
       "finalVotes": {
         "favor": 165,
         "contra": 49,
         "abstencao": 75
       }
     },
-    "PAN": {
-      "authored": 309,
-      "finalVotes": {
-        "favor": 222,
-        "contra": 19,
-        "abstencao": 40
-      }
-    },
-    "JPP": {
-      "authored": 94,
-      "finalVotes": {
-        "favor": 252,
-        "contra": 9,
-        "abstencao": 26
-      }
-    },
     "PS": {
-      "authored": 228,
+      "authored": 229,
       "finalVotes": {
         "favor": 230,
         "contra": 21,
@@ -130,7 +106,7 @@
       }
     },
     "PCP": {
-      "authored": 256,
+      "authored": 257,
       "finalVotes": {
         "favor": 114,
         "contra": 96,
@@ -144,10 +120,34 @@
         "contra": 51,
         "abstencao": 40
       }
+    },
+    "PAN": {
+      "authored": 310,
+      "finalVotes": {
+        "favor": 222,
+        "contra": 19,
+        "abstencao": 40
+      }
+    },
+    "JPP": {
+      "authored": 95,
+      "finalVotes": {
+        "favor": 252,
+        "contra": 9,
+        "abstencao": 26
+      }
+    },
+    "IL": {
+      "authored": 152,
+      "finalVotes": {
+        "favor": 192,
+        "contra": 25,
+        "abstencao": 72
+      }
     }
   },
   "finalVotesCounted": 293,
-  "totalInitiatives": 2354,
+  "totalInitiatives": 2358,
   "sources": [
     {
       "title": "Assembleia da República, Dados Abertos: Iniciativas",
