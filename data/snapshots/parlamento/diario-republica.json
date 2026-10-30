@@ -1,7 +1,84 @@
 {
-  "importedAt": "2026-10-29T13:29:21.057Z",
+  "importedAt": "2026-10-30T13:17:35.293Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto do Presidente da República n.º 157/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "157/2026",
+      "diarioDate": "2026-10-30",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Comodoro do Capitão-de-Mar-e-Guerra, da classe de Médicos Navais, João Pedro Vieira Branco.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/157-2026-1189018880",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000200002.pdf",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 158/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "158/2026",
+      "diarioDate": "2026-10-30",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a graduação no posto de Brigadeiro-General do Coronel Tirocinado de Medicina Paulo José Amado de Campos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/158-2026-1189018881",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000300003.pdf",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 159/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "159/2026",
+      "diarioDate": "2026-10-30",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Brigadeiro-General do Brigadeiro-General Graduado Rui Alexandre Soares Mendes.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/159-2026-1189018882",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000400004.pdf",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Decreto do Presidente da República n.º 160/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "160/2026",
+      "diarioDate": "2026-10-30",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Brigadeiro-General da Coronel Médica Maria de Jesus Cordeiro Rodrigues Lopes Salazar.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/160-2026-1189018883",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000500005.pdf",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 283/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "283/2026",
+      "diarioDate": "2026-10-30",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo o reforço dos meios humanos, técnicos e financeiros da Entidade para a Transparência.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/283-2026-1189018884",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000600006.pdf",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 284/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "284/2026",
+      "diarioDate": "2026-10-30",
+      "issuer": "Assembleia da República",
+      "summary": "Deslocação do Presidente da República a Madrid e Salamanca.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/284-2026-1189018885",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000700007.pdf",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 209/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "209/2026",
+      "diarioDate": "2026-10-30",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a reprogramação dos encargos plurianuais relativos à expansão da Linha Vermelha do Metropolitano de Lisboa, E. P. E.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/209-2026-1189018886",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000800010.pdf",
+      "firstSeen": "2026-10-30"
+    },
     {
       "title": "Decreto do Presidente da República n.º 154/2026",
       "actType": "Decreto do Presidente da República",

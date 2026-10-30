@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-10-29T13:29:47.268Z",
+  "importedAt": "2026-10-30T13:17:59.592Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-10-28",
+  "sourceUpdatedUpTo": "2026-10-29",
   "parties": [
     {
       "acronym": "PSD",
@@ -56,10 +56,10 @@
     }
   ],
   "counts": {
-    "em-curso": 759,
-    "aprovada": 162,
+    "em-curso": 745,
+    "aprovada": 174,
     "publicada": 552,
-    "rejeitada": 851,
+    "rejeitada": 853,
     "vetada": 0,
     "retirada": 29,
     "nao-admitida": 5
@@ -68,85 +68,85 @@
     "PSD": {
       "authored": 85,
       "finalVotes": {
-        "favor": 156,
-        "contra": 58,
+        "favor": 158,
+        "contra": 59,
         "abstencao": 75
       }
     },
     "CH": {
       "authored": 480,
       "finalVotes": {
-        "favor": 238,
-        "contra": 18,
+        "favor": 240,
+        "contra": 19,
         "abstencao": 33
       }
     },
     "CDS-PP": {
       "authored": 90,
       "finalVotes": {
-        "favor": 165,
-        "contra": 49,
+        "favor": 167,
+        "contra": 50,
         "abstencao": 75
       }
     },
     "PS": {
       "authored": 229,
       "finalVotes": {
-        "favor": 230,
+        "favor": 232,
         "contra": 21,
-        "abstencao": 38
+        "abstencao": 39
       }
     },
     "L": {
       "authored": 305,
       "finalVotes": {
-        "favor": 201,
-        "contra": 37,
-        "abstencao": 51
+        "favor": 202,
+        "contra": 38,
+        "abstencao": 52
       }
     },
     "PCP": {
       "authored": 257,
       "finalVotes": {
-        "favor": 114,
-        "contra": 96,
+        "favor": 115,
+        "contra": 98,
         "abstencao": 79
       }
     },
     "BE": {
       "authored": 214,
       "finalVotes": {
-        "favor": 181,
-        "contra": 51,
+        "favor": 183,
+        "contra": 52,
         "abstencao": 40
       }
     },
     "PAN": {
       "authored": 310,
       "finalVotes": {
-        "favor": 222,
+        "favor": 224,
         "contra": 19,
-        "abstencao": 40
+        "abstencao": 41
       }
     },
     "JPP": {
       "authored": 95,
       "finalVotes": {
-        "favor": 252,
+        "favor": 254,
         "contra": 9,
-        "abstencao": 26
+        "abstencao": 27
       }
     },
     "IL": {
       "authored": 152,
       "finalVotes": {
-        "favor": 192,
+        "favor": 194,
         "contra": 25,
-        "abstencao": 72
+        "abstencao": 73
       }
     }
   },
-  "finalVotesCounted": 293,
+  "finalVotesCounted": 296,
   "totalInitiatives": 2358,
   "sources": [
     {
