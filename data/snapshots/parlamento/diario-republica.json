@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-10-30T13:17:35.293Z",
+  "importedAt": "2026-10-31T12:56:00.997Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
     {
@@ -45,6 +45,17 @@
       "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/160-2026-1189018883",
       "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21100/0000500005.pdf",
       "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Portaria n.º 471-A/2026/1",
+      "actType": "Portaria",
+      "number": "471-A/2026/1",
+      "diarioDate": "2026-10-30",
+      "issuer": "Finanças e Ambiente e Energia",
+      "summary": "Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/471-a-2026-1189982544",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/10/21101/0000200003.pdf",
+      "firstSeen": "2026-10-31"
     },
     {
       "title": "Resolução da Assembleia da República n.º 283/2026",
