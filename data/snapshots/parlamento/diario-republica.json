@@ -1,7 +1,139 @@
 {
-  "importedAt": "2026-11-01T13:41:19.028Z",
+  "importedAt": "2026-11-02T16:25:55.275Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto-Lei n.º 207/2026",
+      "actType": "Decreto-Lei",
+      "number": "207/2026",
+      "diarioDate": "2026-11-02",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera a orgânica de diversos serviços e entidades da Administração Pública.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0000500016.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Portaria n.º 472/2026/1",
+      "actType": "Portaria",
+      "number": "472/2026/1",
+      "diarioDate": "2026-11-02",
+      "issuer": "Ambiente e Energia",
+      "summary": "Fixa o perímetro de proteção da exploração de água mineral natural da exploração denominada «Caldas de Chaves», sita no concelho de Chaves.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/472-2026-1190056901",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0002400026.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Portaria n.º 473/2026/1",
+      "actType": "Portaria",
+      "number": "473/2026/1",
+      "diarioDate": "2026-11-02",
+      "issuer": "Ambiente e Energia",
+      "summary": "Fixa o perímetro de proteção da exploração de água mineral natural da exploração denominada «Termas das Gaeiras», localizada em Óbidos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/473-2026-1190056902",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0002700029.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Portaria n.º 474/2026/1",
+      "actType": "Portaria",
+      "number": "474/2026/1",
+      "diarioDate": "2026-11-02",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação do perímetro de proteção da captação de águas subterrâneas designada por «Furo Antas» do polo de captação de Rubiães-Antas, localizada no concelho de Paredes de Coura.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/474-2026-1190056903",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0003000033.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Portaria n.º 475/2026/1",
+      "actType": "Portaria",
+      "number": "475/2026/1",
+      "diarioDate": "2026-11-02",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção das captações designadas por «Póvoa S. Miguel ― Furo» e «Santo Aleixo/Corredoura II ― Furo», localizadas no concelho de Moura.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/475-2026-1190056904",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0003400037.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Portaria n.º 476/2026/1",
+      "actType": "Portaria",
+      "number": "476/2026/1",
+      "diarioDate": "2026-11-02",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção da captação de águas subterrâneas designada por «V. Vargo/Ferrarias ― Furo 3», localizada no concelho de Serpa.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/476-2026-1190056905",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0003800040.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Portaria n.º 477/2026/1",
+      "actType": "Portaria",
+      "number": "477/2026/1",
+      "diarioDate": "2026-11-02",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação do perímetro de proteção da captação designada por «S. B. Via Glória/ SSC2 – Furo», localizada no concelho de Mértola.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/477-2026-1190056906",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0004100044.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 285/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "285/2026",
+      "diarioDate": "2026-11-02",
+      "issuer": null,
+      "summary": "Assembleia da República Suspensão do prazo de funcionamento da Comissão Parlamentar de Inquérito relativa às decisões, contratações e responsabilidades na conceção e execução da classificação digital dos exames nacionais de 2025/2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/285-2026-1190056895",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0000300003.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 286/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "286/2026",
+      "diarioDate": "2026-11-02",
+      "issuer": null,
+      "summary": "Assembleia da República Suspensão do prazo de funcionamento da Comissão Parlamentar de Inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/286-2026-1190056896",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0000400004.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 210/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "210/2026",
+      "diarioDate": "2026-11-02",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza o Exército a assumir o encargo plurianual e a realizar a respetiva despesa com a modernização do Sistema de Armas Carro de Combate Leopard 2A6.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/210-2026-1190056898",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0001700019.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 211/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "211/2026",
+      "diarioDate": "2026-11-02",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera a Resolução do Conselho de Ministros n.º 197/2025, de 16 de dezembro, relativa ao fornecimento contínuo de combustíveis operacionais para os anos de 2026, 2027 e 2028.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/211-2026-1190056899",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0002000021.pdf",
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 212/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "212/2026",
+      "diarioDate": "2026-11-02",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Nomeia o diretor e a subdiretora do Centro Jurídico do Estado.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/212-2026-1190056900",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21200/0002200023.pdf",
+      "firstSeen": "2026-11-02"
+    },
     {
       "title": "Decreto do Presidente da República n.º 157/2026",
       "actType": "Decreto do Presidente da República",
