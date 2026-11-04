@@ -1,7 +1,95 @@
 {
-  "importedAt": "2026-11-03T14:32:31.353Z",
+  "importedAt": "2026-11-04T14:47:08.133Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Aviso n.º 85/2026/1",
+      "actType": "Aviso",
+      "number": "85/2026/1",
+      "diarioDate": "2026-11-04",
+      "issuer": "Negócios Estrangeiros",
+      "summary": "Torna pública a aprovação do Acordo entre a República Portuguesa e a Mongólia sobre Supressão de Vistos para Titulares de Passaportes Diplomáticos, Oficiais ou Especiais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/aviso/85-2026-1190825217",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0001300013.pdf",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "Decreto-Lei n.º 211/2026",
+      "actType": "Decreto-Lei",
+      "number": "211/2026",
+      "diarioDate": "2026-11-04",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera o Decreto-Lei n.º 126/2017, de 4 de outubro, que aprova o Sistema Braille em Portugal.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2026-1190825213",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0000300004.pdf",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "Decreto-Lei n.º 212/2026",
+      "actType": "Decreto-Lei",
+      "number": "212/2026",
+      "diarioDate": "2026-11-04",
+      "issuer": null,
+      "summary": "Presidência do Conselho de Ministros No uso da autorização legislativa concedida pela Lei n.º 64-B/2026, de 22 de outubro, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, reduzindo as taxas gerais aplicáveis aos primeiros seis escalões de rendimento coletável.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2026-1190825214",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0000500006.pdf",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "Portaria n.º 492/2026/1",
+      "actType": "Portaria",
+      "number": "492/2026/1",
+      "diarioDate": "2026-11-04",
+      "issuer": "Finanças e Agricultura e Mar",
+      "summary": "Procede à primeira alteração à Portaria n.º 433/2026/1, de 21 de setembro, que cria a «Linha de Tesouraria ― Setor Vinícola II».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/492-2026-1190825218",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0001400015.pdf",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "Portaria n.º 493/2026/1",
+      "actType": "Portaria",
+      "number": "493/2026/1",
+      "diarioDate": "2026-11-04",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção das captações designadas por «Algodor/ AR3 ― Furo», «Alcaria Ruiva ― Furo 1» e «Penilhos/ SJC6 ― Furo», localizadas no concelho de Mértola.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/493-2026-1190825219",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0001600019.pdf",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "Portaria n.º 494/2026/1",
+      "actType": "Portaria",
+      "number": "494/2026/1",
+      "diarioDate": "2026-11-04",
+      "issuer": "Cultura, Juventude e Desporto",
+      "summary": "Aprova a lista de substâncias e métodos proibidos a partir de 1 de janeiro de 2027.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/494-2026-1190825220",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0002000035.pdf",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 214/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "214/2026",
+      "diarioDate": "2026-11-04",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Designa o presidente e um vogal do conselho diretivo da Agência para a Integração, Migrações e Asilo, I. P.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/214-2026-1190825215",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0000700008.pdf",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 215/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "215/2026",
+      "diarioDate": "2026-11-04",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Designa o conselho diretivo do Instituto de Educação, Qualidade e Avaliação, I. P.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/215-2026-1190825216",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21400/0000900012.pdf",
+      "firstSeen": "2026-11-04"
+    },
     {
       "title": "Declaração de Retificação n.º 39-A/2026/1",
       "actType": "Declaração de Retificação",

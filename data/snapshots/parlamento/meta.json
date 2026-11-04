@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-11-03T14:32:56.547Z",
+  "importedAt": "2026-11-04T14:47:32.997Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-11-02",
+  "sourceUpdatedUpTo": "2026-11-03",
   "parties": [
     {
       "acronym": "PSD",
@@ -97,6 +97,14 @@
         "abstencao": 75
       }
     },
+    "L": {
+      "authored": 305,
+      "finalVotes": {
+        "favor": 205,
+        "contra": 38,
+        "abstencao": 52
+      }
+    },
     "PCP": {
       "authored": 257,
       "finalVotes": {
@@ -113,22 +121,6 @@
         "abstencao": 40
       }
     },
-    "PS": {
-      "authored": 229,
-      "finalVotes": {
-        "favor": 235,
-        "contra": 21,
-        "abstencao": 39
-      }
-    },
-    "L": {
-      "authored": 305,
-      "finalVotes": {
-        "favor": 205,
-        "contra": 38,
-        "abstencao": 52
-      }
-    },
     "PAN": {
       "authored": 310,
       "finalVotes": {
@@ -143,6 +135,14 @@
         "favor": 257,
         "contra": 9,
         "abstencao": 27
+      }
+    },
+    "PS": {
+      "authored": 229,
+      "finalVotes": {
+        "favor": 235,
+        "contra": 21,
+        "abstencao": 39
       }
     }
   },
