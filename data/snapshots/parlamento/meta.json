@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-11-04T14:47:32.997Z",
+  "importedAt": "2026-11-05T14:52:03.378Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
   "sourceUpdatedUpTo": "2026-11-03",
@@ -73,14 +73,6 @@
         "abstencao": 76
       }
     },
-    "CDS-PP": {
-      "authored": 90,
-      "finalVotes": {
-        "favor": 167,
-        "contra": 52,
-        "abstencao": 76
-      }
-    },
     "CH": {
       "authored": 480,
       "finalVotes": {
@@ -89,12 +81,20 @@
         "abstencao": 33
       }
     },
-    "IL": {
-      "authored": 152,
+    "CDS-PP": {
+      "authored": 90,
       "finalVotes": {
-        "favor": 194,
-        "contra": 26,
-        "abstencao": 75
+        "favor": 167,
+        "contra": 52,
+        "abstencao": 76
+      }
+    },
+    "PS": {
+      "authored": 229,
+      "finalVotes": {
+        "favor": 235,
+        "contra": 21,
+        "abstencao": 39
       }
     },
     "L": {
@@ -137,12 +137,12 @@
         "abstencao": 27
       }
     },
-    "PS": {
-      "authored": 229,
+    "IL": {
+      "authored": 152,
       "finalVotes": {
-        "favor": 235,
-        "contra": 21,
-        "abstencao": 39
+        "favor": 194,
+        "contra": 26,
+        "abstencao": 75
       }
     }
   },

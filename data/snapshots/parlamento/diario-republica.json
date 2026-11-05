@@ -1,7 +1,51 @@
 {
-  "importedAt": "2026-11-04T14:47:08.133Z",
+  "importedAt": "2026-11-05T14:51:38.517Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto do Presidente da República n.º 161/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "161/2026",
+      "diarioDate": "2026-11-05",
+      "issuer": "Presidência da República",
+      "summary": "Homologa a promoção ao posto de Comodoro do Comodoro Graduado, da classe da Marinha, César Manuel Pires Correia.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/161-2026-1191346237",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21500/0000200002.pdf",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "Decreto Legislativo Regional n.º 17/2026/M",
+      "actType": "Decreto Legislativo Regional",
+      "number": "17/2026/M",
+      "diarioDate": "2026-11-05",
+      "issuer": "Região Autónoma da Madeira - Assembleia Legislativa",
+      "summary": "Altera as taxas do imposto sobre o rendimento das pessoas singulares aplicáveis aos residentes na Região Autónoma da Madeira, estabelecidas pelo Decreto Legislativo Regional n.º 3/2001/M, de 22 de fevereiro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2026-1191346240",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21500/0002400025.pdf",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "Decreto-Lei n.º 213/2026",
+      "actType": "Decreto-Lei",
+      "number": "213/2026",
+      "diarioDate": "2026-11-05",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Cria um regime complementar de apoio extraordinário e temporário aos operadores de transporte rodoviário de mercadorias por conta de outrem e aos operadores de transporte público rodoviário de passageiros.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2026-1191346239",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21500/0001700023.pdf",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "Lei n.º 65/2026",
+      "actType": "Lei",
+      "number": "65/2026",
+      "diarioDate": "2026-11-05",
+      "issuer": "Assembleia da República",
+      "summary": "Altera o Código do Imposto sobre o Valor Acrescentado e o Código dos Impostos Especiais de Consumo, alargando o âmbito de aplicação do regime de tributação aplicável aos revendedores dos combustíveis líquidos, e o Decreto-Lei n.º 31/2006, de 15 de fevereiro, reforçando a rastreabilidade, a certificação e o controlo das atividades do Sistema Petrolífero Nacional.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21500/0000300016.pdf",
+      "firstSeen": "2026-11-05"
+    },
     {
       "title": "Aviso n.º 85/2026/1",
       "actType": "Aviso",
