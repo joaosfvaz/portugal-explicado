@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-11-05T14:51:38.517Z",
+  "importedAt": "2026-11-06T14:29:35.225Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto-Lei n.º 214/2026",
+      "actType": "Decreto-Lei",
+      "number": "214/2026",
+      "diarioDate": "2026-11-06",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Estabelece o regime jurídico dos graus académicos e dos diplomas do ensino superior.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21600/0000200040.pdf",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "Portaria n.º 495/2026/1",
+      "actType": "Portaria",
+      "number": "495/2026/1",
+      "diarioDate": "2026-11-06",
+      "issuer": "Justiça",
+      "summary": "Altera as Portarias n.os 1386/2004, de 10 de novembro, e 10/2008, de 3 de janeiro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/495-2026-1192107481",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21600/0004100048.pdf",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "Portaria n.º 496/2026/1",
+      "actType": "Portaria",
+      "number": "496/2026/1",
+      "diarioDate": "2026-11-06",
+      "issuer": "Agricultura e Mar",
+      "summary": "Terceira alteração à Portaria n.º 247/2025/1, de 30 de maio, que estabelece o regime específico da tipologia D.1.1.1, «Implementação das estratégias», integrada na intervenção D.1.1, «Estratégias de desenvolvimento local», do domínio D.1, «Desenvolvimento local de base comunitária», do eixo D, «Abordagem territorial integrada», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal).",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/496-2026-1192107482",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21600/0004900055.pdf",
+      "firstSeen": "2026-11-06"
+    },
     {
       "title": "Decreto do Presidente da República n.º 161/2026",
       "actType": "Decreto do Presidente da República",
