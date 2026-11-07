@@ -1,7 +1,18 @@
 {
-  "importedAt": "2026-11-06T14:29:35.225Z",
+  "importedAt": "2026-11-07T13:24:14.891Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Declaração de Retificação n.º 1-A/2026/A/1",
+      "actType": "Declaração de Retificação",
+      "number": "1-A/2026/A/1",
+      "diarioDate": "2026-11-06",
+      "issuer": "Região Autónoma dos Açores - Presidência do Governo Regional",
+      "summary": "Retifica o Decreto Regulamentar Regional n.º 20/2026/A, de 7 de setembro, publicado no Diário da República, 1.ª série, n.º 173, de 7 de setembro de 2026, que regulamenta a atribuição de material clínico, e de apoios específicos na prestação de cuidados aos indivíduos diagnosticados com a doença de Machado-Joseph.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-a-2026-1192521456",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21602/0000200002.pdf",
+      "firstSeen": "2026-11-07"
+    },
     {
       "title": "Decreto-Lei n.º 214/2026",
       "actType": "Decreto-Lei",
@@ -23,6 +34,17 @@
       "url": "https://diariodarepublica.pt/dr/detalhe/portaria/495-2026-1192107481",
       "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21600/0004100048.pdf",
       "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "Portaria n.º 496-A/2026/1",
+      "actType": "Portaria",
+      "number": "496-A/2026/1",
+      "diarioDate": "2026-11-06",
+      "issuer": "Finanças e Ambiente e Energia",
+      "summary": "Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2026-1192521445",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21601/0000200003.pdf",
+      "firstSeen": "2026-11-07"
     },
     {
       "title": "Portaria n.º 496/2026/1",
