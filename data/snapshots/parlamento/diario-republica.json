@@ -1,7 +1,95 @@
 {
-  "importedAt": "2026-11-09T16:44:08.143Z",
+  "importedAt": "2026-11-10T15:07:31.372Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto Regulamentar Regional n.º 23/2026/A",
+      "actType": "Decreto Regulamentar Regional",
+      "number": "23/2026/A",
+      "diarioDate": "2026-11-10",
+      "issuer": "Região Autónoma dos Açores - Presidência do Governo Regional",
+      "summary": "Aprova a orgânica e o quadro de pessoal dirigente e de chefia do Serviço Regional de Proteção Civil e Bombeiros dos Açores.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0010000140.pdf",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "Portaria n.º 497/2026/1",
+      "actType": "Portaria",
+      "number": "497/2026/1",
+      "diarioDate": "2026-11-10",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção da captação designada por «SL1 Estreito», localizada no concelho de Ourém.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/497-2026-1193730362",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0009400099.pdf",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 216/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "216/2026",
+      "diarioDate": "2026-11-10",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza a Força Aérea a assumir o encargo plurianual e a realizar a respetiva despesa com a aquisição de um sistema radar móvel de longo alcance.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/216-2026-1193730356",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0000200003.pdf",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 217/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "217/2026",
+      "diarioDate": "2026-11-10",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova o Programa Nacional de Controlo de Poluição Atmosférica.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/217-2026-1193730357",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0000400082.pdf",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 218/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "218/2026",
+      "diarioDate": "2026-11-10",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Altera a Resolução do Conselho de Ministros n.º 77/2019, de 2 de maio, que aprova o Programa de Investimentos na Área da Saúde e autoriza a respetiva despesa.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/218-2026-1193730358",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0008300084.pdf",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 219/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "219/2026",
+      "diarioDate": "2026-11-10",
+      "issuer": null,
+      "summary": "Presidência do Conselho de Ministros Atribui apoios financeiros ao setor agrícola para mitigação dos efeitos do aumento dos custos de produção.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/219-2026-1193730359",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0008500089.pdf",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 220/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "220/2026",
+      "diarioDate": "2026-11-10",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza o conselho diretivo do Instituto da Segurança Social, I. P., a realizar a despesa e a assumir os encargos plurianuais relativos à aquisição de serviços postais para os anos de 2027, 2028 e 2029.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/220-2026-1193730360",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0009000091.pdf",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 221/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "221/2026",
+      "diarioDate": "2026-11-10",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza o reescalonamento dos encargos plurianuais decorrentes da empreitada de requalificação do novo edifício do Departamento de Investigação Criminal de Braga.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/221-2026-1193730361",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21800/0009200093.pdf",
+      "firstSeen": "2026-11-10"
+    },
     {
       "title": "Decreto Legislativo Regional n.º 19/2026/A",
       "actType": "Decreto Legislativo Regional",
