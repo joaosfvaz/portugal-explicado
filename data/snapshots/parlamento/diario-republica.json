@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-11-10T15:07:31.372Z",
+  "importedAt": "2026-11-11T14:38:04.811Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Declaração de Retificação n.º 40/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "40/2026/1",
+      "diarioDate": "2026-11-11",
+      "issuer": "Assembleia da República",
+      "summary": "Retifica a Resolução da Assembleia da República n.º 256/2026, de 8 de outubro, que aprova o Orçamento da Assembleia da República para 2027.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2026-1194495724",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21900/0000200003.pdf",
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "title": "Decreto-Lei n.º 215/2026",
+      "actType": "Decreto-Lei",
+      "number": "215/2026",
+      "diarioDate": "2026-11-11",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova o Regulamento dos sistemas integrados de transporte ferroviário de passageiros em metropolitano, metropolitano ligeiro, linha ou rede ferroviária isolada, elétricos e comboios ligeiros turísticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21900/0000400061.pdf",
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 222/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "222/2026",
+      "diarioDate": "2026-11-11",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Autoriza o conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., a realizar a despesa e a assumir os encargos plurianuais relativos à aquisição de serviços de emissão de vale postal para pagamento de prestações familiares, diferidas e sociais, nos anos económicos de 2026, 2027, 2028 e 2029.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/222-2026-1194495726",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/21900/0006200063.pdf",
+      "firstSeen": "2026-11-11"
+    },
     {
       "title": "Decreto Regulamentar Regional n.º 23/2026/A",
       "actType": "Decreto Regulamentar Regional",
