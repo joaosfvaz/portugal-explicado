@@ -1,7 +1,51 @@
 {
-  "importedAt": "2026-11-11T14:38:04.811Z",
+  "importedAt": "2026-11-12T15:30:09.205Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto do Presidente da República n.º 162/2026",
+      "actType": "Decreto do Presidente da República",
+      "number": "162/2026",
+      "diarioDate": "2026-11-12",
+      "issuer": "Presidência da República",
+      "summary": "Nomeia a ministra plenipotenciária de 2.ª classe Carmen Bagulho Silvestre como Embaixadora de Portugal não residente no Líbano.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/162-2026-1194527661",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22000/0000200002.pdf",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "title": "Portaria n.º 498/2026/1",
+      "actType": "Portaria",
+      "number": "498/2026/1",
+      "diarioDate": "2026-11-12",
+      "issuer": null,
+      "summary": "Finanças A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), fica autorizada, no âmbito do Plano de Emissões de Moedas de Coleção para 2026, a cunhar e a comercializar uma moeda de coleção designada «Portugal. 40 Anos União Europeia».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/498-2026-1194527662",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22000/0000300004.pdf",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "title": "Portaria n.º 499-A/2026/1",
+      "actType": "Portaria",
+      "number": "499-A/2026/1",
+      "diarioDate": "2026-11-12",
+      "issuer": "Ambiente e Energia",
+      "summary": "Procede à primeira alteração à Portaria n.º 433-A/2026/1, de 21 de setembro, que define as regras procedimentais, os elementos instrutórios, os formulários, os prazos operacionais e os fluxos de tramitação aplicáveis aos procedimentos de gestão dinâmica da capacidade de injeção na RESP previstos no Decreto-Lei n.º 100/2026, de 22 de maio.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/499-a-2026-1194943497",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22001/0000200002.pdf",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "title": "Portaria n.º 499/2026/1",
+      "actType": "Portaria",
+      "number": "499/2026/1",
+      "diarioDate": "2026-11-12",
+      "issuer": "Agricultura e Mar",
+      "summary": "Estabelece a representação cartográfica e a descrição da Região Demarcada do Douro, incluindo o entreposto de Vila Nova de Gaia.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/499-2026-1194527663",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22000/0000500008.pdf",
+      "firstSeen": "2026-11-12"
+    },
     {
       "title": "Declaração de Retificação n.º 40/2026/1",
       "actType": "Declaração de Retificação",
