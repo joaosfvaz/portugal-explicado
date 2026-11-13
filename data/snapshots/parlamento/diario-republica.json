@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-11-12T15:30:09.205Z",
+  "importedAt": "2026-11-13T14:47:45.167Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 500/2026/1",
+      "actType": "Portaria",
+      "number": "500/2026/1",
+      "diarioDate": "2026-11-13",
+      "issuer": "Presidência do Conselho de Ministros e Justiça",
+      "summary": "Regula o registo predial do ónus de sujeição a autorização para a transmissão de imóveis afetos a arrendamento no âmbito de um contrato de investimento para arrendamento (CIA), nos termos previstos no artigo 9.º do anexo I ao Decreto-Lei n.º 97/2026, de 20 de maio.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/500-2026-1194943528",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22100/0000200004.pdf",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "Portaria n.º 501/2026/1",
+      "actType": "Portaria",
+      "number": "501/2026/1",
+      "diarioDate": "2026-11-13",
+      "issuer": "Finanças",
+      "summary": "Aprova a estrutura nuclear do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/501-2026-1194943529",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22100/0000500017.pdf",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 38/2026/A",
+      "actType": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores",
+      "number": "38/2026/A",
+      "diarioDate": "2026-11-13",
+      "issuer": null,
+      "summary": "Região Autónoma dos Açores - Assembleia Legislativa Pronúncia por iniciativa própria da Assembleia Legislativa da Região Autónoma dos Açores sobre o Quadro Financeiro Plurianual da União Europeia para 2028-2034 e a salvaguarda do estatuto de ultraperiferia dos Açores.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/38-2026-1194943530",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22100/0001800019.pdf",
+      "firstSeen": "2026-11-13"
+    },
     {
       "title": "Decreto do Presidente da República n.º 162/2026",
       "actType": "Decreto do Presidente da República",
