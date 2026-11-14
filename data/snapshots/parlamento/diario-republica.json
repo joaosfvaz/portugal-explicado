@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-11-13T14:47:45.167Z",
+  "importedAt": "2026-11-14T13:43:36.236Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
     {
@@ -12,6 +12,17 @@
       "url": "https://diariodarepublica.pt/dr/detalhe/portaria/500-2026-1194943528",
       "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22100/0000200004.pdf",
       "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "Portaria n.º 501-A/2026/1",
+      "actType": "Portaria",
+      "number": "501-A/2026/1",
+      "diarioDate": "2026-11-13",
+      "issuer": "Finanças e Ambiente e Energia",
+      "summary": "Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/501-a-2026-1195517590",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22101/0000200003.pdf",
+      "firstSeen": "2026-11-14"
     },
     {
       "title": "Portaria n.º 501/2026/1",
