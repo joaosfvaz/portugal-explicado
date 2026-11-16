@@ -1,7 +1,51 @@
 {
-  "importedAt": "2026-11-15T14:11:51.809Z",
+  "importedAt": "2026-11-16T16:14:31.528Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Acórdão do Supremo Tribunal de Justiça n.º 7/2026",
+      "actType": "Acórdão do Supremo Tribunal de Justiça",
+      "number": "7/2026",
+      "diarioDate": "2026-11-16",
+      "issuer": null,
+      "summary": "Supremo Tribunal de Justiça «O ofendido que não se constituiu assistente até cinco dias antes do debate instrutório [nos termos do disposto na alínea a) do n.º 3 do artigo 68.º do Código de Processo Penal] pode, depois de proferida decisão de não pronúncia, requerer a sua constituição como assistente no prazo de interposição de recurso desta decisão».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2026-1194586766",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22200/0000900032.pdf",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "title": "Lei n.º 66/2026",
+      "actType": "Lei",
+      "number": "66/2026",
+      "diarioDate": "2026-11-16",
+      "issuer": "Assembleia da República",
+      "summary": "Estabelece um regime excecional de reposicionamento e correção das situações de ultrapassagem na carreira dos educadores de infância e dos professores dos ensinos básico e secundário.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/66-2026-1194586763",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22200/0000200004.pdf",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "title": "Lei n.º 67/2026",
+      "actType": "Lei",
+      "number": "67/2026",
+      "diarioDate": "2026-11-16",
+      "issuer": null,
+      "summary": "Assembleia da República Aumenta a dedução à coleta de imposto sobre o rendimento de pessoas singulares, duplicando o acréscimo a partir do terceiro dependente, alterando o Código do Imposto sobre o Rendimento das Pessoas Singulares.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/67-2026-1194586764",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22200/0000500006.pdf",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "title": "Lei n.º 68/2026",
+      "actType": "Lei",
+      "number": "68/2026",
+      "diarioDate": "2026-11-16",
+      "issuer": "Assembleia da República",
+      "summary": "Reforça o complemento garantia para a infância, assegurando a aplicação das majorações previstas nas deduções por dependentes em sede de imposto sobre o rendimento das pessoas singulares, alterando a Lei n.º 12/2022, de 27 de junho.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/68-2026-1194586765",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22200/0000700008.pdf",
+      "firstSeen": "2026-11-16"
+    },
     {
       "title": "Portaria n.º 500/2026/1",
       "actType": "Portaria",
