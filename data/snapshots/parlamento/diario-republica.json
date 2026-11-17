@@ -1,7 +1,29 @@
 {
-  "importedAt": "2026-11-16T16:14:31.528Z",
+  "importedAt": "2026-11-17T16:20:40.887Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Decreto Legislativo Regional n.º 18/2026/M",
+      "actType": "Decreto Legislativo Regional",
+      "number": "18/2026/M",
+      "diarioDate": "2026-11-17",
+      "issuer": null,
+      "summary": "Região Autónoma da Madeira - Assembleia Legislativa Regime da atribuição da medalha de mérito de emergência e proteção civil da Região Autónoma da Madeira.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2026-1195884688",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22300/0000400010.pdf",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "title": "Portaria n.º 502/2026/1",
+      "actType": "Portaria",
+      "number": "502/2026/1",
+      "diarioDate": "2026-11-17",
+      "issuer": null,
+      "summary": "Ambiente e Energia Divulga a lista dos municípios integrados no sistema multimunicipal de abastecimento de água do sul do Grande Porto.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/502-2026-1195884687",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22300/0000200003.pdf",
+      "firstSeen": "2026-11-17"
+    },
     {
       "title": "Acórdão do Supremo Tribunal de Justiça n.º 7/2026",
       "actType": "Acórdão do Supremo Tribunal de Justiça",
