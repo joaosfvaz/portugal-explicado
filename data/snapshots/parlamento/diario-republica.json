@@ -1,7 +1,62 @@
 {
-  "importedAt": "2026-11-17T16:20:40.887Z",
+  "importedAt": "2026-11-18T15:54:05.061Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Lei n.º 69/2026",
+      "actType": "Lei",
+      "number": "69/2026",
+      "diarioDate": "2026-11-18",
+      "issuer": "Assembleia da República",
+      "summary": "Aprova a Lei das Grandes Opções para 2026-2029, alterando a Lei n.º 73-B/2025, de 31 de dezembro.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/69-2026-1195884748",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22400/0000200050.pdf",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "Portaria n.º 503/2026/1",
+      "actType": "Portaria",
+      "number": "503/2026/1",
+      "diarioDate": "2026-11-18",
+      "issuer": "Defesa Nacional, Administração Interna e Educação, Ciência e Inovação",
+      "summary": "Altera a Portaria n.º 288/2019, de 3 de setembro, que regula o regime de atribuição do nível 5 de qualificação ― Curso de Formação de Sargentos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/503-2026-1195884751",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22400/0019800199.pdf",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "Portaria n.º 504/2026/1",
+      "actType": "Portaria",
+      "number": "504/2026/1",
+      "diarioDate": "2026-11-18",
+      "issuer": "Saúde",
+      "summary": "Define os países de referência a considerar em 2027 para efeitos de formação e revisão anual dos preços máximos dos medicamentos e estabelece critérios excecionais aplicáveis à atualização e à revisão anual de preços para 2027.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/504-2026-1195884752",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22400/0020000202.pdf",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 223/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "223/2026",
+      "diarioDate": "2026-11-18",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova o plano de desenvolvimento e investimento da rede nacional de distribuição de eletricidade em alta e média tensão, relativo ao período de 2026 a 2030.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/223-2026-1195884749",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22400/0005100175.pdf",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "Resolução do Conselho de Ministros n.º 224/2026",
+      "actType": "Resolução do Conselho de Ministros",
+      "number": "224/2026",
+      "diarioDate": "2026-11-18",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Ratifica a deliberação da Assembleia Municipal de Loulé, de 24 de março de 2024, que aprovou a criação da Polícia Municipal de Loulé e o respetivo Regulamento de Organização e Funcionamento.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/224-2026-1195884750",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22400/0017600197.pdf",
+      "firstSeen": "2026-11-18"
+    },
     {
       "title": "Decreto Legislativo Regional n.º 18/2026/M",
       "actType": "Decreto Legislativo Regional",
