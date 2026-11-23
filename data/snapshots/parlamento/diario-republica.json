@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-11-22T14:47:08.309Z",
+  "importedAt": "2026-11-23T18:35:31.137Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Lei n.º 70/2026",
+      "actType": "Lei",
+      "number": "70/2026",
+      "diarioDate": "2026-11-23",
+      "issuer": "Assembleia da República",
+      "summary": "Altera o Regime Jurídico das Autarquias Locais, em matéria de publicidade das deliberações.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/70-2026-1196996209",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22700/0000200004.pdf",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "Portaria n.º 528/2026/1",
+      "actType": "Portaria",
+      "number": "528/2026/1",
+      "diarioDate": "2026-11-23",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Aprova os anexos III e IV a que se refere o artigo 20.º-C do Decreto-Lei n.º 41-A/2010, de 29 de abril, na sua redação atual, relativos, respetivamente, à identificação das autoridades e dos organismos competentes para a execução das disposições aplicáveis ao transporte de mercadorias perigosas por estrada e por caminho de ferro e à lista de controlo aplicável ao transporte rodoviário de mercadorias perigosas.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/528-2026-1196996210",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22700/0000500010.pdf",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "Portaria n.º 529/2026/1",
+      "actType": "Portaria",
+      "number": "529/2026/1",
+      "diarioDate": "2026-11-23",
+      "issuer": "Presidência do Conselho de Ministros e Finanças",
+      "summary": "Fixa o valor das tarifas devidas pela realização das inspeções técnicas de veículos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/529-2026-1196996211",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22700/0001100013.pdf",
+      "firstSeen": "2026-11-23"
+    },
     {
       "title": "Decreto Legislativo Regional n.º 20/2026/A",
       "actType": "Decreto Legislativo Regional",
