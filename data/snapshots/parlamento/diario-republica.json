@@ -1,7 +1,40 @@
 {
-  "importedAt": "2026-11-23T18:35:31.137Z",
+  "importedAt": "2026-11-24T18:04:14.050Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Portaria n.º 530/2026/1",
+      "actType": "Portaria",
+      "number": "530/2026/1",
+      "diarioDate": "2026-11-24",
+      "issuer": "Presidência do Conselho de Ministros, Finanças e Administração Interna",
+      "summary": "Procede à sétima alteração à Portaria n.º 77-B/2014, de 1 de abril, que fixa o valor das taxas de segurança a cobrar nos aeroportos da rede ANA e nos restantes aeródromos e aeroportos.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/530-2026-1197651190",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22800/0000300004.pdf",
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "title": "Portaria n.º 531/2026/1",
+      "actType": "Portaria",
+      "number": "531/2026/1",
+      "diarioDate": "2026-11-24",
+      "issuer": "Finanças e Trabalho, Solidariedade e Segurança Social",
+      "summary": "Procede à alteração do Regulamento do Fundo de Socorro Social, aprovado em anexo à Portaria n.º 428/2012, de 31 de dezembro, alterada pela Portaria n.º 183/2016, de 11 de julho.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/531-2026-1197651191",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22800/0000500007.pdf",
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "title": "Resolução da Assembleia da República n.º 290/2026",
+      "actType": "Resolução da Assembleia da República",
+      "number": "290/2026",
+      "diarioDate": "2026-11-24",
+      "issuer": "Assembleia da República",
+      "summary": "Recomenda ao Governo que assegure a execução, na ordem jurídica interna, do Regulamento (UE) 2026/1386, relativo à análise dos investimentos estrangeiros na União Europeia.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/290-2026-1197651189",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/22800/0000200002.pdf",
+      "firstSeen": "2026-11-24"
+    },
     {
       "title": "Lei n.º 70/2026",
       "actType": "Lei",
