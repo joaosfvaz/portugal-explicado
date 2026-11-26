@@ -1,8 +1,8 @@
 {
-  "importedAt": "2026-11-25T17:30:30.699Z",
+  "importedAt": "2026-11-26T17:12:02.860Z",
   "legislature": "XVII",
   "legislatureStart": "2025-06-03",
-  "sourceUpdatedUpTo": "2026-11-24",
+  "sourceUpdatedUpTo": "2026-11-25",
   "parties": [
     {
       "acronym": "PSD",
@@ -65,54 +65,6 @@
     "nao-admitida": 5
   },
   "partyStats": {
-    "PSD": {
-      "authored": 88,
-      "finalVotes": {
-        "favor": 159,
-        "contra": 61,
-        "abstencao": 76
-      }
-    },
-    "CDS-PP": {
-      "authored": 90,
-      "finalVotes": {
-        "favor": 168,
-        "contra": 52,
-        "abstencao": 76
-      }
-    },
-    "CH": {
-      "authored": 480,
-      "finalVotes": {
-        "favor": 243,
-        "contra": 20,
-        "abstencao": 33
-      }
-    },
-    "IL": {
-      "authored": 154,
-      "finalVotes": {
-        "favor": 194,
-        "contra": 27,
-        "abstencao": 75
-      }
-    },
-    "L": {
-      "authored": 305,
-      "finalVotes": {
-        "favor": 205,
-        "contra": 39,
-        "abstencao": 52
-      }
-    },
-    "PCP": {
-      "authored": 258,
-      "finalVotes": {
-        "favor": 116,
-        "contra": 99,
-        "abstencao": 81
-      }
-    },
     "BE": {
       "authored": 214,
       "finalVotes": {
@@ -129,6 +81,22 @@
         "abstencao": 41
       }
     },
+    "JPP": {
+      "authored": 99,
+      "finalVotes": {
+        "favor": 257,
+        "contra": 9,
+        "abstencao": 28
+      }
+    },
+    "IL": {
+      "authored": 154,
+      "finalVotes": {
+        "favor": 194,
+        "contra": 27,
+        "abstencao": 75
+      }
+    },
     "PS": {
       "authored": 229,
       "finalVotes": {
@@ -137,12 +105,44 @@
         "abstencao": 40
       }
     },
-    "JPP": {
-      "authored": 99,
+    "L": {
+      "authored": 305,
       "finalVotes": {
-        "favor": 257,
-        "contra": 9,
-        "abstencao": 28
+        "favor": 205,
+        "contra": 39,
+        "abstencao": 52
+      }
+    },
+    "CH": {
+      "authored": 480,
+      "finalVotes": {
+        "favor": 243,
+        "contra": 20,
+        "abstencao": 33
+      }
+    },
+    "PCP": {
+      "authored": 258,
+      "finalVotes": {
+        "favor": 116,
+        "contra": 99,
+        "abstencao": 81
+      }
+    },
+    "PSD": {
+      "authored": 88,
+      "finalVotes": {
+        "favor": 159,
+        "contra": 61,
+        "abstencao": 76
+      }
+    },
+    "CDS-PP": {
+      "authored": 90,
+      "finalVotes": {
+        "favor": 168,
+        "contra": 52,
+        "abstencao": 76
       }
     }
   },

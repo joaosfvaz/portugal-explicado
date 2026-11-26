@@ -1,7 +1,51 @@
 {
-  "importedAt": "2026-11-25T17:30:02.095Z",
+  "importedAt": "2026-11-26T17:11:35.360Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Declaração de Retificação n.º 41/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "41/2026/1",
+      "diarioDate": "2026-11-26",
+      "issuer": "Presidência do Conselho de Ministros - Secretaria-Geral do Governo",
+      "summary": "Retifica a Resolução do Conselho de Ministros n.º 198/2026, de 14 de outubro, que autoriza a assunção de encargos orçamentais e a realização das despesas inerentes ao fornecimento de combustíveis rodoviários.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/41-2026-1200778175",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23000/0004000040.pdf",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "Decreto-Lei n.º 218/2026",
+      "actType": "Decreto-Lei",
+      "number": "218/2026",
+      "diarioDate": "2026-11-26",
+      "issuer": null,
+      "summary": "Presidência do Conselho de Ministros Reintegra no Instituto Nacional de Estatística, I. P., a produção e difusão das respetivas estatísticas oficiais.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2026-1200665673",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23000/0000200032.pdf",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "Decreto-Lei n.º 219/2026",
+      "actType": "Decreto-Lei",
+      "number": "219/2026",
+      "diarioDate": "2026-11-26",
+      "issuer": "Presidência do Conselho de Ministros",
+      "summary": "Cria o Programa Arquivos Digitais dos Órgãos de Comunicação Social, gerido pela VISAPRESS, e reforça o apoio às rádios afetadas pela tempestade «Kristin».",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2026-1200665674",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23000/0003300039.pdf",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "Portaria n.º 534/2026/1",
+      "actType": "Portaria",
+      "number": "534/2026/1",
+      "diarioDate": "2026-11-26",
+      "issuer": "Ambiente e Energia e Agricultura e Mar",
+      "summary": "Estabelece o regime de aplicação do Programa «Floresta Ativa», destinado a apoiar a gestão e manutenção ativa dos espaços florestais no território continental.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/534-2026-1200778176",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23000/0004100050.pdf",
+      "firstSeen": "2026-11-26"
+    },
     {
       "title": "Acórdão do Supremo Tribunal Administrativo n.º 19/2026",
       "actType": "Acórdão do Supremo Tribunal Administrativo",
