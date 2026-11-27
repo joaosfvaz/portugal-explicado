@@ -1,7 +1,84 @@
 {
-  "importedAt": "2026-11-26T17:11:35.360Z",
+  "importedAt": "2026-11-27T16:54:10.805Z",
   "source": "https://files.diariodarepublica.pt/rss/serie1-html.xml",
   "acts": [
+    {
+      "title": "Declaração de Retificação n.º 42/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "42/2026/1",
+      "diarioDate": "2026-11-27",
+      "issuer": "Assembleia da República",
+      "summary": "Retifica a Declaração n.º 15-A/2026/1, de 14 de outubro, que constitui uma comissão parlamentar de inquérito para avaliação da intervenção de Luís Neves enquanto diretor da Polícia Judiciária durante todos os seus mandatos (2018-2026) e eventual responsabilidade de membros do Governo que o nomearam e tutelaram.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2026-1200412673",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23100/0000200002.pdf",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "Declaração de Retificação n.º 43/2026/1",
+      "actType": "Declaração de Retificação",
+      "number": "43/2026/1",
+      "diarioDate": "2026-11-27",
+      "issuer": "Assembleia da República",
+      "summary": "Retifica a Resolução da Assembleia da República n.º 252/2026, de 6 de outubro, que constitui uma Comissão Parlamentar de Inquérito às decisões, contratações e responsabilidades na conceção e execução da classificação digital dos exames nacionais de 2025 e 2026.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/43-2026-1200412674",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23100/0000300003.pdf",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "Portaria n.º 535/2026/1",
+      "actType": "Portaria",
+      "number": "535/2026/1",
+      "diarioDate": "2026-11-27",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção das captações de águas subterrâneas designadas por «PS1 M», «PS2 M» e «CR1 M» do polo de captação de Moita/Gaio-Rosário/Sarilhos Pequenos, localizadas no concelho da Moita.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/535-2026-1201131375",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23100/0000400011.pdf",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "Portaria n.º 536/2026/1",
+      "actType": "Portaria",
+      "number": "536/2026/1",
+      "diarioDate": "2026-11-27",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção das captações de águas subterrâneas designadas por «PS5 BC» e «CR4 BC» do polo de captação de Barra Cheia, localizadas no concelho da Moita.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/536-2026-1201131376",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23100/0001200018.pdf",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "Portaria n.º 537/2026/1",
+      "actType": "Portaria",
+      "number": "537/2026/1",
+      "diarioDate": "2026-11-27",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção da captação de águas subterrâneas designada por «PS1 P» do polo de captação de Penteado, localizada no concelho da Moita.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/537-2026-1201131377",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23100/0001900025.pdf",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "Portaria n.º 538/2026/1",
+      "actType": "Portaria",
+      "number": "538/2026/1",
+      "diarioDate": "2026-11-27",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção das captações de águas subterrâneas designadas por «PS4 RA» e «CR3 RA» do polo de captação de Rego de Água, localizadas no concelho da Moita.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/538-2026-1201131378",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23100/0002600032.pdf",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "Portaria n.º 539/2026/1",
+      "actType": "Portaria",
+      "number": "539/2026/1",
+      "diarioDate": "2026-11-27",
+      "issuer": "Ambiente e Energia",
+      "summary": "Aprova a delimitação dos perímetros de proteção das captações de águas subterrâneas designadas por «PS1 VP», «PS2 VP», «JK2 VP», «AC1 VP» e «CR2 VP» do polo de captação de Vinha das Pedras, localizadas no concelho da Moita.",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/539-2026-1201131379",
+      "pdfUrl": "https://files.diariodarepublica.pt/1s/2026/11/23100/0003300040.pdf",
+      "firstSeen": "2026-11-27"
+    },
     {
       "title": "Declaração de Retificação n.º 41/2026/1",
       "actType": "Declaração de Retificação",
